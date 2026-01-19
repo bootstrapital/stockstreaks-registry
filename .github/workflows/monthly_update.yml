@@ -19,7 +19,7 @@ jobs:
           python-version: '3.13'
 
       - name: Install Modal
-        run: pip install modal pandas
+        run: pip install -r requirements.txt
 
       - name: Run Modal Job
         env:
