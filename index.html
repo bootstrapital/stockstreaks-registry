@@ -4,6 +4,57 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>StockStreaks Registry | Liquid Universe Manifest</title>
+
+    <meta name="title" content="The Active US Equity Universe | StockStreaks Registry">
+    <meta name="description" content="A programmatically updated manifest of liquid US equities and ETFs. Filtered for institutional-grade volume and standard market cap tiers.">
+    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://registry.stockstreaks.com/">
+    <meta property="og:title" content="The Active US Equity Universe">
+    <meta property="og:description" content="Free, open-source access to the liquid US equity universe. Updated monthly.">
+    <meta property="og:image" content="https://registry.stockstreaks.com/og-image.png">
+    
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="The Active US Equity Universe">
+    <meta property="twitter:description" content="Automated manifest of high-liquidity US tickers. Optimized for developers and researchers.">
+
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "Dataset",
+          "name": "The Active US Equity Universe",
+          "description": "A structural manifest of the liquid US equity universe, filtered for a minimum average daily volume of 500,000 shares across major US exchanges.",
+          "url": "https://registry.stockstreaks.com",
+          "keywords": [
+            "Stock Market Data",
+            "Ticker Registry",
+            "US Equities",
+            "ETF List",
+            "Market Cap Tiers",
+            "Financial Dataset"
+          ],
+          "creator": {
+            "@type": "Organization",
+            "name": "StockStreaks",
+            "url": "https://stockstreaks.com"
+          },
+          "distribution": [
+            {
+              "@type": "DataDownload",
+              "encodingFormat": "application/json",
+              "contentUrl": "https://registry.stockstreaks.com/data/active_tickers.json"
+            },
+            {
+              "@type": "DataDownload",
+              "encodingFormat": "text/csv",
+              "contentUrl": "https://registry.stockstreaks.com/data/active_tickers.csv"
+            }
+          ],
+          "license": "https://opensource.org/licenses/MIT",
+          "isAccessibleForFree": true
+        }
+    </script>
+    
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
