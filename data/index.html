@@ -1,1 +1,95 @@
-<h1>Hello world</h1>
+<!doctype html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Data Index | StockStreaks Registry</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        gray: { 900: "#111827", 950: "#0b0f19" },
+                    },
+                    fontFamily: {
+                        mono: ['"JetBrains Mono"', "monospace"],
+                        sans: ["Inter", "sans-serif"],
+                    },
+                },
+            },
+        };
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet" />
+    <style>
+        body { font-family: "Inter", sans-serif; }
+        .code-font { font-family: "JetBrains Mono", monospace; }
+    </style>
+</head>
+<body class="bg-gray-950 text-gray-300 antialiased min-h-screen flex flex-col">
+
+    <nav class="border-b border-gray-800 bg-gray-950 sticky top-0 z-50">
+        <div class="max-w-5xl mx-auto px-4 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-2">
+                <div class="w-3 h-3 bg-indigo-500 rounded-full"></div>
+                <span class="text-lg font-bold tracking-tight text-white">Stock<span class="text-indigo-500">Streaks</span> Registry</span>
+            </div>
+            <a href="https://github.com/bootstrapital/stockstreaks-registry" class="text-xs text-gray-500 hover:text-white transition">View on GitHub</a>
+        </div>
+    </nav>
+
+    <main class="max-w-5xl mx-auto px-4 py-12 w-full">
+        <header class="mb-12">
+            <h1 class="text-3xl font-bold text-white mb-2">Data Directory</h1>
+            <p class="text-gray-500">Public endpoints for the liquid US equity universe manifest.</p>
+        </header>
+
+        <div class="grid gap-6">
+            <div class="bg-gray-900/50 border border-gray-800 rounded-xl p-6 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+                <div>
+                    <h2 class="text-lg font-semibold text-white">active_tickers.json</h2>
+                    <p class="text-sm text-gray-500">The primary manifest of currently liquid tickers and structural metadata.</p>
+                </div>
+                <div class="flex gap-2">
+                    <a href="./active_tickers.json" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold rounded transition">JSON</a>
+                    <a href="./active_tickers.csv" class="px-4 py-2 bg-gray-800 hover:bg-gray-700 text-white text-xs font-bold rounded transition">CSV</a>
+                </div>
+            </div>
+
+            <div class="bg-gray-900/50 border border-gray-800 rounded-xl p-6 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+                <div>
+                    <h2 class="text-lg font-semibold text-white">changelog.json</h2>
+                    <p class="text-sm text-gray-500">Historical record of universe additions and removals per month.</p>
+                </div>
+                <div class="flex gap-2">
+                    <a href="./changelog.json" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold rounded transition">JSON</a>
+                    <a href="./changelog.csv" class="px-4 py-2 bg-gray-800 hover:bg-gray-700 text-white text-xs font-bold rounded transition">CSV</a>
+                </div>
+            </div>
+
+            <div class="bg-gray-900/50 border border-gray-800 rounded-xl p-6">
+                <h2 class="text-lg font-semibold text-white mb-2">Historical Archive</h2>
+                <p class="text-sm text-gray-500 mb-4">Point-in-time snapshots of the registry universe.</p>
+                <a href="https://github.com/bootstrapital/stockstreaks-registry/tree/main/data/archive" class="text-indigo-400 text-xs font-bold hover:underline">Browse /data/archive/ on GitHub &rarr;</a>
+            </div>
+        </div>
+
+        <section class="mt-16 pt-8 border-t border-gray-800">
+            <h3 class="text-sm font-bold uppercase tracking-widest text-gray-500 mb-4">API Usage</h3>
+            <div class="bg-gray-950 border border-gray-800 rounded-lg p-4 overflow-x-auto">
+                <pre class="code-font text-xs text-indigo-300"><code>fetch('https://registry.stockstreaks.com/data/active_tickers.json')
+  .then(res => res.json())
+  .then(data => console.log(`Active tickers: ${data.length}`));</code></pre>
+            </div>
+        </section>
+    </main>
+
+    <footer class="mt-auto py-8 border-t border-gray-800">
+        <div class="max-w-5xl mx-auto px-4 text-center">
+            <p class="text-[10px] text-gray-600 uppercase tracking-widest">&copy; 2026 StockStreaks</p>
+        </div>
+    </footer>
+
+</body>
+</html>
