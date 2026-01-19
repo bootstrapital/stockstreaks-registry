@@ -1,0 +1,37 @@
+name: Monthly Universe Update
+
+on:
+  schedule:
+    # Runs at 00:00 on the first Saturday of every month
+    - cron: '0 0 1-7 * 6'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  update-registry:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+
+      - name: Install Modal
+        run: pip install modal pandas
+
+      - name: Run Modal Job
+        env:
+          MODAL_TOKEN_ID: ${{ secrets.MODAL_TOKEN_ID }}
+          MODAL_TOKEN_SECRET: ${{ secrets.MODAL_TOKEN_SECRET }}
+        # This triggers the remote execution and downloads files to the runner
+        run: modal run src/main.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "StockStreaks Bot"
+          git add data/
+          git commit -m "Automated Universe Update: $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
