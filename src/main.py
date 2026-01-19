@@ -102,3 +102,14 @@ def main():
     pd.DataFrame(results).to_csv(f"data/archive/universe_{timestamp}.csv", index=False)
 
     print(f"Update complete. Universe: {len(results)} | Added: {len(added)} | Removed: {len(removed)}")
+
+    # Update Sitemap
+    sitemap_content = f"""<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://registry.stockstreaks.com/</loc><lastmod>{timestamp}</lastmod><priority>1.0</priority></url>
+  <url><loc>https://registry.stockstreaks.com/data/</loc><lastmod>{timestamp}</lastmod><priority>0.8</priority></url>
+  <url><loc>https://registry.stockstreaks.com/data/active_tickers.json</loc><lastmod>{timestamp}</lastmod><priority>0.9</priority></url>
+  <url><loc>https://registry.stockstreaks.com/data/changelog.json</loc><lastmod>{timestamp}</lastmod><priority>0.6</priority></url>
+</urlset>"""
+    with open("sitemap.xml", "w") as f:
+        f.write(sitemap_content)
