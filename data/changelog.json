@@ -1,5 +1,43 @@
 [
     {
+        "date": "2026-02-01",
+        "added_count": 16,
+        "removed_count": 13,
+        "added": [
+            "AEIS",
+            "APRE",
+            "CISS",
+            "DKI",
+            "DULL",
+            "ELPW",
+            "FATBB",
+            "GCL",
+            "INLF",
+            "LIND",
+            "LRHC",
+            "LXEH",
+            "MRAM",
+            "ORKT",
+            "TGHL",
+            "VIVS"
+        ],
+        "removed": [
+            "BBCQU",
+            "BTOC",
+            "CLH",
+            "DFSC",
+            "ECDA",
+            "LOMA",
+            "MEOH",
+            "MNOV",
+            "OMCL",
+            "RHP",
+            "WBI",
+            "WCC",
+            "WSBC"
+        ]
+    },
+    {
         "date": "2026-01-31",
         "added_count": 79,
         "removed_count": 69,
