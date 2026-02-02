@@ -2,8 +2,8 @@ name: Monthly Universe Update
 
 on:
   schedule:
-    # Runs at 00:00 on the first Saturday of every month
-    - cron: '0 0 1-7 * 6'
+    # Runs at 00:00 every Saturday
+    - cron: '0 0 * * 6'
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 jobs:
@@ -13,15 +13,31 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
+      - name: Check if today is a scheduled Saturday
+        id: date_check
+        run: |
+          # Get the current date in YYYY-MM-DD format
+          TODAY=$(date +%Y-%m-%d)
+          # Check if today's date exists in the CSV (including quotes)
+          if grep -q "\"$TODAY\"" first_saturdays.csv; then
+            echo "match=true" >> $GITHUB_OUTPUT
+          else
+            echo "Today ($TODAY) is not in the schedule."
+            echo "match=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Set up Python
+        if: steps.date_check.outputs.match == 'true'
         uses: actions/setup-python@v4
         with:
           python-version: '3.13'
 
       - name: Install Modal
+        if: steps.date_check.outputs.match == 'true'
         run: pip install -r requirements.txt
 
       - name: Run Modal Job
+        if: steps.date_check.outputs.match == 'true'
         env:
           MODAL_TOKEN_ID: ${{ secrets.MODAL_TOKEN_ID }}
           MODAL_TOKEN_SECRET: ${{ secrets.MODAL_TOKEN_SECRET }}
@@ -29,6 +45,7 @@ jobs:
         run: modal run src/main.py
 
       - name: Commit and Push Changes
+        if: steps.date_check.outputs.match == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "StockStreaks Bot"
