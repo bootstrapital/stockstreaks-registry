@@ -1,5 +1,19 @@
 [
     {
+        "date": "2026-02-02",
+        "added_count": 3,
+        "removed_count": 2,
+        "added": [
+            "BSLK",
+            "ECDA",
+            "PRPH"
+        ],
+        "removed": [
+            "AREB",
+            "ATOS"
+        ]
+    },
+    {
         "date": "2026-02-01",
         "added_count": 16,
         "removed_count": 13,

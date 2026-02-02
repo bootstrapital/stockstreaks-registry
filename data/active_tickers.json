@@ -20736,14 +20736,6 @@
         "exchange": "NYQ"
     },
     {
-        "ticker": "ATOS",
-        "name": "Atossa Therapeutics, Inc.",
-        "sector": "Healthcare",
-        "cap_tier": "Nano-Cap",
-        "avg_volume": 1348377,
-        "exchange": "NCM"
-    },
-    {
         "ticker": "CGTL",
         "name": "Creative Global Technology Hold",
         "sector": "Consumer Cyclical",
@@ -23552,14 +23544,6 @@
         "exchange": "ASE"
     },
     {
-        "ticker": "AREB",
-        "name": "American Rebel Holdings, Inc.",
-        "sector": "Consumer Cyclical",
-        "cap_tier": "Nano-Cap",
-        "avg_volume": 3147344,
-        "exchange": "NCM"
-    },
-    {
         "ticker": "VERO",
         "name": "Venus Concept Inc.",
         "sector": "Healthcare",
@@ -23643,7 +23627,7 @@
         "ticker": "ELPW",
         "name": "Elong Power Holding Limited",
         "sector": "Industrials",
-        "cap_tier": "Nano-Cap",
+        "cap_tier": "Micro-Cap",
         "avg_volume": 562042,
         "exchange": "NGM"
     },
@@ -23678,6 +23662,14 @@
         "cap_tier": "Nano-Cap",
         "avg_volume": 500894,
         "exchange": "NCM"
+    },
+    {
+        "ticker": "BSLK",
+        "name": "Bolt Projects Holdings, Inc.",
+        "sector": "Basic Materials",
+        "cap_tier": "Nano-Cap",
+        "avg_volume": 542242,
+        "exchange": "NGM"
     },
     {
         "ticker": "BOXL",
@@ -23736,6 +23728,14 @@
         "exchange": "NGM"
     },
     {
+        "ticker": "PRPH",
+        "name": "ProPhase Labs, Inc.",
+        "sector": "Healthcare",
+        "cap_tier": "Nano-Cap",
+        "avg_volume": 1183680,
+        "exchange": "NGM"
+    },
+    {
         "ticker": "EPWK",
         "name": "EPWK Holdings Ltd.",
         "sector": "Technology",
@@ -23750,6 +23750,14 @@
         "cap_tier": "Nano-Cap",
         "avg_volume": 746754,
         "exchange": "NCM"
+    },
+    {
+        "ticker": "ECDA",
+        "name": "ECD Automotive Design Inc.",
+        "sector": "Consumer Cyclical",
+        "cap_tier": "Nano-Cap",
+        "avg_volume": 3609941,
+        "exchange": "NGM"
     },
     {
         "ticker": "TSM",
@@ -23811,7 +23819,7 @@
         "ticker": "OSG",
         "name": "Octave Specialty Group, Inc.",
         "sector": "Financial Services",
-        "cap_tier": "Nano-Cap",
+        "cap_tier": "Small-Cap",
         "avg_volume": 751080,
         "exchange": "NYQ"
     },
@@ -23921,9 +23929,9 @@
     },
     {
         "ticker": "PICS",
-        "name": "Picpay Holdings Netherlands N.V",
+        "name": "PicS N.V.",
         "sector": "Technology",
-        "cap_tier": "Nano-Cap",
+        "cap_tier": "Mid-Cap",
         "avg_volume": 3822800,
         "exchange": "NMS"
     },
@@ -24172,7 +24180,7 @@
         "name": "Astria Therapeutics, Inc.",
         "sector": "Healthcare",
         "cap_tier": "Small-Cap",
-        "avg_volume": 1088951,
+        "avg_volume": 1088966,
         "exchange": "NGM"
     },
     {
@@ -24468,7 +24476,7 @@
         "name": "GigCapital9 Corp.",
         "sector": "N/A",
         "cap_tier": "Nano-Cap",
-        "avg_volume": 1868375,
+        "avg_volume": 1868372,
         "exchange": "NGM"
     },
     {
