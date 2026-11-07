@@ -1,0 +1,3109 @@
+ticker,name,sector,cap_tier,avg_volume,exchange
+NVDA,NVIDIA Corporation,Technology,Mega-Cap,117161758,NMS
+AAPL,Apple Inc.,Technology,Mega-Cap,42750596,NMS
+MSFT,Microsoft Corporation,Technology,Mega-Cap,23247813,NMS
+GOOGL,Alphabet Inc.,Communication Services,Mega-Cap,28828813,NMS
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Mega-Cap,38646983,NMS
+META,"Meta Platforms, Inc.",Communication Services,Mega-Cap,21030731,NMS
+AVGO,Broadcom Inc.,Technology,Mega-Cap,23752292,NMS
+TSLA,"Tesla, Inc.",Consumer Cyclical,Mega-Cap,37785929,NMS
+LLY,Eli Lilly and Company,Healthcare,Mega-Cap,2544352,NYQ
+BRK-B,Berkshire Hathaway Inc. New,Financial Services,Mega-Cap,4578520,NYQ
+WMT,Walmart Inc.,Consumer Defensive,Mega-Cap,23798249,NMS
+MU,"Micron Technology, Inc.",Technology,Mega-Cap,27884920,NMS
+JPM,JP Morgan Chase & Co.,Financial Services,Mega-Cap,7063301,NYQ
+AMD,"Advanced Micro Devices, Inc.",Technology,Mega-Cap,22409281,NMS
+V,Visa Inc.,Financial Services,Mega-Cap,6587315,NYQ
+XOM,ExxonMobil Holdings Corporation,Energy,Mega-Cap,13758289,NYQ
+JNJ,Johnson & Johnson,Healthcare,Mega-Cap,6998373,NYQ
+ASML,ASML Holding N.V. - New York Re,Technology,Mega-Cap,1420083,NMS
+MA,Mastercard Incorporated,Financial Services,Mega-Cap,3003786,NYQ
+ABBV,AbbVie Inc.,Healthcare,Mega-Cap,4803442,NYQ
+COST,Costco Wholesale Corporation,Consumer Defensive,Mega-Cap,2164890,NMS
+CVX,Chevron Corporation,Energy,Mega-Cap,8463483,NYQ
+PLTR,Palantir Technologies Inc.,Technology,Mega-Cap,28278743,NMS
+KO,Coca-Cola Company (The),Consumer Defensive,Mega-Cap,16113996,NYQ
+CSCO,"Cisco Systems, Inc.",Technology,Mega-Cap,18665549,NMS
+ORCL,Oracle Corporation,Technology,Mega-Cap,33376529,NYQ
+PG,Procter & Gamble Company (The),Consumer Defensive,Mega-Cap,9250858,NYQ
+UNH,UnitedHealth Group Incorporated,Healthcare,Mega-Cap,5163841,NYQ
+MRK,"Merck & Company, Inc.",Healthcare,Mega-Cap,10318252,NYQ
+BAC,Bank of America Corporation,Financial Services,Mega-Cap,37265832,NYQ
+GE,GE Aerospace,Industrials,Mega-Cap,4499795,NYQ
+HD,"Home Depot, Inc. (The)",Consumer Cyclical,Mega-Cap,4625384,NYQ
+PM,Philip Morris International Inc,Consumer Defensive,Mega-Cap,4514895,NYQ
+INTC,Intel Corporation,Technology,Mega-Cap,115691432,NMS
+NVS,Novartis AG,Healthcare,Mega-Cap,2070675,NYQ
+AMAT,"Applied Materials, Inc.",Technology,Mega-Cap,7170660,NMS
+SHEL,Shell PLC,Energy,Mega-Cap,6037176,NYQ
+MS,Morgan Stanley,Financial Services,Mega-Cap,5403893,NYQ
+HSBC,"HSBC Holdings, plc.",Financial Services,Mega-Cap,1587040,NYQ
+LRCX,Lam Research Corporation,Technology,Mega-Cap,9837196,NMS
+PANW,"Palo Alto Networks, Inc.",Technology,Mega-Cap,6065384,NMS
+CAT,"Caterpillar, Inc.",Industrials,Mega-Cap,2833735,NYQ
+AZN,AstraZeneca PLC,Healthcare,Mega-Cap,3186781,NYQ
+TXN,Texas Instruments Incorporated,Technology,Mega-Cap,6653138,NMS
+RY,Royal Bank Of Canada,Financial Services,Mega-Cap,1253115,NYQ
+RTX,RTX Corporation,Industrials,Mega-Cap,4642904,NYQ
+SAP,SAP  SE,Technology,Mega-Cap,2295812,NYQ
+NFLX,"Netflix, Inc.",Communication Services,Mega-Cap,36468946,NMS
+GS,"Goldman Sachs Group, Inc. (The)",Financial Services,Mega-Cap,2111003,NYQ
+TMO,Thermo Fisher Scientific Inc,Healthcare,Mega-Cap,2120904,NYQ
+DELL,Dell Technologies Inc.,Technology,Mega-Cap,7787200,NYQ
+WFC,Wells Fargo & Company,Financial Services,Mega-Cap,14163573,NYQ
+AMGN,Amgen Inc.,Healthcare,Mega-Cap,2778656,NMS
+BABA,Alibaba Group Holding Limited,Consumer Cyclical,Mega-Cap,10027987,NYQ
+CRWD,"CrowdStrike Holdings, Inc.",Technology,Mega-Cap,9976631,NMS
+GEV,GE Vernova Inc.,Industrials,Mega-Cap,2586168,NYQ
+MUFG,"Mitsubishi UFJ Financial Group,",Financial Services,Mega-Cap,2778733,NYQ
+LIN,Linde plc,Basic Materials,Mega-Cap,2070581,NMS
+IBM,International Business Machines,Technology,Mega-Cap,5358832,NYQ
+AXP,American Express Company,Financial Services,Mega-Cap,2927878,NYQ
+ANET,"Arista Networks, Inc.",Technology,Mega-Cap,6043296,NYQ
+ARM,Arm Holdings plc,Technology,Large-Cap,5041985,NMS
+GILD,"Gilead Sciences, Inc.",Healthcare,Mega-Cap,6084510,NMS
+APH,Amphenol Corporation,Technology,Large-Cap,12510740,NYQ
+TD,Toronto Dominion Bank (The),Financial Services,Large-Cap,1855863,NYQ
+TTE,TotalEnergies SE,Energy,Large-Cap,1806976,NYQ
+ADI,"Analog Devices, Inc.",Technology,Large-Cap,3763426,NMS
+C,"Citigroup, Inc.",Financial Services,Large-Cap,9454958,NYQ
+KLAC,KLA Corporation,Technology,Large-Cap,10705241,NMS
+BHP,BHP Group Limited,Basic Materials,Mega-Cap,2857633,NYQ
+DIS,Walt Disney Company (The),Communication Services,Mega-Cap,8270216,NYQ
+ABT,Abbott Laboratories,Healthcare,Large-Cap,8807983,NYQ
+BLK,"BlackRock, Inc.",Financial Services,Large-Cap,606767,NYQ
+PEP,"Pepsico, Inc.",Consumer Defensive,Large-Cap,8864650,NMS
+SHOP,Shopify Inc.,Technology,Large-Cap,8973167,NMS
+VZ,Verizon Communications Inc.,Communication Services,Large-Cap,23260112,NYQ
+MCD,McDonald's Corporation,Consumer Cyclical,Large-Cap,5438170,NYQ
+CRM,"Salesforce, Inc.",Technology,Large-Cap,11514949,NYQ
+DE,Deere & Company,Industrials,Large-Cap,1234766,NYQ
+UNP,Union Pacific Corporation,Industrials,Large-Cap,2511369,NYQ
+NEE,"NextEra Energy, Inc.",Utilities,Large-Cap,11989241,NYQ
+NVO,Novo Nordisk A/S,Healthcare,Large-Cap,12221383,NYQ
+WELL,Welltower Inc.,Real Estate,Large-Cap,2788583,NYQ
+QCOM,QUALCOMM Incorporated,Technology,Large-Cap,12324956,NMS
+COP,ConocoPhillips,Energy,Large-Cap,6683820,NYQ
+PFE,"Pfizer, Inc.",Healthcare,Large-Cap,34068680,NYQ
+TMUS,"T-Mobile US, Inc.",Communication Services,Large-Cap,5469673,NMS
+SAN,"Banco Santander, S.A. Sponsored",Financial Services,Large-Cap,11678058,NYQ
+DHR,Danaher Corporation,Healthcare,Large-Cap,3980001,NYQ
+BUD,Anheuser-Busch Inbev SA Sponsor,Consumer Defensive,Large-Cap,2309018,NYQ
+SNDK,Sandisk Corporation,Technology,Large-Cap,10724390,NMS
+ISRG,"Intuitive Surgical, Inc.",Healthcare,Large-Cap,2454950,NMS
+ACN,Accenture plc,Technology,Large-Cap,6218544,NYQ
+SCHW,Charles Schwab Corporation (The,Financial Services,Large-Cap,8288112,NYQ
+MRVL,"Marvell Technology, Inc.",Technology,Large-Cap,23835041,NMS
+ETN,"Eaton Corporation, PLC",Industrials,Large-Cap,2318736,NYQ
+TJX,"TJX Companies, Inc. (The)",Consumer Cyclical,Large-Cap,7608333,NYQ
+SMFG,Sumitomo Mitsui Financial Group,Financial Services,Large-Cap,1388687,NYQ
+SONY,Sony Group Corporation,Technology,Large-Cap,4129833,NYQ
+LMT,Lockheed Martin Corporation,Industrials,Large-Cap,1291253,NYQ
+SCCO,Southern Copper Corporation,Basic Materials,Large-Cap,1155289,NYQ
+UBS,UBS Group AG Registered,Financial Services,Large-Cap,1931901,NYQ
+T,AT&T Inc.,Communication Services,Large-Cap,42366510,NYQ
+BX,Blackstone Inc.,Financial Services,Large-Cap,4780841,NYQ
+CB,Chubb Limited,Financial Services,Large-Cap,1619766,NYQ
+UL,Unilever PLC,Consumer Defensive,Large-Cap,3587512,NYQ
+STX,Seagate Technology Holdings PLC,Technology,Large-Cap,4758584,NMS
+BA,Boeing Company (The),Industrials,Large-Cap,7791873,NYQ
+UBER,"Uber Technologies, Inc.",Technology,Large-Cap,17842375,NYQ
+PBR,Petroleo Brasileiro S.A. Petrob,Energy,Large-Cap,24174093,NYQ
+SPGI,S&P Global Inc.,Financial Services,Large-Cap,1873652,NYQ
+VRTX,Vertex Pharmaceuticals Incorpor,Healthcare,Large-Cap,1258280,NMS
+RIO,Rio Tinto Plc,Basic Materials,Large-Cap,2374572,NYQ
+PGR,Progressive Corporation (The),Financial Services,Large-Cap,2608960,NYQ
+BBVA,Banco Bilbao Vizcaya Argentaria,Financial Services,Large-Cap,1574356,NYQ
+IBKR,"Interactive Brokers Group, Inc.",Financial Services,Large-Cap,4327546,NMS
+BTI,British American Tobacco  Indus,Consumer Defensive,Large-Cap,5017938,NYQ
+WDC,Western Digital Corporation,Technology,Large-Cap,8128493,NMS
+MO,"Altria Group, Inc.",Consumer Defensive,Large-Cap,8542153,NYQ
+COF,Capital One Financial Corporati,Financial Services,Large-Cap,3653320,NYQ
+BMY,Bristol-Myers Squibb Company,Healthcare,Large-Cap,10927486,NYQ
+MDT,Medtronic plc.,Healthcare,Large-Cap,16526781,NYQ
+PLD,"Prologis, Inc.",Real Estate,Large-Cap,3648993,NYQ
+SPOT,Spotify Technology S.A.,Communication Services,Large-Cap,1667885,NYQ
+BP,BP p.l.c.,Energy,Large-Cap,9106607,NYQ
+MPC,Marathon Petroleum Corporation,Energy,Large-Cap,2580847,NYQ
+LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Large-Cap,3251804,NYQ
+BMO,Bank Of Montreal,Financial Services,Large-Cap,732358,NYQ
+PH,Parker-Hannifin Corporation,Industrials,Large-Cap,636406,NYQ
+SBUX,Starbucks Corporation,Consumer Cyclical,Large-Cap,7718133,NMS
+HDB,HDFC Bank Limited,Financial Services,Large-Cap,9675443,NYQ
+SYK,Stryker Corporation,Healthcare,Large-Cap,2820678,NYQ
+ADP,"Automatic Data Processing, Inc.",Technology,Large-Cap,2182992,NMS
+MCK,McKesson Corporation,Healthcare,Large-Cap,844415,NYQ
+CVS,CVS Health Corporation,Healthcare,Large-Cap,8727372,NYQ
+MFG,"Mizuho Financial Group, Inc. Sp",Financial Services,Large-Cap,3471884,NYQ
+PDD,PDD Holdings Inc.,Consumer Cyclical,Large-Cap,6157364,NMS
+BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Large-Cap,7258721,NMS
+BNS,Bank Nova Scotia Halifax Pfd 3,Financial Services,Large-Cap,1783664,NYQ
+NOW,"ServiceNow, Inc.",Technology,Large-Cap,16078307,NYQ
+NEM,Newmont Corporation,Basic Materials,Large-Cap,7067412,NYQ
+CNQ,Canadian Natural Resources Limi,Energy,Large-Cap,6365864,NYQ
+ENB,Enbridge Inc,Energy,Large-Cap,5142501,NYQ
+CME,CME Group Inc.,Financial Services,Large-Cap,1915033,NMS
+GLW,Corning Incorporated,Technology,Large-Cap,9173827,NYQ
+VLO,Valero Energy Corporation,Energy,Large-Cap,3087976,NYQ
+SNY,Sanofi,Healthcare,Large-Cap,3293315,NMS
+IBN,ICICI Bank Limited,Financial Services,Large-Cap,5497467,NYQ
+SO,Southern Company (The),Utilities,Large-Cap,6269193,NYQ
+EQNR,Equinor ASA,Energy,Large-Cap,3765546,NYQ
+MAR,Marriott International,Consumer Cyclical,Large-Cap,1537404,NMS
+PSX,Phillips 66,Energy,Large-Cap,2946275,NYQ
+CM,Canadian Imperial Bank of Comme,Financial Services,Large-Cap,1101209,NYQ
+SNOW,Snowflake Inc.,Technology,Large-Cap,4725564,NYQ
+BNY,The Bank of New York Mellon Cor,Financial Services,Large-Cap,3401261,NYQ
+REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,Large-Cap,781235,NMS
+GD,General Dynamics Corporation,Industrials,Large-Cap,1197727,NYQ
+ABNB,"Airbnb, Inc.",Consumer Cyclical,Large-Cap,4766795,NMS
+EQIX,"Equinix, Inc.",Real Estate,Large-Cap,563650,NMS
+DUK,Duke Energy Corporation (Holdin,Utilities,Large-Cap,4162253,NYQ
+PWR,"Quanta Services, Inc.",Industrials,Large-Cap,1184369,NYQ
+GSK,GSK plc,Healthcare,Large-Cap,4066183,NYQ
+HCA,"HCA Healthcare, Inc.",Healthcare,Large-Cap,1363495,NYQ
+NET,"Cloudflare, Inc.",Technology,Large-Cap,3444346,NYQ
+MRSH,Marsh,Financial Services,Large-Cap,2442983,NYQ
+ADBE,Adobe Inc.,Technology,Large-Cap,4669104,NMS
+ICE,Intercontinental Exchange Inc.,Financial Services,Large-Cap,3127086,NYQ
+CSX,CSX Corporation,Industrials,Large-Cap,10711573,NMS
+CEG,Constellation Energy Corporatio,Utilities,Large-Cap,3336379,NMS
+USB,U.S. Bancorp,Financial Services,Large-Cap,7275572,NYQ
+FTNT,"Fortinet, Inc.",Technology,Large-Cap,4729583,NMS
+WM,"Waste Management, Inc.",Industrials,Large-Cap,2255133,NYQ
+MNST,Monster Beverage Corporation,Consumer Defensive,Large-Cap,10015153,NMS
+EMR,Emerson Electric Company,Industrials,Large-Cap,2634829,NYQ
+INTU,Intuit Inc.,Technology,Large-Cap,3631846,NMS
+UPS,"United Parcel Service, Inc.",Industrials,Large-Cap,4827693,NYQ
+TT,Trane Technologies plc,Industrials,Large-Cap,1248467,NYQ
+PNC,"PNC Financial Services Group, I",Financial Services,Large-Cap,1780309,NYQ
+MMM,3M Company,Industrials,Large-Cap,3157675,NYQ
+BN,Brookfield Corporation,Financial Services,Large-Cap,4941815,NYQ
+JCI,Johnson Controls International ,Industrials,Large-Cap,3592804,NYQ
+MRNA,"Moderna, Inc.",Healthcare,Large-Cap,21683514,NMS
+VRT,"Vertiv Holdings, LLC",Industrials,Large-Cap,5835646,NYQ
+ELV,"Elevance Health, Inc.",Healthcare,Large-Cap,1203200,NYQ
+WMB,"Williams Companies, Inc. (The)",Energy,Large-Cap,7887447,NYQ
+SU,Suncor Energy  Inc.,Energy,Large-Cap,4145532,NYQ
+HWM,Howmet Aerospace Inc.,Industrials,Large-Cap,3485998,NYQ
+CDNS,"Cadence Design Systems, Inc.",Technology,Large-Cap,2434595,NMS
+CTAS,Cintas Corporation,Industrials,Large-Cap,1924660,NMS
+SNPS,"Synopsys, Inc.",Technology,Large-Cap,2115561,NMS
+FCX,"Freeport-McMoRan, Inc.",Basic Materials,Large-Cap,12451918,NYQ
+KKR,KKR & Co. Inc.,Financial Services,Large-Cap,4834213,NYQ
+ING,"ING Group, N.V.",Financial Services,Large-Cap,2244824,NYQ
+MCO,Moody's Corporation,Financial Services,Large-Cap,825527,NYQ
+AMT,American Tower Corporation (REI,Real Estate,Large-Cap,2795069,NYQ
+ASX,"ASE Technology Holding Co., Ltd",Technology,Large-Cap,7770041,NYQ
+ECL,Ecolab Inc.,Basic Materials,Large-Cap,1413198,NYQ
+MELI,"MercadoLibre, Inc.",Consumer Cyclical,Large-Cap,586067,NMS
+AEM,Agnico Eagle Mines Limited,Basic Materials,Large-Cap,2393647,NYQ
+SPG,"Simon Property Group, Inc.",Real Estate,Large-Cap,1279838,NYQ
+CMCSA,Comcast Corporation,Communication Services,Large-Cap,28825027,NMS
+RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,Large-Cap,2349440,NYQ
+NGG,"National Grid Transco, PLC Nati",Utilities,Large-Cap,911775,NYQ
+MDLZ,"Mondelez International, Inc.",Consumer Defensive,Large-Cap,7693481,NMS
+SHW,Sherwin-Williams Company (The),Basic Materials,Large-Cap,1738741,NYQ
+APP,Applovin Corporation,Communication Services,Large-Cap,5300951,NMS
+EPD,Enterprise Products Partners L.,Energy,Large-Cap,3374290,NYQ
+BAM,Brookfield Asset Management Inc,Financial Services,Large-Cap,2790223,NYQ
+EOG,"EOG Resources, Inc.",Energy,Large-Cap,3007435,NYQ
+ITW,Illinois Tool Works Inc.,Industrials,Large-Cap,1277741,NYQ
+MSI,"Motorola Solutions, Inc.",Technology,Large-Cap,980876,NYQ
+TRV,"The Travelers Companies, Inc.",Financial Services,Large-Cap,1469841,NYQ
+HLT,Hilton Worldwide Holdings Inc. Common Stock,Consumer Cyclical,Large-Cap,1811345,NYQ
+CP,Canadian Pacific Kansas City Li,Industrials,Large-Cap,2260209,NYQ
+DASH,"DoorDash, Inc.",Consumer Cyclical,Large-Cap,4536400,NMS
+CVNA,Carvana Co.,Consumer Cyclical,Large-Cap,9039960,NYQ
+DDOG,"Datadog, Inc.",Technology,Large-Cap,3894257,NMS
+NOC,Northrop Grumman Corporation,Industrials,Large-Cap,904712,NYQ
+CI,The Cigna Group,Healthcare,Large-Cap,1570980,NYQ
+SLB,SLB Limited,Energy,Large-Cap,12627229,NYQ
+ITUB,Itau Unibanco Banco Holding SA,Financial Services,Large-Cap,31441183,NYQ
+NSC,Norfolk Southern Corporation,Industrials,Large-Cap,1052729,NYQ
+HOOD,"Robinhood Markets, Inc.",Financial Services,Large-Cap,20800864,NMS
+CL,Colgate-Palmolive Company,Consumer Defensive,Large-Cap,4824720,NYQ
+CNI,Canadian National Railway Compa,Industrials,Large-Cap,1243607,NYQ
+FDX,FedEx Corporation,Industrials,Large-Cap,1534978,NYQ
+GM,General Motors Company,Consumer Cyclical,Large-Cap,7204123,NYQ
+BCS,Barclays PLC,Financial Services,Large-Cap,4878189,NYQ
+ROST,"Ross Stores, Inc.",Consumer Cyclical,Large-Cap,2308026,NMS
+NTES,"NetEase, Inc.",Communication Services,Large-Cap,742055,NMS
+MFC,Manulife Financial Corporation,Financial Services,Large-Cap,1944686,NYQ
+RSG,"Republic Services, Inc.",Industrials,Large-Cap,1467855,NYQ
+AMX,"America Movil, S.A.B. de C.V.",Communication Services,Large-Cap,2924847,NYQ
+KMI,"Kinder Morgan, Inc.",Energy,Large-Cap,12931693,NYQ
+ORLY,"O'Reilly Automotive, Inc.",Consumer Cyclical,Large-Cap,5856650,NMS
+LYG,Lloyds Banking Group Plc,Financial Services,Large-Cap,16584512,NYQ
+HON,Honeywell International Inc.,Industrials,Large-Cap,2843523,NMS
+AEP,American Electric Power Company,Utilities,Large-Cap,3698955,NMS
+HPE,Hewlett Packard Enterprise Comp,Technology,Large-Cap,20654762,NYQ
+AON,Aon plc,Financial Services,Large-Cap,1648327,NYQ
+AJG,Arthur J. Gallagher & Co.,Financial Services,Large-Cap,1530180,NYQ
+APD,"Air Products and Chemicals, Inc",Basic Materials,Large-Cap,1064452,NYQ
+CMI,Cummins Inc.,Industrials,Large-Cap,1148118,NYQ
+TGT,Target Corporation,Consumer Defensive,Large-Cap,4090200,NYQ
+RELX,RELX PLC PLC,Industrials,Large-Cap,2193881,NYQ
+DLR,"Digital Realty Trust, Inc.",Real Estate,Large-Cap,2172224,NYQ
+APO,"Apollo Global Management, Inc. ",Financial Services,Large-Cap,3403363,NYQ
+TAK,Takeda Pharmaceutical Company L,Healthcare,Large-Cap,2656787,NYQ
+ALL,Allstate Corporation (The),Financial Services,Large-Cap,1946726,NYQ
+NXPI,NXP Semiconductors N.V.,Technology,Large-Cap,3859213,NMS
+KMB,Kimberly-Clark Corporation,Consumer Defensive,Large-Cap,4788275,NMS
+MPWR,"Monolithic Power Systems, Inc.",Technology,Large-Cap,778376,NMS
+COR,"Cencora, Inc.",Healthcare,Large-Cap,1309206,NYQ
+TRGP,"Targa Resources, Inc.",Energy,Large-Cap,1228469,NYQ
+MET,"MetLife, Inc.",Financial Services,Large-Cap,3098004,NYQ
+LNG,"Cheniere Energy, Inc.",Energy,Large-Cap,2011784,NYQ
+IMO,Imperial Oil Limited,Energy,Large-Cap,575544,ASE
+BSX,Boston Scientific Corporation,Healthcare,Large-Cap,19808947,NYQ
+DB,Deutsche Bank AG,Financial Services,Large-Cap,2219516,NYQ
+BE,Bloom Energy Corporation,Industrials,Large-Cap,15432840,NYQ
+TEL,TE Connectivity plc,Technology,Large-Cap,1979220,NYQ
+CRH,CRH PLC,Basic Materials,Large-Cap,5232923,NYQ
+AFL,AFLAC Incorporated,Financial Services,Large-Cap,1958326,NYQ
+PSA,Public Storage,Real Estate,Large-Cap,897967,NYQ
+NUE,Nucor Corporation,Basic Materials,Large-Cap,1380584,NYQ
+NWG,NatWest Group plc,Financial Services,Large-Cap,3732784,NYQ
+LITE,Lumentum Holdings Inc.,Technology,Large-Cap,5295012,NMS
+B,Barrick Mining Corporation,Basic Materials,Large-Cap,9233156,NYQ
+OXY,Occidental Petroleum Corporatio,Energy,Large-Cap,8564658,NYQ
+NDAQ,"Nasdaq, Inc.",Financial Services,Large-Cap,3152010,NMS
+FAST,Fastenal Company,Industrials,Large-Cap,7346943,NMS
+TFC,Truist Financial Corporation,Financial Services,Large-Cap,7416424,NYQ
+D,"Dominion Energy, Inc.",Utilities,Large-Cap,4468415,NYQ
+CAH,"Cardinal Health, Inc.",Healthcare,Large-Cap,1784443,NYQ
+MPLX,MPLX LP,Energy,Large-Cap,1411542,NYQ
+OKE,"ONEOK, Inc.",Energy,Large-Cap,3410344,NYQ
+MSTR,Strategy Inc,Technology,Large-Cap,22656769,NMS
+AME,"AMETEK, Inc.",Industrials,Large-Cap,1452400,NYQ
+CVE,Cenovus Energy Inc,Energy,Large-Cap,6927627,NYQ
+NKE,"Nike, Inc.",Consumer Cyclical,Large-Cap,33233733,NYQ
+NTRA,"Natera, Inc.",Healthcare,Large-Cap,1646223,NMS
+NU,Nu Holdings Ltd.,Financial Services,Large-Cap,81236012,NYQ
+SRE,DBA Sempra,Utilities,Large-Cap,3970601,NYQ
+EW,Edwards Lifesciences Corporatio,Healthcare,Large-Cap,3691573,NYQ
+DAL,"Delta Air Lines, Inc.",Industrials,Large-Cap,6441452,NYQ
+O,Realty Income Corporation,Real Estate,Large-Cap,7434898,NYQ
+FANG,"Diamondback Energy, Inc.",Energy,Large-Cap,2403704,NMS
+BDX,"Becton, Dickinson and Company",Healthcare,Large-Cap,1787229,NYQ
+PCAR,PACCAR Inc.,Industrials,Large-Cap,3356629,NMS
+WPM,Wheaton Precious Metals Corp,Basic Materials,Large-Cap,2044758,NYQ
+IDXX,"IDEXX Laboratories, Inc.",Healthcare,Large-Cap,570341,NMS
+ADSK,"Autodesk, Inc.",Technology,Large-Cap,2064213,NMS
+BKR,Baker Hughes Company,Energy,Large-Cap,7719729,NMS
+DVN,Devon Energy Corporation,Energy,Large-Cap,10922378,NYQ
+GRMN,Garmin Ltd.,Technology,Large-Cap,868816,NYQ
+DEO,Diageo plc,Consumer Defensive,Large-Cap,1106984,NYQ
+EBAY,eBay Inc.,Consumer Cyclical,Large-Cap,4441289,NMS
+ETR,Entergy Corporation,Utilities,Large-Cap,2775333,NYQ
+KEYS,Keysight Technologies Inc.,Technology,Large-Cap,1300678,NYQ
+LHX,"L3Harris Technologies, Inc.",Industrials,Large-Cap,1707821,NYQ
+XEL,Xcel Energy Inc.,Utilities,Large-Cap,5874836,NMS
+HUM,Humana Inc.,Healthcare,Large-Cap,1264812,NYQ
+HONA,Honeywell Aerospace Inc.,Industrials,Large-Cap,3703289,NMS
+A,"Agilent Technologies, Inc.",Healthcare,Large-Cap,2267749,NYQ
+ROK,"Rockwell Automation, Inc.",Industrials,Large-Cap,810150,NYQ
+CCEP,Coca-Cola Europacific Partners ,Consumer Defensive,Large-Cap,1756093,NMS
+VEEV,Veeva Systems Inc.,Healthcare,Large-Cap,1671242,NYQ
+TEVA,Teva Pharmaceutical Industries ,Healthcare,Large-Cap,5939681,NYQ
+FITB,Fifth Third Bancorp,Financial Services,Large-Cap,6328743,NYQ
+WAB,Westinghouse Air Brake Technolo,Industrials,Large-Cap,911621,NYQ
+F,Ford Motor Company,Consumer Cyclical,Large-Cap,43705426,NYQ
+TRI,Thomson Reuters Corp,Industrials,Large-Cap,1634869,NMS
+PYPL,"PayPal Holdings, Inc.",Financial Services,Large-Cap,11895625,NMS
+INFY,Infosys Limited,Technology,Large-Cap,18353603,NYQ
+VYLR,Vylor Inc.,Financial Services,Large-Cap,5547600,NYQ
+KDP,Keurig Dr Pepper Inc.,Consumer Defensive,Large-Cap,12903866,NMS
+VMRK,Vivmark Residential,Real Estate,Large-Cap,5503164,NYQ
+WDAY,"Workday, Inc.",Technology,Large-Cap,3201884,NMS
+TEAM,Atlassian Corporation,Technology,Large-Cap,3670840,NMS
+NOK,Nokia Corporation Sponsored,Technology,Large-Cap,78205327,NYQ
+EXC,Exelon Corporation,Utilities,Large-Cap,7695195,NMS
+VST,Vistra Corp.,Utilities,Large-Cap,5937225,NYQ
+ROP,"Roper Technologies, Inc.",Technology,Large-Cap,883164,NMS
+WCN,"Waste Connections, Inc.",Industrials,Large-Cap,1559755,NYQ
+VALE,VALE S.A.,Basic Materials,Large-Cap,32802976,NYQ
+SE,Sea Limited,Consumer Cyclical,Large-Cap,5360932,NYQ
+FERG,Ferguson Enterprises Inc.,Industrials,Large-Cap,1469180,NYQ
+MSCI,MSCI Inc.,Financial Services,Large-Cap,597406,NYQ
+STT,State Street Corporation,Financial Services,Large-Cap,1865886,NYQ
+VTR,"Ventas, Inc.",Real Estate,Large-Cap,3624247,NYQ
+XYZ,"Block, Inc.",Technology,Large-Cap,4727928,NYQ
+MT,Arcelor Mittal NY Registry Shar,Basic Materials,Large-Cap,1359875,NYQ
+MDLN,Medline Inc.,Healthcare,Large-Cap,8722890,NMS
+WAT,Waters Corporation,Healthcare,Large-Cap,824150,NYQ
+CARR,Carrier Global Corporation,Industrials,Large-Cap,6058559,NYQ
+SLF,Sun Life Financial Inc.,Financial Services,Large-Cap,677787,NYQ
+HMC,"Honda Motor Company, Ltd.",Consumer Cyclical,Large-Cap,904886,NYQ
+AMP,"Ameriprise Financial, Inc.",Financial Services,Large-Cap,550649,NYQ
+FNV,Franco-Nevada Corporation,Basic Materials,Large-Cap,734523,NYQ
+ED,"Consolidated Edison, Inc.",Utilities,Large-Cap,2236283,NYQ
+STM,STMicroelectronics N.V.,Technology,Large-Cap,9220224,NYQ
+FMX,Fomento Economico Mexicano S.A.,Consumer Defensive,Large-Cap,530255,NYQ
+IQV,"IQVIA Holdings, Inc.",Healthcare,Large-Cap,1407803,NYQ
+YUM,"Yum! Brands, Inc.",Consumer Cyclical,Large-Cap,2399910,NYQ
+ARES,Ares Management Corporation,Financial Services,Large-Cap,2216770,NYQ
+AIG,"American International Group, I",Financial Services,Large-Cap,4201080,NYQ
+CIEN,Ciena Corporation,Technology,Large-Cap,2842415,NYQ
+MCHP,Microchip Technology Incorporat,Technology,Large-Cap,10512772,NMS
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Cyclical,Large-Cap,18227778,NYQ
+RVMD,"Revolution Medicines, Inc.",Healthcare,Large-Cap,2023034,NMS
+TER,"Teradyne, Inc.",Technology,Large-Cap,3050881,NMS
+LYV,"Live Nation Entertainment, Inc.",Communication Services,Large-Cap,2020736,NYQ
+FER,Ferrovial N.V.,Industrials,Large-Cap,1920553,NMS
+PAYX,"Paychex, Inc.",Technology,Large-Cap,2891484,NMS
+AU,AngloGold Ashanti PLC,Basic Materials,Large-Cap,2576510,NYQ
+UMC,United Microelectronics Corpora,Technology,Large-Cap,11924129,NYQ
+ABEV,Ambev S.A.,Consumer Defensive,Large-Cap,26951649,NYQ
+NBIS,Nebius Group N.V.,Communication Services,Large-Cap,20694614,NMS
+PRU,"Prudential Financial, Inc.",Financial Services,Large-Cap,1677047,NYQ
+COHR,Coherent Corp.,Technology,Large-Cap,7608695,NYQ
+ALAB,"Astera Labs, Inc.",Technology,Large-Cap,4122756,NMS
+SKYD,Skydance Corporation,Communication Services,Large-Cap,22918250,NYQ
+KR,Kroger Company (The),Consumer Defensive,Large-Cap,6946730,NYQ
+PCG,Pacific Gas & Electric Co.,Utilities,Large-Cap,39627487,NYQ
+DHI,"D.R. Horton, Inc.",Consumer Cyclical,Large-Cap,2815963,NYQ
+CBRE,CBRE Group Inc,Real Estate,Large-Cap,2070849,NYQ
+CCL,Carnival Corporation Ltd.,Consumer Cyclical,Large-Cap,21595853,NYQ
+RKT,"Rocket Companies, Inc.",Financial Services,Large-Cap,34736085,NYQ
+P,"Everpure, Inc.",Technology,Large-Cap,4944414,NYQ
+HLN,Haleon plc,Healthcare,Large-Cap,17436807,NYQ
+MLM,"Martin Marietta Materials, Inc.",Basic Materials,Large-Cap,807872,NYQ
+COIN,"Coinbase Global, Inc.",Financial Services,Large-Cap,9362587,NMS
+VIK,Viking Holdings Ltd,Consumer Cyclical,Large-Cap,3962784,NYQ
+RPRX,Royalty Pharma plc,Healthcare,Large-Cap,3115887,NMS
+WEC,"WEC Energy Group, Inc.",Utilities,Large-Cap,2730624,NYQ
+EL,"Estee Lauder Companies, Inc. (T",Consumer Defensive,Large-Cap,3504472,NYQ
+CCI,Crown Castle Inc.,Real Estate,Large-Cap,4116290,NYQ
+NTAP,"NetApp, Inc.",Technology,Large-Cap,2410166,NMS
+ODFL,"Old Dominion Freight Line, Inc.",Industrials,Large-Cap,1834203,NMS
+BIIB,Biogen Inc.,Healthcare,Large-Cap,1056640,NMS
+SYY,Sysco Corporation,Consumer Defensive,Large-Cap,3652403,NYQ
+ZS,"Zscaler, Inc.",Technology,Large-Cap,2938170,NMS
+VMC,Vulcan Materials Company (Holdi,Basic Materials,Large-Cap,1168636,NYQ
+JD,"JD.com, Inc.",Consumer Cyclical,Large-Cap,7860781,NMS
+PEG,Public Service Enterprise Group,Utilities,Large-Cap,3455681,NYQ
+GEHC,GE HealthCare Technologies Inc.,Healthcare,Large-Cap,3577293,NMS
+TTWO,"Take-Two Interactive Software, ",Communication Services,Large-Cap,2607396,NMS
+VOD,Vodafone Group Plc,Communication Services,Large-Cap,3456129,NMS
+HIG,"The Hartford Insurance Group, I",Financial Services,Large-Cap,1672181,NYQ
+ILMN,"Illumina, Inc.",Healthcare,Large-Cap,2791406,NMS
+ERIC,Ericsson,Technology,Large-Cap,9738569,NMS
+STLD,"Steel Dynamics, Inc.",Basic Materials,Large-Cap,1065929,NMS
+ACGL,Arch Capital Group Ltd.,Financial Services,Large-Cap,2867547,NMS
+TKO,"TKO Group Holdings, Inc.",Communication Services,Large-Cap,1096140,NYQ
+ALC,Alcon Inc.,Healthcare,Large-Cap,1738017,NYQ
+UAL,"United Airlines Holdings, Inc.",Industrials,Large-Cap,4224821,NMS
+IRM,Iron Mountain Incorporated (Del,Real Estate,Large-Cap,1534212,NYQ
+EXPE,"Expedia Group, Inc.",Consumer Cyclical,Large-Cap,1905440,NMS
+RKLB,Rocket Lab Corporation,Industrials,Large-Cap,19625089,NMS
+EXR,Extra Space Storage Inc,Real Estate,Large-Cap,1285120,NYQ
+ZTS,Zoetis Inc.,Healthcare,Large-Cap,4790084,NYQ
+EQT,EQT Corporation,Energy,Large-Cap,7773390,NYQ
+EC,Ecopetrol S.A.,Energy,Large-Cap,1637567,NYQ
+QSR,Restaurant Brands International,Consumer Cyclical,Large-Cap,2944645,NYQ
+SUNB,"Sunbelt Rentals Holdings, Inc.",Industrials,Large-Cap,4974381,NYQ
+GMAB,Genmab A/S,Healthcare,Large-Cap,4052059,NMS
+ADM,Archer-Daniels-Midland Company,Consumer Defensive,Large-Cap,3469733,NYQ
+HSY,The Hershey Company,Consumer Defensive,Large-Cap,1482598,NYQ
+AXON,"Axon Enterprise, Inc.",Industrials,Large-Cap,1069560,NMS
+CNC,Centene Corporation,Healthcare,Large-Cap,4668166,NYQ
+NTR,Nutrien Ltd.,Basic Materials,Large-Cap,2607650,NYQ
+TWLO,Twilio Inc.,Technology,Large-Cap,3181178,NYQ
+VG,"Venture Global, Inc.",Energy,Large-Cap,14817504,NYQ
+RBLX,Roblox Corporation,Communication Services,Large-Cap,11484967,NYQ
+CLS,"Celestica, Inc.",Technology,Large-Cap,2627503,NYQ
+FLEX,Flex Ltd.,Technology,Large-Cap,4286575,NMS
+OKTA,"Okta, Inc.",Technology,Large-Cap,4226129,NMS
+IR,Ingersoll Rand Inc.,Industrials,Large-Cap,4353398,NYQ
+MTB,M&T Bank Corporation,Financial Services,Large-Cap,986209,NYQ
+HBAN,Huntington Bancshares Incorpora,Financial Services,Large-Cap,24993778,NMS
+RMD,ResMed Inc.,Healthcare,Large-Cap,1374555,NYQ
+FISV,"Fiserv, Inc.",N/A,Large-Cap,7011744,NMS
+CCJ,Cameco Corporation,Energy,Large-Cap,3289189,NYQ
+NTRS,Northern Trust Corporation,Financial Services,Large-Cap,1113775,NMS
+DXCM,"DexCom, Inc.",Healthcare,Large-Cap,4392061,NMS
+RJF,"Raymond James Financial, Inc.",Financial Services,Large-Cap,1200901,NYQ
+PUK,Prudential Public Limited Compa,Financial Services,Large-Cap,1217533,NYQ
+GFI,Gold Fields Limited,Basic Materials,Large-Cap,3852086,NYQ
+FTS,Fortis Inc.,Utilities,Large-Cap,885272,NYQ
+AEE,Ameren Corporation,Utilities,Large-Cap,1756203,NYQ
+TECK,Teck Resources Ltd,Basic Materials,Large-Cap,2819963,NYQ
+WTW,Willis Towers Watson Public Lim,Financial Services,Large-Cap,540352,NMS
+WSM,"Williams-Sonoma, Inc.",Consumer Cyclical,Large-Cap,1107446,NYQ
+ATO,Atmos Energy Corporation,Utilities,Large-Cap,1037776,NYQ
+ECHO,EchoStar Corporation,Communication Services,Large-Cap,3719483,NMS
+SN,"SharkNinja, Inc.",Consumer Cyclical,Large-Cap,1657046,NYQ
+OTIS,Otis Worldwide Corporation,Industrials,Large-Cap,4436462,NYQ
+AWK,"American Water Works Company, I",Utilities,Large-Cap,2035627,NYQ
+TS,Tenaris S.A.,Energy,Large-Cap,1253355,NYQ
+CRWV,"CoreWeave, Inc.",Technology,Large-Cap,40587009,NMS
+KHC,The Kraft Heinz Company,Consumer Defensive,Large-Cap,16878554,NYQ
+PBA,Pembina Pipeline Corp.,Energy,Large-Cap,1003449,NYQ
+CPRT,"Copart, Inc.",Industrials,Large-Cap,10953746,NMS
+DG,Dollar General Corporation,Consumer Defensive,Large-Cap,2386647,NYQ
+WST,"West Pharmaceutical Services, I",Healthcare,Large-Cap,609038,NYQ
+BSP,Bending Spoons S.p.A.,Technology,Large-Cap,2697568,NMS
+LH,Labcorp Holdings Inc.,Healthcare,Large-Cap,724609,NYQ
+DOV,Dover Corporation,Industrials,Large-Cap,1223636,NYQ
+CTSH,Cognizant Technology Solutions ,Technology,Large-Cap,6822163,NMS
+RYAAY,Ryanair Holdings plc,Industrials,Large-Cap,1614936,NMS
+VLTO,Veralto Corp,Industrials,Large-Cap,1778015,NYQ
+CINF,Cincinnati Financial Corporatio,Financial Services,Large-Cap,614283,NMS
+CRDO,Credo Technology Group Holding ,Technology,Large-Cap,8002987,NMS
+FOXA,Fox Corporation,Communication Services,Large-Cap,5196454,NMS
+VRSN,"VeriSign, Inc.",Technology,Large-Cap,873035,NMS
+HAL,Halliburton Company,Energy,Large-Cap,10317796,NYQ
+CNP,"CenterPoint Energy, Inc (Holdin",Utilities,Large-Cap,7040884,NYQ
+DTE,DTE Energy Company,Utilities,Large-Cap,1533933,NYQ
+JBL,Jabil Inc.,Technology,Large-Cap,1250683,NYQ
+PHG,Koninklijke Philips N.V. NY Reg,Healthcare,Large-Cap,1079490,NYQ
+WRB,W.R. Berkley Corporation,Financial Services,Large-Cap,2529887,NYQ
+ON,ON Semiconductor Corporation,Technology,Large-Cap,10314212,NMS
+BBD,Banco Bradesco Sa,Financial Services,Large-Cap,44145630,NYQ
+NMR,Nomura Holdings Inc,Financial Services,Large-Cap,792310,NYQ
+FE,FirstEnergy Corp.,Utilities,Large-Cap,4337381,NYQ
+CPNG,"Coupang, Inc.",Consumer Cyclical,Large-Cap,16067120,NYQ
+TW,Tradeweb Markets Inc.,Financial Services,Large-Cap,1375401,NMS
+ULTA,"Ulta Beauty, Inc.",Consumer Cyclical,Large-Cap,554870,NMS
+DGX,Quest Diagnostics Incorporated,Healthcare,Large-Cap,1005609,NYQ
+CFG,"Citizens Financial Group, Inc.",Financial Services,Large-Cap,4022756,NYQ
+VICI,VICI Properties Inc.,Real Estate,Large-Cap,10007520,NYQ
+PPL,PPL Corporation,Utilities,Large-Cap,7724164,NYQ
+MDB,"MongoDB, Inc.",Technology,Large-Cap,2210031,NGM
+ZM,"Zoom Communications, Inc.",Technology,Large-Cap,2917212,NMS
+PPG,"PPG Industries, Inc.",Basic Materials,Large-Cap,1741456,NYQ
+EXPD,Expeditors International of Was,Industrials,Large-Cap,1067692,NYQ
+ROIV,Roivant Sciences Ltd.,Healthcare,Large-Cap,7762534,NMS
+FTI,TechnipFMC plc,Energy,Large-Cap,2907000,NYQ
+TCOM,Trip.com Group Limited,Consumer Cyclical,Large-Cap,3133456,NMS
+BIDU,"Baidu, Inc.",Communication Services,Large-Cap,2682466,NMS
+ES,Eversource Energy (D/B/A),Utilities,Large-Cap,2543230,NYQ
+GPN,Global Payments Inc.,Industrials,Large-Cap,2762089,NYQ
+CHD,"Church & Dwight Company, Inc.",Consumer Defensive,Large-Cap,1896118,NYQ
+UTHR,United Therapeutics Corporation,Healthcare,Large-Cap,711009,NMS
+VRSK,"Verisk Analytics, Inc.",Industrials,Large-Cap,1268375,NMS
+HPQ,HP Inc.,Technology,Large-Cap,14625743,NYQ
+DLTR,"Dollar Tree, Inc.",Consumer Defensive,Large-Cap,2413873,NMS
+Q,"Qnity Electronics, Inc.",Technology,Large-Cap,1721421,NYQ
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical,Large-Cap,1098070,NYQ
+ATI,ATI Inc.,Industrials,Large-Cap,1718410,NYQ
+LVS,Las Vegas Sands Corp.,Consumer Cyclical,Large-Cap,5748376,NYQ
+CASY,"Caseys General Stores, Inc.",Consumer Cyclical,Large-Cap,529998,NMS
+AER,AerCap Holdings N.V.,Industrials,Large-Cap,1142504,NYQ
+DOW,Dow Inc.,Basic Materials,Large-Cap,8661685,NYQ
+SYF,Synchrony Financial,Financial Services,Large-Cap,3341470,NYQ
+RF,Regions Financial Corporation,Financial Services,Large-Cap,9322412,NYQ
+AFRM,"Affirm Holdings, Inc.",Financial Services,Large-Cap,4399020,NMS
+PHM,"PulteGroup, Inc.",Consumer Cyclical,Large-Cap,1772975,NYQ
+INCY,Incyte Corporation,Healthcare,Large-Cap,1603153,NMS
+IOT,Samsara Inc.,Technology,Large-Cap,5521990,NYQ
+GFS,GlobalFoundries Inc.,Technology,Large-Cap,4807839,NMS
+TPR,"Tapestry, Inc.",Consumer Cyclical,Large-Cap,3213284,NYQ
+PFG,Principal Financial Group Inc,Financial Services,Large-Cap,1273126,NMS
+RBRK,"Rubrik, Inc.",Technology,Large-Cap,3396462,NYQ
+ROKU,"Roku, Inc.",Communication Services,Large-Cap,2272220,NMS
+HUBB,Hubbell Inc,Industrials,Large-Cap,554495,NYQ
+RL,Ralph Lauren Corporation,Consumer Cyclical,Large-Cap,613756,NYQ
+BRO,"Brown & Brown, Inc.",Financial Services,Large-Cap,2268898,NYQ
+GH,"Guardant Health, Inc.",Healthcare,Large-Cap,1927903,NMS
+IFF,International Flavors & Fragran,Basic Materials,Large-Cap,1889167,NYQ
+KGC,Kinross Gold Corporation,Basic Materials,Large-Cap,8212652,NYQ
+STZ,"Constellation Brands, Inc.",Consumer Defensive,Large-Cap,2285233,NYQ
+CBRS,Cerebras Systems Inc.,Technology,Large-Cap,8877925,NMS
+ENTG,"Entegris, Inc.",Technology,Large-Cap,2541367,NMS
+LPLA,LPL Financial Holdings Inc.,Financial Services,Large-Cap,862953,NMS
+INSM,Insmed Incorporated,Healthcare,Large-Cap,2825135,NMS
+EIX,Edison International,Utilities,Large-Cap,5187287,NYQ
+SYM,Symbotic Inc.,Industrials,Large-Cap,1643435,NGM
+PKG,Packaging Corporation of Americ,Consumer Cyclical,Large-Cap,629650,NYQ
+OMC,Omnicom Group Inc.,Communication Services,Large-Cap,2730763,NYQ
+STE,STERIS plc (Ireland),Healthcare,Large-Cap,701316,NYQ
+AMRZ,Amrize Ltd,Basic Materials,Large-Cap,4231112,NYQ
+KEY,KeyCorp,Financial Services,Large-Cap,14390613,NYQ
+TROW,"T. Rowe Price Group, Inc.",Financial Services,Large-Cap,1739413,NMS
+ARXS,"Arxis, Inc.",Industrials,Large-Cap,894351,NMS
+SW,Smurfit WestRock plc,Consumer Cyclical,Large-Cap,4682567,NYQ
+XPO,"XPO, Inc.",Industrials,Large-Cap,1096832,NYQ
+L,Loews Corporation,Financial Services,Large-Cap,810040,NYQ
+EFX,"Equifax, Inc.",Industrials,Large-Cap,1687423,NYQ
+CMS,CMS Energy Corporation,Utilities,Large-Cap,3879833,NYQ
+XYL,Xylem Inc.,Industrials,Large-Cap,2606604,NYQ
+USFD,US Foods Holding Corp.,Consumer Defensive,Large-Cap,2271006,NYQ
+BNTX,BioNTech SE,Healthcare,Large-Cap,1236053,NMS
+AMCR,Amcor plc,Consumer Cyclical,Large-Cap,3540975,NYQ
+SOFI,"SoFi Technologies, Inc.",Financial Services,Large-Cap,48609768,NMS
+VTRS,Viatris Inc.,Healthcare,Large-Cap,8970752,NMS
+THC,Tenet Healthcare Corporation,Healthcare,Large-Cap,773303,NYQ
+LYB,LyondellBasell Industries NV,Basic Materials,Large-Cap,3673824,NYQ
+NI,NiSource Inc,Utilities,Large-Cap,5737666,NYQ
+ALNY,"Alnylam Pharmaceuticals, Inc.",Healthcare,Large-Cap,1906832,NMS
+LUV,Southwest Airlines Company,Industrials,Large-Cap,5782709,NYQ
+WIT,Wipro Limited,Technology,Large-Cap,9451758,NYQ
+PTC,PTC Inc.,Technology,Large-Cap,2435158,NMS
+JBHT,"J.B. Hunt Transport Services, I",Industrials,Large-Cap,981747,NMS
+SMCI,"Super Micro Computer, Inc.",Technology,Large-Cap,43687744,NMS
+NVT,nVent Electric plc,Industrials,Large-Cap,2504132,NYQ
+EXE,Expand Energy Corporation,Energy,Large-Cap,3140864,NMS
+BR,"Broadridge Financial Solutions,",Technology,Large-Cap,1058713,NYQ
+DD,"DuPont de Nemours, Inc.",Basic Materials,Large-Cap,1104933,NYQ
+LEN,Lennar Corporation,Consumer Cyclical,Large-Cap,4254729,NYQ
+NRG,"NRG Energy, Inc.",Utilities,Large-Cap,3169818,NYQ
+FTAI,FTAI Aviation Ltd.,Industrials,Large-Cap,1586568,NMS
+FIS,Fidelity National Information S,Technology,Large-Cap,6682932,NYQ
+PR,Permian Resources Corporation,Energy,Large-Cap,9738867,NYQ
+FSLR,"First Solar, Inc.",Technology,Large-Cap,2443672,NMS
+SWKS,"Skyworks Solutions, Inc.",Technology,Large-Cap,6486575,NMS
+TSN,"Tyson Foods, Inc.",Consumer Defensive,Large-Cap,3362836,NYQ
+FTV,Fortive Corporation,Technology,Large-Cap,2455278,NYQ
+APG,APi Group Corporation,Industrials,Large-Cap,3153490,NYQ
+EVRG,"Evergy, Inc.",Utilities,Large-Cap,2264366,NMS
+DINO,HF Sinclair Corporation,Energy,Large-Cap,2550223,NYQ
+WWD,"Woodward, Inc.",Industrials,Large-Cap,668593,NMS
+BBY,"Best Buy Co., Inc.",Consumer Cyclical,Large-Cap,3407192,NYQ
+RGLD,"Royal Gold, Inc.",Basic Materials,Large-Cap,670218,NMS
+FDXF,"FedEx Freight Holding Company, ",Industrials,Large-Cap,1555818,NYQ
+TOST,"Toast, Inc.",Technology,Large-Cap,8834670,NYQ
+SBAC,SBA Communications Corporation,Real Estate,Large-Cap,1014246,NMS
+BEKE,KE Holdings Inc,Real Estate,Large-Cap,4820965,NYQ
+RIVN,"Rivian Automotive, Inc.",Consumer Cyclical,Large-Cap,25304237,NMS
+CRCL,"Circle Internet Group, Inc.",Financial Services,Large-Cap,12923951,NYQ
+BCE,"BCE, Inc.",Communication Services,Large-Cap,4241633,NYQ
+SSNC,"SS&C Technologies Holdings, Inc",Technology,Large-Cap,1674510,NMS
+CNH,CNH Industrial N.V.,Industrials,Large-Cap,18747210,NYQ
+LNT,Alliant Energy Corporation,Utilities,Large-Cap,2748316,NMS
+J,Jacobs Solutions Inc.,Industrials,Large-Cap,884056,NYQ
+FFIV,"F5, Inc.",Technology,Large-Cap,698372,NMS
+TPG,TPG Inc.,Financial Services,Large-Cap,2875040,NMS
+RVTY,"Revvity, Inc.",Healthcare,Large-Cap,1895424,NYQ
+IP,International Paper Company,Consumer Cyclical,Large-Cap,5132138,NYQ
+CDW,CDW Corporation,Technology,Large-Cap,1628450,NMS
+ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,Large-Cap,2107773,NYQ
+OVV,Ovintiv Inc. (DE),Energy,Large-Cap,3353135,NYQ
+PAA,"Plains All American Pipeline, L",Energy,Large-Cap,2609630,NMS
+RDDT,"Reddit, Inc.",Communication Services,Large-Cap,6272064,NYQ
+TSEM,Tower Semiconductor Ltd.,Technology,Large-Cap,2227860,NMS
+BG,Bunge Limited,Consumer Defensive,Large-Cap,1692575,NYQ
+WES,"Western Midstream Partners, LP",Energy,Large-Cap,1096770,NYQ
+EWBC,"East West Bancorp, Inc.",Financial Services,Large-Cap,808901,NMS
+ESS,"Essex Property Trust, Inc.",Real Estate,Large-Cap,529838,NYQ
+SNX,TD SYNNEX Corporation,Technology,Large-Cap,823978,NYQ
+TSCO,Tractor Supply Company,Consumer Cyclical,Large-Cap,11724778,NMS
+GIS,"General Mills, Inc.",Consumer Defensive,Large-Cap,9480578,NYQ
+ROL,"Rollins, Inc.",Consumer Cyclical,Large-Cap,6758924,NYQ
+RCI,"Rogers Communication, Inc.",Communication Services,Large-Cap,1342896,NYQ
+HST,"Host Hotels & Resorts, Inc.",Real Estate,Large-Cap,8809830,NMS
+CF,"CF Industries Holdings, Inc.",Basic Materials,Large-Cap,2515733,NYQ
+EXEL,"Exelixis, Inc.",Healthcare,Large-Cap,2379544,NMS
+AS,"Amer Sports, Inc.",Consumer Cyclical,Large-Cap,6799131,NYQ
+MTSI,MACOM Technology Solutions Hold,Technology,Large-Cap,1504489,NMS
+GEN,Gen Digital Inc.,Technology,Large-Cap,8538986,NMS
+VIV,Telefonica Brasil S.A.,Communication Services,Large-Cap,1607421,NYQ
+U,Unity Software Inc.,Technology,Large-Cap,10888201,NYQ
+YPF,YPF Sociedad Anonima,Energy,Large-Cap,1237507,NYQ
+NTNX,"Nutanix, Inc.",Technology,Large-Cap,2548031,NMS
+KSPI,Joint Stock Company Kaspi.kz - ,Technology,Large-Cap,569415,NMS
+IEX,IDEX Corporation,Industrials,Large-Cap,673506,NYQ
+H,Hyatt Hotels Corporation,Consumer Cyclical,Large-Cap,790298,NYQ
+RBA,"RB Global, Inc.",Industrials,Large-Cap,2006773,NYQ
+GPC,Genuine Parts Company,Consumer Cyclical,Large-Cap,1033035,NYQ
+NBIX,"Neurocrine Biosciences, Inc.",Healthcare,Large-Cap,1316116,NMS
+LDOS,"Leidos Holdings, Inc.",Technology,Large-Cap,1236341,NYQ
+CRL,Charles River Laboratories Inte,Healthcare,Large-Cap,1059438,NYQ
+WCC,"WESCO International, Inc.",Industrials,Large-Cap,594115,NYQ
+BALL,Ball Corporation,Consumer Cyclical,Large-Cap,2142560,NYQ
+TLN,Talen Energy Corporation,Utilities,Large-Cap,1009290,NMS
+APA,APA Corporation,Energy,Large-Cap,5724250,NMS
+BSBR,Banco Santander Brasil SA,Financial Services,Large-Cap,4388540,NYQ
+GFL,GFL Environmental Inc. Subordin,Industrials,Large-Cap,3445187,NYQ
+HAS,"Hasbro, Inc.",Consumer Cyclical,Large-Cap,1927815,NMS
+KIM,Kimco Realty Corporation (HC),Real Estate,Large-Cap,5385735,NYQ
+ULS,UL Solutions Inc.,Industrials,Large-Cap,896556,NYQ
+BEN,"Franklin Templeton, Inc.",Financial Services,Large-Cap,3731006,NYQ
+ASND,Ascendis Pharma A/S,Healthcare,Large-Cap,697826,NMS
+MGA,"Magna International, Inc.",Consumer Cyclical,Large-Cap,1108420,NYQ
+WMG,Warner Music Group Corp.,Communication Services,Large-Cap,2080065,NMS
+ALLE,Allegion plc,Industrials,Large-Cap,1225034,NYQ
+TYL,"Tyler Technologies, Inc.",Technology,Large-Cap,839450,NYQ
+OWL,Blue Owl Capital Inc.,Financial Services,Large-Cap,19954167,NYQ
+YUMC,"Yum China Holdings, Inc.",Consumer Cyclical,Large-Cap,1595392,NYQ
+CRBG,Corebridge Financial Inc.,Financial Services,Large-Cap,4696101,NYQ
+VNOM,"Viper Energy, Inc.",Energy,Large-Cap,1918506,NMS
+LAMR,Lamar Advertising Company,Real Estate,Large-Cap,563003,NMS
+NWSA,News Corporation,Communication Services,Large-Cap,3937817,NMS
+MAS,Masco Corporation,Industrials,Large-Cap,2207424,NYQ
+PAAS,Pan American Silver Corp.,Basic Materials,Large-Cap,4344032,NYQ
+JHX,James Hardie Industries plc.,Basic Materials,Large-Cap,9309860,NYQ
+SBS,Companhia de saneamento Basico ,Utilities,Large-Cap,11751186,NYQ
+SWK,"Stanley Black & Decker, Inc.",Industrials,Large-Cap,1707170,NYQ
+FICO,Fair Isaac Corporation,Technology,Large-Cap,760816,NYQ
+MTZ,"MasTec, Inc.",Industrials,Large-Cap,1642278,NYQ
+ZBRA,Zebra Technologies Corporation,Technology,Large-Cap,600146,NMS
+PNFP,"Pinnacle Financial Partners, In",Financial Services,Large-Cap,1053590,NYQ
+INVH,Invitation Homes Inc.,Real Estate,Large-Cap,5001901,NYQ
+SQM,Sociedad Quimica y Minera S.A.,Basic Materials,Large-Cap,961850,NYQ
+HTHT,H World Group Limited,Consumer Cyclical,Large-Cap,1569321,NMS
+EMA,Emera Incorporated,Utilities,Large-Cap,734192,NYQ
+ICLR,ICON plc,Healthcare,Large-Cap,944336,NMS
+CX,"Cemex, S.A.B. de C.V. Sponsored",Basic Materials,Large-Cap,7112469,NYQ
+W,Wayfair Inc.,Consumer Cyclical,Large-Cap,2319768,NYQ
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,Large-Cap,1735398,NMS
+TRMB,Trimble Inc.,Technology,Large-Cap,2837655,NMS
+HSAI,Hesai Group,Consumer Cyclical,Large-Cap,1589607,NMS
+PFGC,Performance Food Group Company,Consumer Defensive,Large-Cap,1659423,NYQ
+EQH,"Equitable Holdings, Inc.",Financial Services,Large-Cap,2734123,NYQ
+ZTO,ZTO Express (Cayman) Inc.,Industrials,Large-Cap,2304123,NYQ
+DOCU,"DocuSign, Inc.",Technology,Large-Cap,3051039,NMS
+OHI,"Omega Healthcare Investors, Inc",Real Estate,Large-Cap,1966626,NYQ
+LSCC,Lattice Semiconductor Corporati,Technology,Large-Cap,1946950,NMS
+JAZZ,Jazz Pharmaceuticals plc,Healthcare,Large-Cap,889907,NMS
+BURL,"Burlington Stores, Inc.",Consumer Cyclical,Large-Cap,1468854,NYQ
+CSL,Carlisle Companies Incorporated,Industrials,Large-Cap,512103,NYQ
+SGI,Somnigroup International Inc.,Consumer Cyclical,Large-Cap,3247656,NYQ
+TRU,TransUnion,Financial Services,Large-Cap,2769982,NYQ
+MANH,"Manhattan Associates, Inc.",Technology,Large-Cap,753390,NMS
+CHTR,"Charter Communications, Inc.",Communication Services,Large-Cap,2899515,NMS
+WPC,W. P. Carey Inc. REIT,Real Estate,Large-Cap,1528695,NYQ
+TXT,Textron Inc.,Industrials,Large-Cap,1729318,NYQ
+WY,Weyerhaeuser Company,Real Estate,Large-Cap,7288481,NYQ
+HALO,"Halozyme Therapeutics, Inc.",Healthcare,Large-Cap,2387629,NMS
+CRS,Carpenter Technology Corporatio,Industrials,Large-Cap,917840,NYQ
+NXT,Nextpower Inc.,Technology,Large-Cap,2377007,NMS
+BEP,Brookfield Renewable Partners L,Utilities,Large-Cap,1099210,NYQ
+SUI,"Sun Communities, Inc.",Real Estate,Large-Cap,1488312,NYQ
+TME,Tencent Music Entertainment Gro,Communication Services,Large-Cap,8180342,NYQ
+BBIO,"BridgeBio Pharma, Inc.",Healthcare,Large-Cap,2695154,NMS
+ASTS,"AST SpaceMobile, Inc.",Technology,Large-Cap,13202870,NMS
+FLUT,Flutter Entertainment plc,Consumer Cyclical,Large-Cap,2922195,NYQ
+ARMK,Aramark,Industrials,Large-Cap,2667139,NYQ
+SOLV,Solventum Corporation,Healthcare,Large-Cap,1032228,NYQ
+CG,The Carlyle Group Inc.,Financial Services,Large-Cap,3557315,NMS
+UNM,Unum Group,Financial Services,Large-Cap,1866041,NYQ
+GDDY,GoDaddy Inc.,Technology,Large-Cap,2040359,NYQ
+FUTU,Futu Holdings Limited,Financial Services,Large-Cap,1180418,NGM
+CHKP,Check Point Software Technologi,Technology,Large-Cap,1194175,NMS
+NLY,Annaly Capital Management Inc.,Real Estate,Large-Cap,10360160,NYQ
+TEM,"Tempus AI, Inc.",Healthcare,Large-Cap,7236064,NMS
+AVY,Avery Dennison Corporation,Consumer Cyclical,Large-Cap,845110,NYQ
+PHYS,"""Sprott Physical Gold Trust""",N/A,Large-Cap,4088721,ASE
+REG,Regency Centers Corporation,Real Estate,Large-Cap,1261138,NMS
+TU,Telus Corporation,Communication Services,Large-Cap,6430604,NYQ
+MAA,Mid-America Apartment Communiti,Real Estate,Large-Cap,1036429,NYQ
+GKOS,Glaukos Corporation,Healthcare,Large-Cap,1157450,NYQ
+COKE,"Coca-Cola Consolidated, Inc.",Consumer Defensive,Large-Cap,512300,NMS
+DT,"Dynatrace, Inc.",Technology,Large-Cap,7557389,NYQ
+MKSI,MKS Inc.,Technology,Large-Cap,1360240,NMS
+DOC,"Healthpeak Properties, Inc.",Real Estate,Large-Cap,5452001,NYQ
+BJ,"BJ's Wholesale Club Holdings, I",Consumer Defensive,Large-Cap,1952318,NYQ
+TOL,"Toll Brothers, Inc.",Consumer Cyclical,Large-Cap,1046912,NYQ
+CART,Maplebear Inc.,Consumer Cyclical,Large-Cap,5449723,NMS
+ARCC,Ares Capital Corporation,Financial Services,Large-Cap,4504121,NMS
+BTSG,"BrightSpring Health Services, I",Healthcare,Large-Cap,2492053,NMS
+CDE,"Coeur Mining, Inc.",Basic Materials,Large-Cap,36477510,NYQ
+SJM,The J.M. Smucker Company,Consumer Defensive,Large-Cap,1260310,NYQ
+INIO,INNIO N.V.,Industrials,Large-Cap,5448893,NMS
+KEP,Korea Electric Power Corporatio,Utilities,Large-Cap,957435,NYQ
+RPM,RPM International Inc.,Basic Materials,Large-Cap,1297596,NYQ
+EMBJ,Embraer S.A.,Industrials,Large-Cap,1434641,NYQ
+EHC,Encompass Health Corporation,Healthcare,Large-Cap,1007386,NYQ
+DKS,Dick's Sporting Goods Inc,Consumer Cyclical,Large-Cap,3460218,NYQ
+BF-B,Brown Forman Inc,Consumer Defensive,Large-Cap,2452541,NYQ
+SITM,SiTime Corporation,Technology,Large-Cap,521389,NGM
+GWRE,"Guidewire Software, Inc.",Technology,Large-Cap,1305384,NYQ
+UDR,"UDR, Inc.",Real Estate,Large-Cap,3969221,NYQ
+LOGI,Logitech International S.A. - R,Technology,Large-Cap,902246,NMS
+STLA,Stellantis N.V.,Consumer Cyclical,Large-Cap,28816667,NYQ
+CCK,"Crown Holdings, Inc.",Consumer Cyclical,Large-Cap,884927,NYQ
+JBS,JBS N.V.,Consumer Defensive,Large-Cap,5979935,NYQ
+FIVE,"Five Below, Inc.",Consumer Cyclical,Large-Cap,1052487,NMS
+FN,Fabrinet,Technology,Large-Cap,999830,NYQ
+PNW,Pinnacle West Capital Corporati,Utilities,Large-Cap,1283878,NYQ
+TIGO,Millicom International Cellular,Communication Services,Large-Cap,945029,NMS
+AMH,American Homes 4 Rent,Real Estate,Large-Cap,2665800,NYQ
+BAX,Baxter International Inc.,Healthcare,Large-Cap,6639127,NYQ
+SMMT,Summit Therapeutics Inc.,Healthcare,Large-Cap,6172345,NGM
+WSO,"Watsco, Inc.",Industrials,Large-Cap,559527,NYQ
+MKC,"McCormick & Company, Incorporat",Consumer Defensive,Large-Cap,3415209,NYQ
+IT,"Gartner, Inc.",Technology,Large-Cap,1152166,NYQ
+IONQ,"IonQ, Inc.",Technology,Large-Cap,21946456,NYQ
+RRC,Range Resources Corporation,Energy,Large-Cap,3529918,NYQ
+BSY,"Bentley Systems, Incorporated",Technology,Large-Cap,2672123,NMS
+GRAB,Grab Holdings Limited,Technology,Large-Cap,61169684,NMS
+SNN,"Smith & Nephew SNATS, Inc.",Healthcare,Large-Cap,1500578,NYQ
+DTM,"DT Midstream, Inc.",Energy,Large-Cap,982610,NYQ
+CSGP,"CoStar Group, Inc.",Real Estate,Large-Cap,6435320,NMS
+WTRG,"Essential Utilities, Inc.",Utilities,Large-Cap,2383707,NYQ
+SEIC,SEI Investments Company,Financial Services,Large-Cap,761436,NMS
+LULU,lululemon athletica inc.,Consumer Cyclical,Large-Cap,5026360,NMS
+HII,"Huntington Ingalls Industries, ",Industrials,Large-Cap,507644,NYQ
+AR,Antero Resources Corporation,Energy,Large-Cap,4080737,NYQ
+MAIR,Madison Air Solutions Corporati,Industrials,Large-Cap,2601114,NYQ
+GME,GameStop Corporation,Consumer Cyclical,Large-Cap,8583086,NYQ
+IVZ,Invesco Ltd,Financial Services,Large-Cap,4560670,NYQ
+GNRC,Generac Holdlings Inc.,Industrials,Large-Cap,1222255,NYQ
+AKAM,"Akamai Technologies, Inc.",Technology,Large-Cap,4818466,NMS
+BMNR,"BitMine Immersion Technologies,",Financial Services,Large-Cap,37387818,NYQ
+ELAN,Elanco Animal Health Incorporat,Healthcare,Large-Cap,5867800,NYQ
+TXRH,"Texas Roadhouse, Inc.",Consumer Cyclical,Large-Cap,1156046,NMS
+GL,Globe Life Inc.,Financial Services,Large-Cap,511535,NYQ
+BWXT,"BWX Technologies, Inc.",Industrials,Large-Cap,1197230,NYQ
+ONON,On Holding AG,Consumer Cyclical,Large-Cap,10753439,NYQ
+MLI,"Mueller Industries, Inc.",Industrials,Large-Cap,1614110,NYQ
+ELS,"Equity Lifestyle Properties, In",Real Estate,Large-Cap,1778627,NYQ
+QXO,"QXO, Inc.",Industrials,Large-Cap,19049554,NYQ
+AEG,Aegon Ltd. New York Registry Sh,Financial Services,Large-Cap,5332743,NYQ
+PAYC,"Paycom Software, Inc.",Technology,Large-Cap,707262,NYQ
+AHR,"American Healthcare REIT, Inc.",Real Estate,Large-Cap,3187117,NYQ
+RDY,Dr. Reddy's Laboratories Ltd,Healthcare,Large-Cap,2913801,NYQ
+RTO,Rentokil Initial plc,Industrials,Large-Cap,1741396,NYQ
+LII,"Lennox International, Inc.",Industrials,Large-Cap,569981,NYQ
+FDS,FactSet Research Systems Inc.,Financial Services,Large-Cap,815801,NYQ
+RRX,Regal Rexnord Corporation,Industrials,Large-Cap,1229906,NYQ
+SKM,"SK Telecom Co., Ltd.",Communication Services,Large-Cap,1470781,NYQ
+SMTC,Semtech Corporation,Technology,Mid-Cap,3441530,NMS
+MICC,The Magnum Ice Cream Company N.,Consumer Defensive,Large-Cap,810879,NYQ
+GLPI,"Gaming and Leisure Properties, ",Real Estate,Large-Cap,3297792,NMS
+HRL,Hormel Foods Corporation,Consumer Defensive,Large-Cap,5254727,NYQ
+FRO,Frontline Plc,Energy,Large-Cap,3665458,NYQ
+CPT,Camden Property Trust,Real Estate,Mid-Cap,973558,NYQ
+RYAN,"Ryan Specialty Holdings, Inc.",Financial Services,Large-Cap,1884178,NYQ
+EQX,Equinox Gold Corp.,Basic Materials,Large-Cap,13051942,ASE
+ALLY,Ally Financial Inc.,Financial Services,Large-Cap,3790032,NYQ
+PINS,"Pinterest, Inc.",Communication Services,Large-Cap,13382621,NYQ
+HUBS,"HubSpot, Inc.",Technology,Mid-Cap,1533268,NYQ
+FMS,Fresenius Medical Care AG,Healthcare,Large-Cap,961881,NYQ
+COO,"The Cooper Companies, Inc.",Healthcare,Large-Cap,3488909,NMS
+EVR,Evercore Inc.,Financial Services,Large-Cap,550229,NYQ
+RGEN,Repligen Corporation,Healthcare,Large-Cap,1185323,NMS
+SUZ,Suzano S.A.,Basic Materials,Large-Cap,3516029,NYQ
+TECH,Bio-Techne Corp,Healthcare,Large-Cap,2872570,NMS
+DVA,DaVita Inc.,Healthcare,Large-Cap,730350,NYQ
+JKHY,"Jack Henry & Associates, Inc.",Technology,Large-Cap,954978,NMS
+AGI,Alamos Gold Inc.,Basic Materials,Large-Cap,3776226,NYQ
+BXP,"BXP, Inc.",Real Estate,Large-Cap,1377012,NYQ
+FIG,"Figma, Inc.",Technology,Large-Cap,13434060,NYQ
+CLX,Clorox Company (The),Consumer Defensive,Large-Cap,2897273,NYQ
+DECK,Deckers Outdoor Corporation,Consumer Cyclical,Large-Cap,3179280,NYQ
+JEF,Jefferies Financial Group Inc.,Financial Services,Large-Cap,2211980,NYQ
+FNF,"Fidelity National Financial, In",Financial Services,Large-Cap,2466678,NYQ
+FHN,First Horizon Corporation,Financial Services,Large-Cap,5649333,NYQ
+GGG,Graco Inc.,Industrials,Large-Cap,2004869,NYQ
+PNR,Pentair plc.,Industrials,Large-Cap,3306287,NYQ
+NYT,New York Times Company (The),Communication Services,Large-Cap,2591200,NYQ
+STRL,"Sterling Infrastructure, Inc.",Industrials,Mid-Cap,719386,NMS
+SAIL,"SailPoint, Inc.",Technology,Large-Cap,4384290,NMS
+AGNC,AGNC Investment Corp.,Real Estate,Large-Cap,28933095,NMS
+LI,Li Auto Inc.,Consumer Cyclical,Large-Cap,2881748,NMS
+GSAT,"Globalstar, Inc.",Communication Services,Large-Cap,720356,NMS
+BMRN,BioMarin Pharmaceutical Inc.,Healthcare,Large-Cap,2339269,NMS
+DKNG,DraftKings Inc.,Consumer Cyclical,Mid-Cap,12883070,NMS
+MOH,Molina Healthcare Inc,Healthcare,Large-Cap,746076,NYQ
+KYMR,"Kymera Therapeutics, Inc.",Healthcare,Large-Cap,835118,NGM
+ALGN,"Align Technology, Inc.",Healthcare,Large-Cap,948018,NMS
+EGP,"EastGroup Properties, Inc.",Real Estate,Large-Cap,511650,NYQ
+PODD,Insulet Corporation,Healthcare,Large-Cap,1594583,NMS
+FROG,JFrog Ltd.,Technology,Large-Cap,1927153,NMS
+CHYM,"Chime Financial, Inc.",Technology,Large-Cap,6367887,NMS
+ARW,"Arrow Electronics, Inc.",Technology,Mid-Cap,548213,NYQ
+GMED,"Globus Medical, Inc.",Healthcare,Mid-Cap,1469657,NYQ
+ALB,Albemarle Corporation,Basic Materials,Large-Cap,2432056,NYQ
+AES,The AES Corporation,Utilities,Large-Cap,8563150,NYQ
+UHS,"Universal Health Services, Inc.",Healthcare,Large-Cap,711098,NYQ
+AVTR,"Avantor, Inc.",Healthcare,Large-Cap,8661737,NYQ
+DPZ,Domino's Pizza Inc,Consumer Cyclical,Large-Cap,803652,NMS
+WTFC,Wintrust Financial Corporation,Financial Services,Large-Cap,527206,NMS
+BWA,BorgWarner Inc.,Consumer Cyclical,Mid-Cap,2539123,NYQ
+DOCN,"DigitalOcean Holdings, Inc.",Technology,Mid-Cap,2822920,NYQ
+VSAT,"ViaSat, Inc.",Technology,Mid-Cap,2008878,NMS
+AA,Alcoa Corporation,Basic Materials,Large-Cap,4666043,NYQ
+QGEN,Qiagen N.V.,Healthcare,Large-Cap,3703750,NYQ
+WSE,Wise Group plc,Technology,Large-Cap,1741921,NMS
+UMBF,UMB Financial Corporation,Financial Services,Large-Cap,611863,NMS
+BAH,Booz Allen Hamilton Holding Cor,Industrials,Large-Cap,1807300,NYQ
+TLK,"PT Telekomunikasi Indonesia, Tb",Communication Services,Large-Cap,1481155,NYQ
+PSO,"Pearson, Plc",Communication Services,Large-Cap,703255,NYQ
+SSB,SouthState Bank Corporation,Financial Services,Large-Cap,738273,NYQ
+SIRI,SiriusXM Holdings Inc.,Communication Services,Large-Cap,4370272,NMS
+SF,Stifel Financial Corporation,Financial Services,Large-Cap,1292913,NYQ
+FLS,Flowserve Corporation,Industrials,Large-Cap,1618364,NYQ
+SCI,Service Corporation Internation,Consumer Cyclical,Large-Cap,1028393,NYQ
+DRS,"Leonardo DRS, Inc.",Industrials,Mid-Cap,1093780,NMS
+SSL,Sasol Ltd.,Basic Materials,Mid-Cap,1675366,NYQ
+WMS,"Advanced Drainage Systems, Inc.",Industrials,Mid-Cap,756964,NYQ
+TTC,Toro Company (The),Industrials,Mid-Cap,753670,NYQ
+KNX,Knight-Swift Transportation Hol,Industrials,Mid-Cap,3463643,NYQ
+OGE,OGE Energy Corp,Utilities,Large-Cap,1886413,NYQ
+HLI,"Houlihan Lokey, Inc.",Financial Services,Large-Cap,825646,NYQ
+PSLV,"""Sprott Physical Silver Trust""",N/A,Large-Cap,6675040,ASE
+TTEK,"Tetra Tech, Inc.",Industrials,Large-Cap,2264804,NMS
+LTH,"Life Time Group Holdings, Inc.",Consumer Cyclical,Large-Cap,3206517,NYQ
+DCI,"Donaldson Company, Inc.",Industrials,Mid-Cap,626652,NYQ
+OSCR,"Oscar Health, Inc.",Healthcare,Mid-Cap,5374454,NYQ
+PAYP,PayPay Corporation - American D,Technology,Large-Cap,675201,NMS
+CUBE,CubeSmart,Real Estate,Large-Cap,2338790,NYQ
+AM,Antero Midstream Corporation,Energy,Mid-Cap,2661617,NYQ
+ALSN,"Allison Transmission Holdings, ",Consumer Cyclical,Mid-Cap,773756,NYQ
+ONTO,Onto Innovation Inc.,Technology,Mid-Cap,1002576,NYQ
+CGNX,Cognex Corporation,Technology,Mid-Cap,1943575,NMS
+IREN,IREN LIMITED,Financial Services,Mid-Cap,47796821,NMS
+SOLS,Solstice Advanced Materials Inc,Basic Materials,Mid-Cap,2496996,NMS
+FRT,Federal Realty Investment Trust,Real Estate,Mid-Cap,909444,NYQ
+ONB,Old National Bancorp,Financial Services,Mid-Cap,4263758,NMS
+ZION,Zions Bancorporation N.A.,Financial Services,Mid-Cap,1483724,NMS
+PCVX,"Vaxcyte, Inc.",Healthcare,Large-Cap,2137726,NMS
+AEIS,"Advanced Energy Industries, Inc",Industrials,Mid-Cap,581558,NMS
+GLXY,Galaxy Digital Inc.,Financial Services,Mid-Cap,6600770,NMS
+JXN,Jackson Financial Inc.,Financial Services,Mid-Cap,752429,NYQ
+ESTC,Elastic N.V.,Technology,Mid-Cap,2341564,NYQ
+HBM,Hudbay Minerals Inc.,Basic Materials,Mid-Cap,4499958,NYQ
+PCOR,"Procore Technologies, Inc.",Technology,Large-Cap,3106687,NYQ
+HMY,Harmony Gold Mining Company Lim,Basic Materials,Large-Cap,3737423,NYQ
+OC,Owens Corning Inc,Industrials,Mid-Cap,1096069,NYQ
+SNAP,Snap Inc.,Communication Services,Mid-Cap,38022182,NYQ
+RMBS,"Rambus, Inc.",Technology,Mid-Cap,2167706,NMS
+HNGE,"Hinge Health, Inc.",Healthcare,Mid-Cap,1924243,NYQ
+CAI,"Caris Life Sciences, Inc.",Healthcare,Mid-Cap,4696482,NMS
+VOYA,"Voya Financial, Inc.",Financial Services,Mid-Cap,1014817,NYQ
+RHP,"Ryman Hospitality Properties, I",Real Estate,Mid-Cap,693472,NYQ
+TGTX,"TG Therapeutics, Inc.",Healthcare,Mid-Cap,1802335,NCM
+ORI,Old Republic International Corp,Financial Services,Mid-Cap,1541904,NYQ
+PBF,PBF Energy Inc.,Energy,Mid-Cap,3188565,NYQ
+XPEV,XPeng Inc.,Consumer Cyclical,Mid-Cap,7208560,NYQ
+SYRE,"Spyre Therapeutics, Inc.",Healthcare,Mid-Cap,1225035,NMS
+KNTK,Kinetik Holdings Inc.,Energy,Mid-Cap,1193685,NYQ
+HSIC,"Henry Schein, Inc.",Healthcare,Mid-Cap,1240398,NMS
+AMKR,"Amkor Technology, Inc.",Technology,Mid-Cap,4586118,NMS
+JAN,"Janus Living, Inc.",Real Estate,Mid-Cap,2142898,NYQ
+TWST,Twist Bioscience Corporation,Healthcare,Mid-Cap,2335092,NMS
+YMM,Full Truck Alliance Co. Ltd.,Technology,Mid-Cap,6997618,NYQ
+PTGX,"Protagonist Therapeutics, Inc.",Healthcare,Mid-Cap,647635,NGM
+GGB,Gerdau S.A.,Basic Materials,Mid-Cap,13948446,NYQ
+LINE,"Lineage, Inc.",Real Estate,Mid-Cap,944089,NMS
+IAG,Iamgold Corporation,Basic Materials,Large-Cap,5262606,NYQ
+PCTY,Paylocity Holding Corporation,Technology,Mid-Cap,660209,NMS
+CORT,Corcept Therapeutics Incorporat,Healthcare,Mid-Cap,1207723,NCM
+MTCH,"Match Group, Inc.",Communication Services,Mid-Cap,3499661,NMS
+BRX,Brixmor Property Group Inc.,Real Estate,Mid-Cap,3013692,NYQ
+NTSK,"Netskope, Inc.",Technology,Mid-Cap,6409423,NMS
+HL,Hecla Mining Company,Basic Materials,Mid-Cap,34440244,NYQ
+CBC,"Central Bancompany, Inc.",Financial Services,Mid-Cap,1126637,NMS
+SM,SM Energy Company,Energy,Mid-Cap,3514756,NYQ
+SANM,Sanmina Corporation,Technology,Mid-Cap,678898,NMS
+CHWY,"Chewy, Inc.",Consumer Cyclical,Mid-Cap,8279257,NYQ
+WLK,Westlake Corporation,Basic Materials,Mid-Cap,878261,NYQ
+PB,"Prosperity Bancshares, Inc.",Financial Services,Mid-Cap,967973,NYQ
+COLB,"Columbia Banking System, Inc.",Financial Services,Mid-Cap,2850435,NMS
+LEVI,Levi Strauss & Co,Consumer Cyclical,Mid-Cap,3327214,NYQ
+APTV,Aptiv PLC,Consumer Cyclical,Mid-Cap,3837130,NYQ
+REXR,"Rexford Industrial Realty, Inc.",Real Estate,Mid-Cap,2675293,NYQ
+IBRX,"ImmunityBio, Inc.",Healthcare,Mid-Cap,11333564,NMS
+GTLB,GitLab Inc.,Technology,Mid-Cap,4581989,NMS
+CYTK,"Cytokinetics, Incorporated",Healthcare,Mid-Cap,1987741,NMS
+TTMI,"TTM Technologies, Inc.",Technology,Mid-Cap,3282509,NMS
+BRKR,Bruker Corporation,Healthcare,Mid-Cap,2276849,NMS
+OSK,Oshkosh Corporation (Holding Co,Industrials,Mid-Cap,646235,NYQ
+EAT,"Brinker International, Inc.",Consumer Cyclical,Mid-Cap,1312413,NYQ
+CTRE,"CareTrust REIT, Inc.",Real Estate,Mid-Cap,2464631,NYQ
+ALV,"Autoliv, Inc.",Consumer Cyclical,Mid-Cap,719898,NYQ
+QNT,Quantinuum Inc.,Technology,Mid-Cap,1954807,NGM
+ADC,Agree Realty Corporation,Real Estate,Mid-Cap,1649198,NYQ
+IDA,"IDACORP, Inc.",Utilities,Mid-Cap,565598,NYQ
+AUR,"Aurora Innovation, Inc.",Consumer Cyclical,Mid-Cap,28779470,NMS
+CAE,CAE Inc,Industrials,Mid-Cap,748824,NMS
+AOS,A.O. Smith Corporation,Industrials,Mid-Cap,1527870,NYQ
+TXG,"10x Genomics, Inc.",Healthcare,Mid-Cap,3495057,NMS
+CWEN,"Clearway Energy, Inc.",Utilities,Mid-Cap,1261959,NYQ
+HQY,"HealthEquity, Inc.",Healthcare,Mid-Cap,870773,NMS
+FPS,"Forgent Power Solutions, Inc.",Industrials,Mid-Cap,8929348,NYQ
+TIMB,TIM S.A.,Communication Services,Mid-Cap,672410,NYQ
+ESI,Element Solutions Inc.,Basic Materials,Mid-Cap,4348570,NYQ
+MHK,"Mohawk Industries, Inc.",Consumer Cyclical,Mid-Cap,1166176,NYQ
+ACM,AECOM,Industrials,Mid-Cap,1832827,NYQ
+AAL,"American Airlines Group, Inc.",Industrials,Mid-Cap,63301950,NMS
+DAR,Darling Ingredients Inc.,Consumer Defensive,Mid-Cap,2428824,NYQ
+ARWR,"Arrowhead Pharmaceuticals, Inc.",Healthcare,Mid-Cap,1714418,NMS
+SARO,"StandardAero, Inc.",Industrials,Mid-Cap,3673320,NYQ
+KT,KT Corporation,Communication Services,Mid-Cap,1763612,NYQ
+WAL,Western Alliance Bancorporation,Financial Services,Mid-Cap,1122336,NYQ
+CNM,"Core & Main, Inc.",Industrials,Mid-Cap,2230984,NYQ
+EGO,Eldorado Gold Corporation,Basic Materials,Mid-Cap,3443095,NYQ
+VICR,Vicor Corporation,Technology,Mid-Cap,964253,NMS
+SPXC,"SPX Technologies, Inc.",Industrials,Mid-Cap,597504,NYQ
+UGI,UGI Corporation,Utilities,Mid-Cap,1975978,NYQ
+LNC,Lincoln National Corporation,Financial Services,Mid-Cap,1992958,NYQ
+TKR,Timken Company (The),Industrials,Mid-Cap,920466,NYQ
+CLF,Cleveland-Cliffs Inc.,Basic Materials,Mid-Cap,18478066,NYQ
+S,"SentinelOne, Inc.",Technology,Mid-Cap,9814965,NYQ
+VSXY,Victorias Secret & Co.,Consumer Cyclical,Mid-Cap,1716454,NYQ
+NIO,NIO Inc.,Consumer Cyclical,Mid-Cap,33184375,NYQ
+WYNN,"Wynn Resorts, Limited",Consumer Cyclical,Mid-Cap,2119716,NMS
+RAL,Ralliant Corporation,Technology,Mid-Cap,1386314,NYQ
+TTAN,"ServiceTitan, Inc.",Technology,Mid-Cap,2362729,NMS
+NCLH,Norwegian Cruise Line Holdings ,Consumer Cyclical,Mid-Cap,19115551,NYQ
+CHRD,Chord Energy Corporation,Energy,Mid-Cap,723318,NMS
+CBSH,"Commerce Bancshares, Inc.",Financial Services,Mid-Cap,965524,NMS
+NNN,"NNN REIT, Inc.",Real Estate,Mid-Cap,2188550,NYQ
+VLY,Valley National Bancorp,Financial Services,Mid-Cap,6759980,NMS
+CTVA,"Corteva, Inc.",Basic Materials,Mid-Cap,31765548,NYQ
+MGM,MGM Resorts International,Consumer Cyclical,Mid-Cap,4337609,NYQ
+VFC,V.F. Corporation,Consumer Cyclical,Mid-Cap,8836703,NYQ
+TAP,Molson Coors Beverage Company,Consumer Defensive,Mid-Cap,3810624,NYQ
+HUT,Hut 8 Corp.,Financial Services,Mid-Cap,5605740,NMS
+ETSY,"Etsy, Inc.",Consumer Cyclical,Mid-Cap,3312448,NYQ
+EDU,New Oriental Education & Techno,Consumer Defensive,Mid-Cap,751976,NYQ
+ALKS,Alkermes plc,Healthcare,Mid-Cap,1863743,NMS
+DSGX,The Descartes Systems Group Inc,Technology,Mid-Cap,591736,NMS
+AGCO,AGCO Corporation,Industrials,Mid-Cap,1013170,NYQ
+ABVX,Abivax SA,Healthcare,Mid-Cap,1091115,NGM
+ZETA,Zeta Global Holdings Corp.,Technology,Mid-Cap,6158371,NYQ
+GAP,"Gap, Inc. (The)",Consumer Cyclical,Mid-Cap,6665473,NYQ
+KTOS,Kratos Defense & Security Solut,Industrials,Mid-Cap,4174981,NMS
+KMX,CarMax Inc,Consumer Cyclical,Mid-Cap,2594823,NYQ
+ELPC,Companhia Paranaense de Energia,Utilities,Mid-Cap,672012,NYQ
+DBX,"Dropbox, Inc.",Technology,Mid-Cap,3930768,NMS
+BROS,Dutch Bros Inc.,Consumer Cyclical,Mid-Cap,4560740,NYQ
+AXS,Axis Capital Holdings Limited,Financial Services,Mid-Cap,676147,NYQ
+CELH,"Celsius Holdings, Inc.",Consumer Defensive,Mid-Cap,7820961,NCM
+LW,"Lamb Weston Holdings, Inc.",Consumer Defensive,Mid-Cap,1952553,NYQ
+GIL,"Gildan Activewear, Inc.",Consumer Cyclical,Mid-Cap,1586626,NYQ
+AXTA,Axalta Coating Systems Ltd.,Basic Materials,Mid-Cap,1854334,NYQ
+FR,"First Industrial Realty Trust, ",Real Estate,Mid-Cap,1251967,NYQ
+VIST,Vista Energy S.A.B. de C.V.,Energy,Mid-Cap,1053348,NYQ
+NFG,National Fuel Gas Company,Energy,Mid-Cap,872473,NYQ
+FORM,"FormFactor, Inc.",Technology,Mid-Cap,1551267,NMS
+EMN,Eastman Chemical Company,Basic Materials,Mid-Cap,1218989,NYQ
+KEX,Kirby Corporation,Industrials,Mid-Cap,520252,NYQ
+URBN,"Urban Outfitters, Inc.",Consumer Cyclical,Mid-Cap,1122676,NMS
+BZ,KANZHUN LIMITED - American Depo,Communication Services,Mid-Cap,6647287,NMS
+POOL,Pool Corporation,Industrials,Mid-Cap,778186,NMS
+PRMB,Primo Brands Corporation,Consumer Defensive,Mid-Cap,4662780,NYQ
+VIAV,Viavi Solutions Inc.,Technology,Mid-Cap,5487246,NMS
+TBBB,BBB Foods Inc.,Consumer Defensive,Mid-Cap,871957,NYQ
+AXSM,"Axsome Therapeutics, Inc.",Healthcare,Mid-Cap,846209,NGM
+STAG,"Stag Industrial, Inc.",Real Estate,Mid-Cap,1533720,NYQ
+PACS,"PACS Group, Inc.",Healthcare,Mid-Cap,783937,NYQ
+XP,XP Inc.,Financial Services,Mid-Cap,12398240,NMS
+AVT,"Avnet, Inc.",Technology,Mid-Cap,1356809,NMS
+CMC,Commercial Metals Company,Industrials,Mid-Cap,1146240,NYQ
+ARE,Alexandria Real Estate Equities,Real Estate,Mid-Cap,2248570,NYQ
+ZWS,Zurn Elkay Water Solutions Corp,Industrials,Mid-Cap,1006343,NYQ
+MAC,Macerich Company (The),Real Estate,Mid-Cap,3390509,NYQ
+SOBO,South Bow Corporation,Energy,Mid-Cap,688473,NYQ
+KNSA,Kiniksa Pharmaceuticals Interna,Healthcare,Mid-Cap,648637,NMS
+QLYS,"Qualys, Inc.",Technology,Mid-Cap,714725,NMS
+SFD,"Smithfield Foods, Inc.",Consumer Defensive,Mid-Cap,2029131,NMS
+TRNO,Terreno Realty Corporation,Real Estate,Mid-Cap,711673,NYQ
+ADT,ADT Inc.,Industrials,Mid-Cap,11974187,NYQ
+COMP,"Compass, Inc.",Real Estate,Mid-Cap,13542568,NYQ
+BLCO,Bausch + Lomb Corporation,Healthcare,Mid-Cap,597278,NYQ
+VCTR,"Victory Capital Holdings, Inc. ",Financial Services,Mid-Cap,642884,NMS
+ZG,"Zillow Group, Inc.",Communication Services,Mid-Cap,1088370,NMS
+NE,Noble Corporation plc A,Energy,Mid-Cap,1235729,NYQ
+PDI,PIMCO Dynamic Income Fund,Financial Services,Mid-Cap,3949325,NYQ
+AMRX,"Amneal Pharmaceuticals, Inc.",Healthcare,Mid-Cap,3081375,NMS
+CAVA,"CAVA Group, Inc.",Consumer Cyclical,Mid-Cap,3491414,NYQ
+CROX,"Crocs, Inc.",Consumer Cyclical,Mid-Cap,1142441,NMS
+EPAM,"EPAM Systems, Inc.",Technology,Mid-Cap,1181053,NYQ
+SEI,"Solaris Energy Infrastructure, ",Energy,Mid-Cap,2847407,NYQ
+GLBE,Global-E Online Ltd.,Consumer Cyclical,Mid-Cap,1456784,NMS
+AG,First Majestic Silver Corp.,Basic Materials,Mid-Cap,9899887,NYQ
+DY,"Dycom Industries, Inc.",Industrials,Mid-Cap,643716,NYQ
+CAG,"ConAgra Brands, Inc.",Consumer Defensive,Mid-Cap,11498063,NYQ
+MGY,Magnolia Oil & Gas Corporation,Energy,Mid-Cap,3735481,NYQ
+PATH,"UiPath, Inc.",Technology,Mid-Cap,46420843,NYQ
+G,Genpact Limited,Technology,Mid-Cap,2139949,NYQ
+BLDR,"Builders FirstSource, Inc.",Industrials,Mid-Cap,2821770,NYQ
+SWX,"Southwest Gas Holdings, Inc.",Utilities,Mid-Cap,641972,NYQ
+MTDR,Matador Resources Company,Energy,Mid-Cap,1754273,NYQ
+IONS,"Ionis Pharmaceuticals, Inc.",Healthcare,Mid-Cap,3187409,NMS
+HESM,Hess Midstream LP,Energy,Mid-Cap,2091934,NYQ
+SNEX,StoneX Group Inc.,Financial Services,Mid-Cap,957880,NMS
+BVN,Buenaventura Mining Company Inc,Basic Materials,Mid-Cap,1044403,NYQ
+VNO,Vornado Realty Trust,Real Estate,Mid-Cap,1365526,NYQ
+ANF,Abercrombie & Fitch Company,Consumer Cyclical,Mid-Cap,1566784,NYQ
+SIMO,Silicon Motion Technology Corpo,Technology,Mid-Cap,974703,NMS
+MP,MP Materials Corp.,Basic Materials,Mid-Cap,5795737,NYQ
+NOV,NOV Inc.,Energy,Mid-Cap,3521478,NYQ
+CHDN,"Churchill Downs, Incorporated",Consumer Cyclical,Mid-Cap,1100766,NMS
+RIG,Transocean Ltd (Switzerland),Energy,Mid-Cap,43097347,NYQ
+FAF,First American Corporation (New,Financial Services,Mid-Cap,940344,NYQ
+UBSI,"United Bankshares, Inc.",Financial Services,Mid-Cap,931432,NMS
+ELF,"e.l.f. Beauty, Inc.",Consumer Defensive,Mid-Cap,1530867,NYQ
+ORKA,"Oruka Therapeutics, Inc.",Healthcare,Mid-Cap,900276,NGM
+MOD,Modine Manufacturing Company,Industrials,Mid-Cap,1589101,NYQ
+HR,Healthcare Realty Trust Incorpo,Real Estate,Mid-Cap,4660806,NYQ
+RNG,"Ringcentral, Inc.",Technology,Mid-Cap,1597778,NYQ
+CVLT,"Commvault Systems, Inc.",Technology,Mid-Cap,608489,NMS
+LNTH,"Lantheus Holdings, Inc.",Healthcare,Mid-Cap,1150781,NGM
+CEF,N/A,N/A,Mid-Cap,657469,ASE
+CPB,The Campbell's Company,Consumer Defensive,Mid-Cap,7330520,NMS
+OMF,"OneMain Holdings, Inc.",Financial Services,Mid-Cap,924396,NYQ
+HRB,"H&R Block, Inc.",Consumer Cyclical,Mid-Cap,2091949,NYQ
+TEX,Terex Corporation,Industrials,Mid-Cap,1376336,NYQ
+FNB,F.N.B. Corporation,Financial Services,Mid-Cap,4664709,NYQ
+DOX,Amdocs Limited,Technology,Mid-Cap,1262892,NMS
+ACI,"Albertsons Companies, Inc.",Consumer Defensive,Mid-Cap,8065215,NYQ
+PAGP,"Plains GP Holdings, L.P.",Energy,Mid-Cap,1868546,NMS
+KVYO,"Klaviyo, Inc. Series A",Technology,Mid-Cap,5951253,NYQ
+TXNM,"TXNM Energy, Inc.",Utilities,Mid-Cap,1295107,NYQ
+PPC,Pilgrim's Pride Corporation,Consumer Defensive,Mid-Cap,1381398,NMS
+NAVN,"Navan, Inc.",Technology,Mid-Cap,3148026,NMS
+XMTR,"Xometry, Inc.",Industrials,Mid-Cap,732468,NMS
+LOAR,Loar Holdings Inc.,Industrials,Mid-Cap,860539,NYQ
+FLR,Fluor Corporation,Industrials,Mid-Cap,2475787,NYQ
+GBCI,"Glacier Bancorp, Inc.",Financial Services,Mid-Cap,1084535,NYQ
+WFRD,Weatherford International plc,Energy,Mid-Cap,1016084,NMS
+EXLS,"ExlService Holdings, Inc.",Technology,Mid-Cap,2170112,NMS
+LGN,Legence Corp.,Industrials,Mid-Cap,1237464,NMS
+AVAV,"AeroVironment, Inc.",Industrials,Mid-Cap,1663510,NMS
+ALGM,"Allegro MicroSystems, Inc.",Technology,Mid-Cap,2756518,NMS
+LYFT,"Lyft, Inc.",Technology,Mid-Cap,10423771,NMS
+VAL,Valaris Limited,Energy,Mid-Cap,1063651,NYQ
+BKH,Black Hills Corporation,Utilities,Mid-Cap,1131644,NYQ
+M,Macy's Inc,Consumer Cyclical,Mid-Cap,6183653,NYQ
+HXL,Hexcel Corporation,Industrials,Mid-Cap,1030572,NYQ
+JMKE,Jersey Mike's Subs Inc.,Consumer Cyclical,Mid-Cap,3094171,NYQ
+VIPS,Vipshop Holdings Limited,Consumer Cyclical,Mid-Cap,2698359,NYQ
+GRAL,"GRAIL, Inc.",Healthcare,Mid-Cap,1065370,NMS
+OTEX,Open Text Corporation,Technology,Mid-Cap,1417178,NMS
+MBGL,Mobility Global Inc.,Technology,Mid-Cap,4072100,NYQ
+SBSW,D/B/A Sibanye-Stillwater Limite,Basic Materials,Mid-Cap,5286417,NYQ
+GTES,Gates Industrial Corporation Lt,Industrials,Mid-Cap,1978764,NYQ
+CWST,"Casella Waste Systems, Inc.",Industrials,Mid-Cap,578467,NMS
+KOD,Kodiak Sciences Inc,Healthcare,Mid-Cap,1730439,NGM
+WULF,TeraWulf Inc.,Financial Services,Mid-Cap,37111256,NCM
+BTG,B2Gold Corp,Basic Materials,Mid-Cap,25174740,ASE
+RLI,RLI Corp.,Financial Services,Mid-Cap,768566,NYQ
+INGR,Ingredion Incorporated,Consumer Defensive,Mid-Cap,688364,NYQ
+FTDR,"frontdoor, inc.",Consumer Cyclical,Mid-Cap,606114,NMS
+ESNT,Essent Group Ltd.,Financial Services,Mid-Cap,768503,NYQ
+JBTM,JBT Marel Corporation,Industrials,Mid-Cap,561060,NYQ
+INGM,Ingram Micro Holding Corporatio,Technology,Mid-Cap,1888651,NYQ
+ST,Sensata Technologies Holding pl,Technology,Mid-Cap,1407918,NYQ
+ENS,EnerSys,Industrials,Mid-Cap,551698,NYQ
+NICE,NICE Ltd,Technology,Mid-Cap,559738,NMS
+TTD,"The Trade Desk, Inc.",Communication Services,Mid-Cap,22155926,NGM
+OR,OR Royalties Inc.,Basic Materials,Mid-Cap,882848,NYQ
+UGP,Ultrapar Participacoes S.A. (Ne,Energy,Mid-Cap,4077118,NYQ
+HOMB,"Home BancShares, Inc.",Financial Services,Mid-Cap,1540113,NYQ
+RYTM,"Rhythm Pharmaceuticals, Inc.",Healthcare,Mid-Cap,914523,NGM
+GXO,"GXO Logistics, Inc.",Industrials,Mid-Cap,1308781,NYQ
+IMVT,"Immunovant, Inc.",Healthcare,Mid-Cap,1366760,NMS
+WEX,WEX Inc.,Technology,Mid-Cap,570406,NYQ
+EPRT,Essential Properties Realty Tru,Real Estate,Mid-Cap,2560881,NYQ
+DLB,Dolby Laboratories,Industrials,Mid-Cap,819047,NYQ
+HIMS,"Hims & Hers Health, Inc.",Healthcare,Mid-Cap,10791393,NYQ
+HLNE,Hamilton Lane Incorporated,Financial Services,Mid-Cap,622431,NMS
+ACIW,"ACI Worldwide, Inc.",Technology,Mid-Cap,869501,NMS
+CZR,"Caesars Entertainment, Inc.",Consumer Cyclical,Mid-Cap,5132840,NMS
+POWL,"Powell Industries, Inc.",Industrials,Mid-Cap,612495,NMS
+BOX,"Box, Inc.",Technology,Mid-Cap,2792596,NYQ
+ENIC,Enel Chile S.A.,Utilities,Mid-Cap,632931,NYQ
+GVA,Granite Construction Incorporat,Industrials,Mid-Cap,629530,NYQ
+MTG,MGIC Investment Corporation,Financial Services,Mid-Cap,2167227,NYQ
+DUOL,"Duolingo, Inc.",Technology,Mid-Cap,1228478,NMS
+RYN,Rayonier Inc. REIT,Real Estate,Mid-Cap,3648727,NYQ
+TFX,Teleflex Incorporated,Healthcare,Mid-Cap,748072,NYQ
+WH,"Wyndham Hotels & Resorts, Inc.",Consumer Cyclical,Mid-Cap,1285626,NYQ
+MOS,Mosaic Company (The),Basic Materials,Mid-Cap,9320101,NYQ
+HWC,Hancock Whitney Corporation,Financial Services,Mid-Cap,771770,NMS
+BIRK,Birkenstock Holding plc,Consumer Cyclical,Mid-Cap,2449318,NYQ
+NIQ,NIQ Global Intelligence plc,N/A,Mid-Cap,1405285,NYQ
+MKTX,"MarketAxess Holdings, Inc.",Financial Services,Mid-Cap,901975,NMS
+ORA,"Ormat Technologies, Inc.",Utilities,Mid-Cap,873706,NYQ
+RDNT,"RadNet, Inc.",Healthcare,Mid-Cap,706673,NGM
+GRFS,"Grifols, S.A.",Healthcare,Mid-Cap,570958,NMS
+CGON,"CG Oncology, Inc.",Healthcare,Mid-Cap,887887,NMS
+DOCS,"Doximity, Inc.",Healthcare,Mid-Cap,4073073,NYQ
+ASB,Associated Banc-Corp,Financial Services,Mid-Cap,2020924,NYQ
+AN,"AutoNation, Inc.",Consumer Cyclical,Mid-Cap,544612,NYQ
+AAON,"AAON, Inc.",Industrials,Mid-Cap,1215864,NMS
+SGHC,Super Group (SGHC) Limited,Consumer Cyclical,Mid-Cap,2862429,NYQ
+MXL,"MaxLinear, Inc",Technology,Mid-Cap,3037595,NMS
+BEPC,Brookfield Renewable Corporatio,Utilities,Mid-Cap,1974328,NYQ
+PTCT,"PTC Therapeutics, Inc.",Healthcare,Mid-Cap,1091668,NMS
+LEA,Lear Corporation,Consumer Cyclical,Mid-Cap,574646,NYQ
+MUR,Murphy Oil Corporation,Energy,Mid-Cap,1664858,NYQ
+STEP,StepStone Group Inc.,Financial Services,Mid-Cap,1066318,NMS
+OUT,OUTFRONT Media Inc.,Real Estate,Mid-Cap,1566420,NYQ
+HRI,Herc Holdings Inc.,Industrials,Mid-Cap,683947,NYQ
+OCTV,Octave Intelligence plc,Technology,Mid-Cap,2302090,NMS
+CRUS,"Cirrus Logic, Inc.",Technology,Mid-Cap,839575,NMS
+ECG,"Everus Construction Group, Inc.",Industrials,Mid-Cap,593150,NYQ
+MANE,"Veradermics, Incorporated",Healthcare,Mid-Cap,734442,NYQ
+MIRM,"Mirum Pharmaceuticals, Inc.",Healthcare,Mid-Cap,695926,NGM
+PEGA,Pegasystems Inc.,Technology,Mid-Cap,2398293,NMS
+PECO,"Phillips Edison & Company, Inc.",Real Estate,Mid-Cap,1072987,NMS
+VRNS,"Varonis Systems, Inc.",Technology,Mid-Cap,2863979,NMS
+AUB,Atlantic Union Bankshares Corpo,Financial Services,Mid-Cap,1207810,NYQ
+AROC,"Archrock, Inc.",Energy,Mid-Cap,1788764,NYQ
+OZK,Bank OZK,Financial Services,Mid-Cap,1413033,NMS
+MIDD,The Middleby Corporation,Industrials,Mid-Cap,585044,NMS
+TAL,TAL Education Group,Consumer Defensive,Mid-Cap,4886235,NYQ
+HAFN,Hafnia Limited,Industrials,Mid-Cap,2436571,NYQ
+CAKE,The Cheesecake Factory Incorpor,Consumer Cyclical,Mid-Cap,1537052,NMS
+ROAD,"Construction Partners, Inc.",Industrials,Mid-Cap,661582,NMS
+NJR,NewJersey Resources Corporation,Utilities,Mid-Cap,665329,NYQ
+CE,Celanese Corporation,Basic Materials,Mid-Cap,1624796,NYQ
+HAE,Haemonetics Corporation,Healthcare,Mid-Cap,712686,NYQ
+MWH,"SOLV Energy, Inc.",Utilities,Mid-Cap,1636125,NMS
+BETA,"Beta Technologies, Inc.",Industrials,Mid-Cap,2624126,NYQ
+BILI,Bilibili Inc.,Communication Services,Mid-Cap,3190823,NMS
+MTN,"Vail Resorts, Inc.",Consumer Cyclical,Mid-Cap,734252,NYQ
+PSN,Parsons Corporation,Technology,Mid-Cap,1168081,NYQ
+AMTM,"Amentum Holdings, Inc.",Industrials,Mid-Cap,2109581,NYQ
+FBIN,"Fortune Brands Innovations, Inc",Industrials,Mid-Cap,2423967,NYQ
+BYD,Boyd Gaming Corporation,Consumer Cyclical,Mid-Cap,1041024,NYQ
+AUGO,Aura Minerals Inc.,Basic Materials,Mid-Cap,963267,NMS
+BXSL,Blackstone Secured Lending Fund,Financial Services,Mid-Cap,1514803,NYQ
+INSW,"International Seaways, Inc.",Energy,Mid-Cap,743448,NYQ
+MEOH,Methanex Corporation,Basic Materials,Mid-Cap,755012,NMS
+RELY,"Remitly Global, Inc.",Technology,Mid-Cap,3571082,NMS
+POR,Portland General Electric Co,Utilities,Mid-Cap,1875383,NYQ
+COGT,"Cogent Biosciences, Inc.",Healthcare,Mid-Cap,1997667,NMS
+AAOI,"Applied Optoelectronics, Inc.",Technology,Mid-Cap,10649354,NGM
+APLD,Applied Digital Corporation,Technology,Mid-Cap,20942584,NMS
+NXE,Nexgen Energy Ltd.,Energy,Mid-Cap,5038940,NYQ
+GGAL,Grupo Financiero Galicia S.A.,Financial Services,Mid-Cap,958190,NCM
+SRRK,Scholar Rock Holding Corporatio,Healthcare,Mid-Cap,1680260,NMS
+SSRM,SSR Mining Inc.,Basic Materials,Mid-Cap,2480810,NMS
+CNO,"CNO Financial Group, Inc.",Financial Services,Mid-Cap,950503,NYQ
+WAY,Waystar Holding Corp.,Healthcare,Mid-Cap,2229860,NMS
+CNX,CNX Resources Corporation,Energy,Mid-Cap,1686646,NYQ
+RRR,"Red Rock Resorts, Inc.",Consumer Cyclical,Mid-Cap,935693,NMS
+OGC,OceanaGold Corporation,Basic Materials,Mid-Cap,602370,NYQ
+MMED,"MiniMed Group, Inc.",Healthcare,Mid-Cap,7694165,NMS
+SR,Spire Inc.,Utilities,Mid-Cap,509686,NYQ
+CHH,"Choice Hotels International, In",Consumer Cyclical,Mid-Cap,548010,NYQ
+BGC,"BGC Group, Inc.",Financial Services,Mid-Cap,3282436,NMS
+KRG,Kite Realty Group Trust,Real Estate,Mid-Cap,2098423,NYQ
+OBDC,Blue Owl Capital Corporation,Financial Services,Mid-Cap,3835275,NYQ
+EBC,"Eastern Bankshares, Inc.",Financial Services,Mid-Cap,2191209,NMS
+KRMN,Karman Holdings Inc.,Industrials,Mid-Cap,3300539,NYQ
+OLLI,Ollie's Bargain Outlet Holdings,Consumer Defensive,Mid-Cap,1690646,NGM
+BRZE,"Braze, Inc.",Technology,Mid-Cap,4582409,NMS
+BLLN,"BillionToOne, Inc.",Healthcare,Mid-Cap,608846,NMS
+CRGY,Crescent Energy Company,Energy,Mid-Cap,7989728,NYQ
+CON,Concentra Group Holdings Parent,Healthcare,Mid-Cap,1087273,NYQ
+RITM,Rithm Capital Corp.,Real Estate,Mid-Cap,6002735,NYQ
+RUSHA,"Rush Enterprises, Inc.",Consumer Cyclical,Mid-Cap,703703,NMS
+SNDR,"Schneider National, Inc.",Industrials,Mid-Cap,781823,NYQ
+SBRA,"Sabra Health Care REIT, Inc.",Real Estate,Mid-Cap,2448867,NMS
+OGS,"ONE Gas, Inc.",Utilities,Mid-Cap,573918,NYQ
+REYN,Reynolds Consumer Products Inc.,Consumer Cyclical,Mid-Cap,1381965,NMS
+LFST,"LifeStance Health Group, Inc.",Healthcare,Mid-Cap,4417598,NMS
+RIOT,"Riot Platforms, Inc.",Financial Services,Mid-Cap,20381704,NCM
+BC,Brunswick Corporation,Consumer Cyclical,Mid-Cap,793106,NYQ
+TREX,"Trex Company, Inc.",Industrials,Mid-Cap,1756601,NYQ
+ERAS,"Erasca, Inc.",Healthcare,Mid-Cap,4483237,NMS
+CIG,Comp En De Mn Cemig,Utilities,Mid-Cap,5212381,NYQ
+LPX,Louisiana-Pacific Corporation,Industrials,Mid-Cap,1210972,NYQ
+WHD,"Cactus, Inc. Class A Common Sto",Energy,Mid-Cap,698845,NYQ
+MMSI,"Merit Medical Systems, Inc.",Healthcare,Mid-Cap,719710,NMS
+KBR,"KBR, Inc.",Industrials,Mid-Cap,1490355,NYQ
+CMBT,CMB.TECH NV,Energy,Mid-Cap,1145775,NYQ
+KLAR,Klarna Group plc,Financial Services,Mid-Cap,6401000,NYQ
+FND,"Floor & Decor Holdings, Inc.",Consumer Cyclical,Mid-Cap,2693584,NYQ
+VNT,Vontier Corporation,Technology,Mid-Cap,1361576,NYQ
+HASI,HA Sustainable Infrastructure C,Financial Services,Mid-Cap,1081526,NYQ
+FIGR,"Figure Technology Solutions, In",Financial Services,Mid-Cap,4925996,NMS
+PL,Planet Labs PBC,Industrials,Mid-Cap,9373214,NYQ
+TENB,"Tenable Holdings, Inc.",Technology,Mid-Cap,4178576,NMS
+NWE,"NorthWestern Energy Group, Inc.",Utilities,Mid-Cap,526136,NMS
+YOU,"Clear Secure, Inc.",Technology,Mid-Cap,1827420,NYQ
+LUMN,"Lumen Technologies, Inc.",Communication Services,Mid-Cap,13906046,NMS
+LKQ,LKQ Corporation,Consumer Cyclical,Mid-Cap,4200390,NMS
+SFM,"Sprouts Farmers Market, Inc.",Consumer Defensive,Mid-Cap,2601506,NMS
+MRCY,Mercury Systems Inc,Industrials,Mid-Cap,701044,NMS
+LAUR,"Laureate Education, Inc.",Consumer Defensive,Mid-Cap,1109370,NMS
+CRSP,CRISPR Therapeutics AG,Healthcare,Mid-Cap,1526087,NGM
+CUZ,Cousins Properties Incorporated,Real Estate,Mid-Cap,1458695,NYQ
+CVI,CVR Energy Inc.,Energy,Mid-Cap,1298638,NYQ
+SON,Sonoco Products Company,Consumer Cyclical,Mid-Cap,1162460,NYQ
+JOBY,"Joby Aviation, Inc.",Industrials,Mid-Cap,24185478,NYQ
+OPLN,"OPENLANE, Inc.",Consumer Cyclical,Mid-Cap,1288866,NYQ
+SITE,"SiteOne Landscape Supply, Inc.",Industrials,Mid-Cap,942943,NYQ
+MBLY,Mobileye Global Inc.,Consumer Cyclical,Mid-Cap,5707589,NMS
+STWD,"STARWOOD PROPERTY TRUST, INC. S",Real Estate,Mid-Cap,5333176,NYQ
+BB,BlackBerry Limited,Technology,Mid-Cap,13770553,NYQ
+ESAB,ESAB Corporation,Industrials,Mid-Cap,1022821,NYQ
+MIR,"Mirion Technologies, Inc.",Industrials,Mid-Cap,4086126,NYQ
+RDN,Radian Group Inc.,Financial Services,Mid-Cap,1443443,NYQ
+OPCH,"Option Care Health, Inc.",Healthcare,Mid-Cap,3952206,NMS
+HTFL,"Heartflow, Inc.",Healthcare,Mid-Cap,1982192,NMS
+KGS,"Kodiak Gas Services, Inc.",Energy,Mid-Cap,1888612,NYQ
+VIRT,"Virtu Financial, Inc.",Financial Services,Mid-Cap,1262415,NYQ
+SKY,"Champion Homes, Inc.",Consumer Cyclical,Mid-Cap,620452,NYQ
+PIPR,Piper Sandler Companies,Financial Services,Mid-Cap,768016,NYQ
+IRDM,Iridium Communications Inc,Communication Services,Mid-Cap,956520,NMS
+PRM,"Perimeter Solutions, SA",Basic Materials,Mid-Cap,1212570,NYQ
+CDNA,"CareDx, Inc.",Healthcare,Mid-Cap,1321546,NGM
+SYNA,Synaptics Incorporated,Technology,Mid-Cap,954226,NMS
+GLNG,Golar LNG Limited,Energy,Mid-Cap,1422007,NMS
+DPC,DPC Holdings PLC,Industrials,Mid-Cap,1352526,NYQ
+BIPC,Brookfield Infrastructure Corpo,Utilities,Mid-Cap,1149615,NYQ
+RXO,"RXO, Inc.",Industrials,Mid-Cap,2810848,NYQ
+ATAT,Atour Lifestyle Holdings Limite,Consumer Cyclical,Mid-Cap,932356,NMS
+FHI,"Federated Hermes, Inc.",Financial Services,Mid-Cap,709683,NYQ
+SHC,Sotera Health Company,Healthcare,Mid-Cap,2332142,NMS
+DNTH,"Dianthus Therapeutics, Inc.",Healthcare,Mid-Cap,842440,NCM
+HHH,Howard Hughes Holdings Inc.,Real Estate,Mid-Cap,767264,NYQ
+BBWI,"Bath & Body Works, Inc.",Consumer Cyclical,Mid-Cap,6830153,NYQ
+WK,Workiva Inc.,Technology,Mid-Cap,1059117,NYQ
+TFSL,TFS Financial Corporation,Financial Services,Mid-Cap,764230,NMS
+SIG,Signet Jewelers Limited,Consumer Cyclical,Mid-Cap,857466,NYQ
+CRC,California Resources Corporatio,Energy,Mid-Cap,888320,NYQ
+FULT,Fulton Financial Corporation,Financial Services,Mid-Cap,1626975,NMS
+VSNT,"Versant Media Group, Inc.",Communication Services,Mid-Cap,1847118,NMS
+TNL,Travel   Leisure Co.,Consumer Cyclical,Mid-Cap,740187,NYQ
+EPR,EPR Properties,Real Estate,Mid-Cap,832816,NYQ
+CCC,CCC Intelligent Solutions Holdi,Technology,Mid-Cap,20963620,NMS
+SFBS,"ServisFirst Bancshares, Inc.",Financial Services,Mid-Cap,587014,NYQ
+SKT,Tanger Inc.,Real Estate,Mid-Cap,917213,NYQ
+CNK,Cinemark Holdings Inc Cinemark ,Communication Services,Mid-Cap,2107630,NYQ
+BWIN,"The Baldwin Insurance Group, In",Financial Services,Mid-Cap,2644203,NMS
+STNG,Scorpio Tankers Inc.,Energy,Mid-Cap,1017975,NYQ
+FFIN,"First Financial Bankshares, Inc",Financial Services,Mid-Cap,875784,NMS
+DFTX,"Definium Therapeutics, Inc.",Healthcare,Mid-Cap,2179240,NMS
+TVTX,"Travere Therapeutics, Inc.",Healthcare,Mid-Cap,1838662,NGM
+UCB,"United Community Banks, Inc.",Financial Services,Mid-Cap,914040,NYQ
+PTEN,"Patterson-UTI Energy, Inc.",Energy,Mid-Cap,7638936,NMS
+XE,"X-Energy, Inc.",Industrials,Mid-Cap,6294748,NMS
+RHI,Robert Half Inc.,Industrials,Mid-Cap,1986046,NYQ
+ALH,Alliance Laundry Holdings Inc.,Consumer Cyclical,Mid-Cap,1321646,NYQ
+CORZ,"Core Scientific, Inc.",Technology,Mid-Cap,13262218,NMS
+QTWO,"Q2 Holdings, Inc.",Technology,Mid-Cap,682120,NYQ
+CHEF,"The Chefs' Warehouse, Inc.",Consumer Defensive,Mid-Cap,626376,NMS
+GDS,GDS Holdings Limited,Technology,Mid-Cap,1978306,NGM
+OTF,Blue Owl Technology Finance Cor,Financial Services,Mid-Cap,2426815,NYQ
+FLG,"Flagstar Bank, N.A.",Financial Services,Mid-Cap,5573983,NYQ
+SLGN,Silgan Holdings Inc.,Consumer Cyclical,Mid-Cap,1148761,NYQ
+MC,Moelis & Company,Financial Services,Mid-Cap,921568,NYQ
+AIR,AAR Corp.,Industrials,Mid-Cap,511255,NYQ
+MAT,"Mattel, Inc.",Consumer Cyclical,Mid-Cap,5866920,NMS
+APLE,"Apple Hospitality REIT, Inc.",Real Estate,Mid-Cap,2493854,NYQ
+LIVN,LivaNova PLC,Healthcare,Mid-Cap,674917,NMS
+MDA,MDA Space Ltd.,Industrials,Mid-Cap,1457937,NYQ
+VVV,Valvoline Inc.,Consumer Cyclical,Mid-Cap,2579626,NYQ
+MTH,Meritage Homes Corporation,Consumer Cyclical,Mid-Cap,907453,NYQ
+DK,"Delek US Holdings, Inc.",Energy,Mid-Cap,2003230,NYQ
+WING,Wingstop Inc.,Consumer Cyclical,Mid-Cap,1336612,NMS
+OKLO,Oklo Inc.,Utilities,Mid-Cap,9993731,NYQ
+SRAD,Sportradar Group AG,Technology,Mid-Cap,2170260,NMS
+MRP,"Millrose Properties, Inc.",Real Estate,Mid-Cap,2329725,NYQ
+BILL,"BILL Holdings, Inc.",Technology,Mid-Cap,1825770,NYQ
+ARX,Accelerant Holdings,Financial Services,Mid-Cap,3271239,NYQ
+ITGR,Integer Holdings Corporation,Healthcare,Mid-Cap,829040,NYQ
+MMYT,MakeMyTrip Limited,Consumer Cyclical,Mid-Cap,873192,NMS
+AQN,Algonquin Power & Utilities Cor,Utilities,Mid-Cap,4196681,NYQ
+PRIM,Primoris Services Corporation,Industrials,Mid-Cap,1377309,NYQ
+HCC,"Warrior Met Coal, Inc.",Basic Materials,Mid-Cap,631871,NYQ
+ITRI,"Itron, Inc.",Technology,Mid-Cap,628187,NMS
+KRC,Kilroy Realty Corporation,Real Estate,Mid-Cap,1400041,NYQ
+GNTX,Gentex Corporation,Consumer Cyclical,Mid-Cap,2614958,NMS
+PVH,PVH Corp.,Consumer Cyclical,Mid-Cap,920180,NYQ
+KTB,"Kontoor Brands, Inc.",Consumer Cyclical,Mid-Cap,778392,NYQ
+LEGN,Legend Biotech Corporation,Healthcare,Mid-Cap,2146771,NMS
+PLNT,"Planet Fitness, Inc.",Consumer Cyclical,Mid-Cap,2190635,NYQ
+SEZL,Sezzle Inc.,Financial Services,Mid-Cap,618100,NCM
+TAC,TransAlta Corporation,Utilities,Mid-Cap,1708369,NYQ
+TRMD,TORM plc,Energy,Mid-Cap,1633531,NMS
+MDU,"MDU Resources Group, Inc.",Utilities,Mid-Cap,1782841,NYQ
+IRTC,"iRhythm Holdings, Inc.",Healthcare,Mid-Cap,568621,NMS
+TDS,"Telephone and Data Systems, Inc",Communication Services,Mid-Cap,1625772,NYQ
+ALK,"Alaska Air Group, Inc.",Industrials,Mid-Cap,3206795,NYQ
+VSH,"Vishay Intertechnology, Inc.",Technology,Mid-Cap,3712320,NYQ
+COLD,"Americold Realty Trust, Inc.",Real Estate,Mid-Cap,3476407,NYQ
+CLMT,"Calumet, Inc",Basic Materials,Mid-Cap,1455595,NMS
+ADPT,Adaptive Biotechnologies Corpor,Healthcare,Mid-Cap,2162484,NMS
+CNR,"Core Natural Resources, Inc.",Energy,Mid-Cap,511828,NYQ
+CRK,"Comstock Resources, Inc.",Energy,Mid-Cap,2580580,NYQ
+LAZ,"Lazard, Inc.",Financial Services,Mid-Cap,1658066,NYQ
+EXPO,"Exponent, Inc.",Industrials,Mid-Cap,514732,NMS
+EWTX,"Edgewise Therapeutics, Inc.",Healthcare,Mid-Cap,1472107,NMS
+TKC,Turkcell Iletisim Hizmetleri AS,Communication Services,Mid-Cap,2211284,NYQ
+VCYT,"Veracyte, Inc.",Healthcare,Small-Cap,1515618,NGM
+EQPT,EquipmentShare.com Inc,Industrials,Mid-Cap,3205785,NMS
+BFH,"Bread Financial Holdings, Inc.",Financial Services,Mid-Cap,544576,NYQ
+CVBF,CVB Financial Corporation,Financial Services,Mid-Cap,1291723,NMS
+ARQT,"Arcutis Biotherapeutics, Inc.",Healthcare,Mid-Cap,2575693,NMS
+PAY,"Paymentus Holdings, Inc.",Technology,Mid-Cap,1020689,NYQ
+NP,Neptune Insurance Holdings Inc.,Financial Services,Mid-Cap,525003,NYQ
+ENPH,"Enphase Energy, Inc.",Technology,Mid-Cap,5512704,NGM
+BOOT,"Boot Barn Holdings, Inc.",Consumer Cyclical,Mid-Cap,762728,NYQ
+THO,"Thor Industries, Inc.",Consumer Cyclical,Mid-Cap,803003,NYQ
+FBP,First BanCorp. New,Financial Services,Mid-Cap,1408626,NYQ
+NVST,Envista Holdings Corporation,Healthcare,Mid-Cap,2920590,NYQ
+OLED,Universal Display Corporation,Technology,Mid-Cap,778510,NMS
+TNGX,"Tango Therapeutics, Inc.",Healthcare,Mid-Cap,3348278,NGM
+AVNT,Avient Corporation,Basic Materials,Mid-Cap,821956,NYQ
+MNDY,monday.com Ltd.,Technology,Mid-Cap,1222146,NMS
+ATMU,Atmus Filtration Technologies I,Consumer Cyclical,Mid-Cap,716959,NYQ
+STVN,Stevanato Group S.p.A.,Healthcare,Mid-Cap,579581,NYQ
+ABCL,AbCellera Biologics Inc.,Healthcare,Mid-Cap,6278790,NMS
+IOVA,"Iovance Biotherapeutics, Inc.",Healthcare,Mid-Cap,16614804,NGM
+QBTS,D-Wave Quantum Inc.,Technology,Mid-Cap,15073964,NMS
+DLO,DLocal Limited,Technology,Mid-Cap,2224143,NMS
+GTX,Garrett Motion Inc.,Consumer Cyclical,Mid-Cap,3278615,NMS
+TDW,Tidewater Inc.,Energy,Mid-Cap,601206,NYQ
+RLAY,"Relay Therapeutics, Inc.",Healthcare,Mid-Cap,2863529,NGM
+DHT,"DHT Holdings, Inc.",Energy,Mid-Cap,4445950,NYQ
+OII,"Oceaneering International, Inc.",Energy,Mid-Cap,950721,NYQ
+DIOD,Diodes Incorporated,Technology,Mid-Cap,591647,NMS
+CDP,COPT Defense Properties,Real Estate,Mid-Cap,874064,NYQ
+DNP,"DNP Select Income Fund, Inc.",Financial Services,Mid-Cap,744069,NYQ
+BNL,"Broadstone Net Lease, Inc.",Real Estate,Mid-Cap,2587693,NYQ
+HP,"Helmerich & Payne, Inc.",Energy,Mid-Cap,1267681,NYQ
+KLIC,"Kulicke and Soffa Industries, I",Technology,Mid-Cap,713401,NMS
+IEP,Icahn Enterprises L.P. - Deposi,Energy,Mid-Cap,1335950,NMS
+SPHR,Sphere Entertainment Co.,Communication Services,Mid-Cap,801451,NYQ
+SLG,SL Green Realty Corp,Real Estate,Mid-Cap,897638,NYQ
+ASO,"Academy Sports and Outdoors, In",Consumer Cyclical,Mid-Cap,1726865,NMS
+CGAU,Centerra Gold Inc.,Basic Materials,Mid-Cap,1353087,NYQ
+WSBC,"WesBanco, Inc.",Financial Services,Mid-Cap,841996,NMS
+LQDA,Liquidia Corporation,Healthcare,Mid-Cap,3499115,NCM
+FA,First Advantage Corporation,Industrials,Mid-Cap,1863682,NMS
+XENE,Xenon Pharmaceuticals Inc.,Healthcare,Mid-Cap,1574742,NGM
+UEC,Uranium Energy Corp.,Energy,Mid-Cap,9541475,ASE
+ZGN,Ermenegildo Zegna N.V.,Consumer Cyclical,Mid-Cap,1127992,NYQ
+MWA,MUELLER WATER PRODUCTS,Industrials,Mid-Cap,1373344,NYQ
+GEO,Geo Group Inc (The) REIT,Industrials,Mid-Cap,2471863,NYQ
+FRSH,Freshworks Inc.,Technology,Mid-Cap,5967743,NMS
+PLSE,"Pulse Biosciences, Inc",Healthcare,Mid-Cap,510964,NCM
+LIF,"Life360, Inc.",Technology,Mid-Cap,736317,NMS
+POST,"Post Holdings, Inc.",Consumer Defensive,Mid-Cap,890584,NYQ
+LION,Lionsgate Studios Corp,N/A,Mid-Cap,3002832,NYQ
+RGTI,"Rigetti Computing, Inc.",Technology,Mid-Cap,15880842,NCM
+AMLX,"Amylyx Pharmaceuticals, Inc.",Healthcare,Mid-Cap,2128356,NMS
+SMG,Scotts Miracle-Gro Company (The,Basic Materials,Mid-Cap,1061655,NYQ
+CIFR,Cipher Digital Inc.,Technology,Mid-Cap,42195545,NMS
+OGN,Organon & Co.,Healthcare,Mid-Cap,2651140,NYQ
+PARR,"Par Pacific Holdings, Inc. Comm",Energy,Mid-Cap,921784,NYQ
+ECO,Okeanis Eco Tankers Corp.,Industrials,Mid-Cap,775185,NYQ
+PBLS,"Parabilis Medicines, Inc.",Healthcare,Mid-Cap,915184,NMS
+RNST,Renasant Corporation,Financial Services,Mid-Cap,679906,NYQ
+IRON,"Disc Medicine, Inc.",Healthcare,Mid-Cap,863420,NGM
+IRT,"Independence Realty Trust, Inc.",Real Estate,Mid-Cap,3340740,NYQ
+XXI,"Twenty One Capital, Inc.",Consumer Defensive,Mid-Cap,1906132,NYQ
+PII,Polaris Inc.,Consumer Cyclical,Mid-Cap,831929,NYQ
+COLM,Columbia Sportswear Company,Consumer Cyclical,Mid-Cap,728000,NMS
+ACAD,ACADIA Pharmaceuticals Inc.,Healthcare,Mid-Cap,1908000,NMS
+WSC,WillScot Holdings Corporation,Industrials,Mid-Cap,3126365,NCM
+CURB,Curbline Properties Corp.,Real Estate,Mid-Cap,1469048,NYQ
+FIBK,"First Interstate BancSystem, In",Financial Services,Mid-Cap,1127913,NMS
+WBI,WaterBridge Infrastructure LLC,Energy,Mid-Cap,615395,NYQ
+ZIM,ZIM Integrated Shipping Service,Industrials,Mid-Cap,1608514,NYQ
+APPN,Appian Corporation,Technology,Mid-Cap,932178,NGM
+HAYW,"Hayward Holdings, Inc.",Industrials,Mid-Cap,3395657,NYQ
+CXT,"Crane NXT, Co.",Industrials,Mid-Cap,593318,NYQ
+AVPT,"AvePoint, Inc.",Technology,Mid-Cap,2621582,NMS
+HNI,HNI Corporation,Consumer Cyclical,Mid-Cap,536515,NYQ
+FFBC,First Financial Bancorp.,Financial Services,Mid-Cap,837475,NMS
+HIW,"Highwoods Properties, Inc.",Real Estate,Mid-Cap,1134709,NYQ
+MIAX,"Miami International Holdings, I",Financial Services,Mid-Cap,1601834,NYQ
+MMS,"Maximus, Inc.",Industrials,Mid-Cap,655907,NYQ
+CELC,Celcuity Inc.,Healthcare,Mid-Cap,1213184,NCM
+NATL,NCR Atleos Corporation,Technology,Mid-Cap,785676,NYQ
+FIGS,"FIGS, Inc.",Consumer Cyclical,Mid-Cap,3448310,NYQ
+GNW,Genworth Financial Inc,Financial Services,Mid-Cap,3672809,NYQ
+BLSH,Bullish,Technology,Mid-Cap,1466296,NYQ
+INTA,"Intapp, Inc.",Technology,Mid-Cap,668084,NMS
+SFNC,Simmons First National Corporat,Financial Services,Mid-Cap,1544224,NMS
+HOG,"Harley-Davidson, Inc.",Consumer Cyclical,Mid-Cap,2031516,NYQ
+COCO,"The Vita Coco Company, Inc.",Consumer Defensive,Mid-Cap,1275448,NMS
+ASH,Ashland Inc.,Basic Materials,Mid-Cap,636227,NYQ
+ONDS,Ondas Inc,Technology,Mid-Cap,59719532,NCM
+GPGI,"GPGI, Inc.",Industrials,Mid-Cap,1617335,NYQ
+KNF,Knife Riv Holding Co.,Basic Materials,Mid-Cap,909051,NYQ
+FRPT,"Freshpet, Inc.",Consumer Defensive,Mid-Cap,1107073,NGM
+AXTI,AXT Inc,Technology,Mid-Cap,9985361,NMS
+SKE,Skeena Resources Limited,Basic Materials,Mid-Cap,555182,NYQ
+PFSI,"PennyMac Financial Services, In",Financial Services,Mid-Cap,611509,NYQ
+VKTX,"Viking Therapeutics, Inc.",Healthcare,Mid-Cap,4945925,NCM
+PK,Park Hotels & Resorts Inc.,Real Estate,Mid-Cap,3923095,NYQ
+SLM,SLM Corporation,Financial Services,Mid-Cap,2789929,NMS
+DYN,"Dyne Therapeutics, Inc.",Healthcare,Mid-Cap,2836803,NMS
+FSLY,"Fastly, Inc.",Technology,Mid-Cap,6581592,NMS
+TARS,"Tarsus Pharmaceuticals, Inc.",Healthcare,Mid-Cap,867112,NMS
+BTE,Baytex Energy Corp,Energy,Mid-Cap,17476929,NYQ
+GBDC,"Golub Capital BDC, Inc.",Financial Services,Mid-Cap,1338875,NMS
+AYA,Aya Gold & Silver Inc.,Basic Materials,Mid-Cap,1032650,NMS
+ELVN,"Enliven Therapeutics, Inc.",Healthcare,Mid-Cap,1340006,NMS
+GPK,Graphic Packaging Holding Compa,Consumer Cyclical,Mid-Cap,6860773,NYQ
+FOUR,"Shift4 Payments, Inc.",Technology,Mid-Cap,2135779,NYQ
+CENX,Century Aluminum Company,Basic Materials,Mid-Cap,2012387,NMS
+MCHB,Mechanics Bancorp,Financial Services,Mid-Cap,529818,NMS
+YETI,"YETI Holdings, Inc.",Consumer Cyclical,Mid-Cap,1691740,NYQ
+NMIH,NMI Holdings Inc,Financial Services,Mid-Cap,691806,NGM
+AEO,"American Eagle Outfitters, Inc.",Consumer Cyclical,Mid-Cap,5657636,NYQ
+SBCF,Seacoast Banking Corporation of,Financial Services,Mid-Cap,850769,NMS
+USAR,"USA Rare Earth, Inc.",Basic Materials,Mid-Cap,13592739,NGM
+SLDE,"Slide Insurance Holdings, Inc.",Financial Services,Mid-Cap,1227042,NMS
+CWK,Cushman & Wakefield Ltd.,Real Estate,Mid-Cap,2525043,NYQ
+SHOO,"Steven Madden, Ltd.",Consumer Cyclical,Mid-Cap,1151036,NMS
+ACHR,Archer Aviation Inc.,Industrials,Mid-Cap,28118156,NYQ
+AVA,Avista Corporation,Utilities,Mid-Cap,717126,NYQ
+LMND,"Lemonade, Inc.",Financial Services,Mid-Cap,1086275,NYQ
+MGNI,"Magnite, Inc.",Communication Services,Mid-Cap,2370279,NMS
+SBLK,Star Bulk Carriers Corp.,Industrials,Mid-Cap,1605990,NMS
+ERO,Ero Copper Corp.,Basic Materials,Mid-Cap,1515671,NYQ
+ACMR,"ACM Research, Inc.",Technology,Mid-Cap,1124171,NGM
+HGV,Hilton Grand Vacations Inc.,Consumer Cyclical,Mid-Cap,1140565,NYQ
+LRN,"Stride, Inc.",Consumer Defensive,Mid-Cap,837247,NYQ
+ACCV,Accelevation Holdings Corp.,Industrials,Mid-Cap,1543191,NMS
+TDC,Teradata Corporation,Technology,Mid-Cap,1923790,NYQ
+NEA,Nuveen AMT-Free Quality Municip,Financial Services,Mid-Cap,1893986,NYQ
+BKU,"BankUnited, Inc.",Financial Services,Mid-Cap,893747,NYQ
+HTGC,"Hercules Capital, Inc.",Financial Services,Mid-Cap,1403527,NYQ
+FHB,"First Hawaiian, Inc.",Financial Services,Mid-Cap,2165462,NMS
+WIX,Wix.com Ltd.,Technology,Mid-Cap,1178242,NMS
+CXW,"CoreCivic, Inc.",Industrials,Mid-Cap,1966181,NYQ
+CSTM,Constellium SE,Basic Materials,Mid-Cap,1541446,NYQ
+VIA,"Via Transportation, Inc.",Technology,Mid-Cap,728551,NYQ
+DNLI,Denali Therapeutics Inc.,Healthcare,Mid-Cap,1637150,NMS
+CALM,"Cal-Maine Foods, Inc.",Consumer Defensive,Mid-Cap,1105423,NMS
+FSK,FS KKR Capital Corp.,Financial Services,Mid-Cap,1976679,NYQ
+CLBT,Cellebrite DI Ltd.,Technology,Mid-Cap,3088454,NMS
+ATRC,"AtriCure, Inc.",Healthcare,Mid-Cap,1030143,NGM
+SPSC,"SPS Commerce, Inc.",Technology,Mid-Cap,532483,NMS
+SPNT,SiriusPoint Ltd.,Financial Services,Mid-Cap,814806,NYQ
+PFS,"Provident Financial Services, I",Financial Services,Mid-Cap,836098,NYQ
+IDYA,"IDEAYA Biosciences, Inc.",Healthcare,Mid-Cap,861782,NMS
+IOND,Ionic Digital Inc.,Financial Services,Mid-Cap,591318,NMS
+OSW,OneSpaWorld Holdings Limited,Consumer Cyclical,Mid-Cap,928395,NCM
+SHAK,"Shake Shack, Inc.",Consumer Cyclical,Mid-Cap,1307665,NYQ
+PTRN,Pattern Group Inc. - Series A,Consumer Cyclical,Mid-Cap,1477776,NMS
+RSI,"Rush Street Interactive, Inc.",Consumer Cyclical,Mid-Cap,3543303,NYQ
+BHC,Bausch Health Companies Inc.,Healthcare,Mid-Cap,3060378,NYQ
+CARG,"CarGurus, Inc.",Communication Services,Mid-Cap,1256787,NMS
+EXTR,"Extreme Networks, Inc.",Technology,Mid-Cap,1555867,NMS
+WT,"WisdomTree, Inc.",Financial Services,Mid-Cap,2588230,NYQ
+DRH,Diamondrock Hospitality Company,Real Estate,Mid-Cap,3034192,NMS
+CLBK,"Columbia Financial, Inc.",Financial Services,Mid-Cap,4113664,NMS
+KBH,KB Home,Consumer Cyclical,Mid-Cap,1351600,NYQ
+SGRY,"Surgery Partners, Inc.",Healthcare,Mid-Cap,3627342,NMS
+MNSO,MINISO Group Holding Limited,Consumer Cyclical,Mid-Cap,1099343,NYQ
+ARIS,Aris Mining Corporation,Basic Materials,Mid-Cap,1645595,NYQ
+AMC,"AMC Entertainment Holdings, Inc",Communication Services,Mid-Cap,24062645,NYQ
+AXGN,"AxoGen, Inc.",Healthcare,Mid-Cap,1421587,NCM
+HTO,H2O America,Utilities,Mid-Cap,586938,NMS
+DNOW,DNOW Inc.,Industrials,Mid-Cap,2466039,NYQ
+BANC,"Banc of California, Inc.",Financial Services,Mid-Cap,2342210,NYQ
+SDRL,Seadrill Limited,Energy,Mid-Cap,671092,NYQ
+NMRK,"Newmark Group, Inc.",Real Estate,Mid-Cap,1934871,NMS
+REZI,"Resideo Technologies, Inc.",Industrials,Mid-Cap,2172868,NYQ
+FLY,Firefly Aerospace Inc.,Industrials,Mid-Cap,3022839,NGM
+LBTYA,Liberty Global Ltd.,Communication Services,Mid-Cap,3603541,NMS
+AVAH,Aveanna Healthcare Holdings Inc,Healthcare,Mid-Cap,3111214,NMS
+AAP,Advance Auto Parts Inc.,Consumer Cyclical,Mid-Cap,1949155,NYQ
+KN,Knowles Corporation,Technology,Mid-Cap,743771,NYQ
+VGNT,Versigent PLC,Consumer Cyclical,Mid-Cap,764559,NYQ
+KD,"Kyndryl Holdings, Inc.",Technology,Mid-Cap,4143284,NYQ
+PURR,Hyperliquid Strategies Inc,Financial Services,Mid-Cap,20515614,NCM
+IHS,IHS Holding Limited,Real Estate,Mid-Cap,824634,NYQ
+CALY,Callaway Golf Company,Consumer Cyclical,Mid-Cap,1909856,NYQ
+COTY,Coty Inc.,Consumer Defensive,Mid-Cap,6064282,NYQ
+EFXT,Enerflex Ltd,Energy,Mid-Cap,694582,NYQ
+FG,"F&G Annuities & Life, Inc.",Financial Services,Mid-Cap,666589,NYQ
+NRIX,"Nurix Therapeutics, Inc.",Healthcare,Small-Cap,2172395,NGM
+UE,Urban Edge Properties,Real Estate,Mid-Cap,1057354,NYQ
+PPLI,People Incorporated,Communication Services,Mid-Cap,1152020,NMS
+MRVI,"Maravai LifeSciences Holdings, ",Healthcare,Small-Cap,3254923,NMS
+AKR,Acadia Realty Trust,Real Estate,Mid-Cap,1333052,NYQ
+VRDN,"Viridian Therapeutics, Inc.",Healthcare,Mid-Cap,2001021,NCM
+BULL,Webull Corporation,Technology,Mid-Cap,14723759,NCM
+ACHC,"Acadia Healthcare Company, Inc.",Healthcare,Mid-Cap,1712909,NMS
+IMAX,Imax Corporation,Communication Services,Mid-Cap,1021275,NYQ
+NTCT,"NetScout Systems, Inc.",Technology,Mid-Cap,601803,NMS
+AMBP,Ardagh Metal Packaging S.A.,Consumer Cyclical,Mid-Cap,1889439,NYQ
+UNFI,"United Natural Foods, Inc.",Consumer Defensive,Mid-Cap,597041,NYQ
+APAM,Artisan Partners Asset Manageme,Financial Services,Mid-Cap,1053670,NYQ
+PENG,"Penguin Solutions, Inc.",Technology,Mid-Cap,2885696,NMS
+AMBA,"Ambarella, Inc.",Technology,Mid-Cap,1488850,NMS
+PRVA,"Privia Health Group, Inc.",Healthcare,Mid-Cap,1249442,NMS
+MARA,"MARA Holdings, Inc.",Financial Services,Mid-Cap,43323628,NCM
+WRBY,Warby Parker Inc.,Healthcare,Mid-Cap,3099729,NYQ
+BEAM,Beam Therapeutics Inc.,Healthcare,Mid-Cap,1847931,NMS
+LCLN,"Lincoln International, Inc.",Financial Services,Mid-Cap,525487,NYQ
+FUL,H. B. Fuller Company,Basic Materials,Mid-Cap,756701,NYQ
+ZLAB,Zai Lab Limited,Healthcare,Mid-Cap,1086079,NGM
+LIFE,Ethos Technologies Inc.,Financial Services,Mid-Cap,1575590,NMS
+TGB,Trekor Metals Limited,Basic Materials,Mid-Cap,4890716,ASE
+TALO,"Talos Energy, Inc.",Energy,Mid-Cap,2689581,NYQ
+DX,"Dynex Capital, Inc.",Real Estate,Mid-Cap,6490487,NYQ
+NOG,"Northern Oil and Gas, Inc.",Energy,Mid-Cap,2149730,NYQ
+FRVO,Fervo Energy Company,Utilities,Mid-Cap,7592915,NMS
+KSS,Kohl's Corporation,Consumer Cyclical,Mid-Cap,4271290,NYQ
+MBX,"MBX Biosciences, Inc.",Healthcare,Mid-Cap,502443,NMS
+FIVN,"Five9, Inc.",Technology,Mid-Cap,2027232,NGM
+ATRO,Astronics Corporation,Industrials,Mid-Cap,615064,NMS
+NEOG,Neogen Corporation,Healthcare,Mid-Cap,3300530,NMS
+POWI,"Power Integrations, Inc.",Technology,Mid-Cap,797209,NMS
+WTTR,"Select Water Solutions, Inc.",Energy,Mid-Cap,1602693,NYQ
+LPL,"LG Display Co, Ltd AMERICAN DEP",Technology,Mid-Cap,2424744,NYQ
+AAUC,Allied Gold Corporation,Basic Materials,Mid-Cap,501181,NYQ
+JPC,Nuveen Preferred & Income Oppor,Financial Services,Mid-Cap,1970073,NYQ
+FSM,Fortuna Mining Corp.,Basic Materials,Mid-Cap,5301012,NYQ
+ASST,"Strive, Inc.",Financial Services,Mid-Cap,8720634,NGM
+BBT,Beacon Financial Corporation,Financial Services,Mid-Cap,1002967,NYQ
+PATK,"Patrick Industries, Inc.",Consumer Cyclical,Mid-Cap,639456,NMS
+STGW,Stagwell Inc.,Communication Services,Mid-Cap,1567478,NMS
+GRDN,"Guardian Pharmacy Services, Inc",Healthcare,Mid-Cap,515865,NYQ
+BFAM,Bright Horizons Family Solution,Consumer Cyclical,Mid-Cap,966725,NYQ
+UWMC,UWM Holdings Corporation,Financial Services,Mid-Cap,14367228,NYQ
+ASAN,"Asana, Inc.",Technology,Mid-Cap,5969064,NYQ
+VVX,"V2X, Inc.",Industrials,Mid-Cap,525706,NYQ
+RH,RH,Consumer Cyclical,Mid-Cap,799542,NYQ
+FCPT,"Four Corners Property Trust, In",Real Estate,Mid-Cap,1052921,NYQ
+BTU,Peabody Energy Corporation,Energy,Small-Cap,2432892,NYQ
+SA,"Seabridge Gold, Inc.",Basic Materials,Mid-Cap,630369,NYQ
+QS,QuantumScape Corporation,Consumer Cyclical,Mid-Cap,14340110,NMS
+NAD,Nuveen Quality Municipal Income,Financial Services,Mid-Cap,1421250,NYQ
+NG,Novagold Resources Inc.,Basic Materials,Mid-Cap,5114289,ASE
+ALM,Almonty Industries Inc.,Basic Materials,Mid-Cap,6693171,NCM
+RNW,ReNew Energy Global plc,Utilities,Mid-Cap,2266585,NMS
+BKD,Brookdale Senior Living Inc.,Healthcare,Mid-Cap,5580595,NYQ
+VERX,"Vertex, Inc.",Technology,Mid-Cap,1555506,NGM
+EEFT,"Euronet Worldwide, Inc.",Technology,Mid-Cap,743176,NMS
+LTC,"LTC Properties, Inc.",Real Estate,Mid-Cap,621007,NYQ
+PHVS,Pharvaris N.V.,Healthcare,Mid-Cap,817492,NMS
+BHF,"Brighthouse Financial, Inc.",Financial Services,Mid-Cap,985625,NMS
+ADMA,ADMA Biologics Inc,Healthcare,Mid-Cap,3030370,NGM
+NVG,Nuveen AMT-Free Municipal Credi,Financial Services,Mid-Cap,1066456,NYQ
+LFTO,"Liftoff Mobile, Inc.",Communication Services,Mid-Cap,832057,NMS
+PTY,Pimco Corporate & Income Opport,Financial Services,Mid-Cap,1607838,NYQ
+PRCH,"Porch Group, Inc.",Financial Services,Mid-Cap,1626001,NCM
+CTOS,"Custom Truck One Source, Inc.",Industrials,Mid-Cap,962915,NYQ
+PEB,Pebblebrook Hotel Trust,Real Estate,Mid-Cap,2324009,NYQ
+PAYO,Payoneer Global Inc.,Technology,Mid-Cap,2696728,NGM
+IVT,InvenTrust Properties Corp.,Real Estate,Mid-Cap,642839,NYQ
+CHA,Chagee Holdings Limited,Consumer Cyclical,Mid-Cap,898921,NMS
+LBRT,Liberty Energy Inc.,Energy,Small-Cap,4097639,NYQ
+NCNO,"nCino, Inc.",Technology,Mid-Cap,2238115,NMS
+NWL,Newell Brands Inc.,Consumer Defensive,Mid-Cap,6151684,NMS
+MD,"Pediatrix Medical Group, Inc.",Healthcare,Mid-Cap,753161,NYQ
+DAN,Dana Incorporated,Consumer Cyclical,Mid-Cap,1540532,NYQ
+BUSE,First Busey Corporation,Financial Services,Mid-Cap,770401,NMS
+SHO,"Sunstone Hotel Investors, Inc. ",Real Estate,Mid-Cap,2464600,NYQ
+KMT,Kennametal Inc.,Industrials,Small-Cap,1566970,NYQ
+IMNM,"Immunome, Inc.",Healthcare,Mid-Cap,1360275,NCM
+TRN,"Trinity Industries, Inc.",Industrials,Mid-Cap,747673,NYQ
+MH,"McGraw Hill, Inc.",Consumer Defensive,Mid-Cap,609175,NYQ
+FLYW,Flywire Corporation - Voting,Technology,Mid-Cap,1570557,NMS
+RCUS,"Arcus Biosciences, Inc.",Healthcare,Mid-Cap,1838534,NYQ
+CSQR,"Csquare, Inc.",Technology,Mid-Cap,1600317,NYQ
+COHU,"Cohu, Inc.",Technology,Small-Cap,1133292,NMS
+NAMS,NewAmsterdam Pharma Company N.V,Healthcare,Mid-Cap,1503353,NGM
+PBH,Prestige Consumer Healthcare In,Healthcare,Mid-Cap,577666,NYQ
+BBAR,Banco BBVA Argentina S.A.,Financial Services,Mid-Cap,653029,NYQ
+TMDX,"TransMedics Group, Inc.",Healthcare,Mid-Cap,811721,NGM
+PTON,"Peloton Interactive, Inc.",Consumer Cyclical,Mid-Cap,8445301,NMS
+ATHM,Autohome Inc.,Communication Services,Mid-Cap,560312,NYQ
+CLDX,"Celldex Therapeutics, Inc.",Healthcare,Mid-Cap,1335355,NCM
+TV,Grupo Televisa S.A.B.,Communication Services,Mid-Cap,1254926,NYQ
+BHVN,Biohaven Ltd.,Healthcare,Mid-Cap,3201675,NYQ
+TIC,"TIC Solutions, Inc.",Industrials,Mid-Cap,1682376,NYQ
+VECO,Veeco Instruments Inc.,Technology,Mid-Cap,726323,NMS
+XNCR,"Xencor, Inc.",Healthcare,Mid-Cap,1552375,NGM
+UCTT,"Ultra Clean Holdings, Inc.",Technology,Small-Cap,1205089,NMS
+NWBI,"Northwest Bancshares, Inc.",Financial Services,Mid-Cap,1048790,NMS
+GRND,Grindr Inc.,Technology,Mid-Cap,1702917,NYQ
+KC,Kingsoft Cloud Holdings Limited,Technology,Mid-Cap,1264465,NMS
+STUB,"StubHub Holdings, Inc.",Communication Services,Mid-Cap,6316823,NYQ
+PENN,"PENN Entertainment, Inc.",Consumer Cyclical,Mid-Cap,2996916,NMS
+CLOV,"Clover Health Investments, Corp",Healthcare,Mid-Cap,4226475,NMS
+RXRX,"Recursion Pharmaceuticals, Inc.",Healthcare,Mid-Cap,22504004,NMS
+UAA,"Under Armour, Inc.",Consumer Cyclical,Mid-Cap,9308701,NYQ
+NVTS,Navitas Semiconductor Corporati,Technology,Mid-Cap,14290600,NGM
+PGNY,"Progyny, Inc.",Healthcare,Mid-Cap,1132664,NMS
+LPG,Dorian LPG Ltd.,Energy,Small-Cap,557289,NYQ
+BOBS,"Bob's Discount Furniture, Inc.",Consumer Cyclical,Mid-Cap,850564,NYQ
+AMPL,"Amplitude, Inc.",Technology,Mid-Cap,1863123,NCM
+AUPH,Aurinia Pharmaceuticals Inc,Healthcare,Mid-Cap,911043,NGM
+TRLV,Trulieve Cannabis Corp. Subordi,Healthcare,Mid-Cap,1758653,NYQ
+WAFD,"WaFd, Inc.",Financial Services,Mid-Cap,962800,NMS
+NEO,"NeoGenomics, Inc.",Healthcare,Mid-Cap,1983035,NCM
+NZF,Nuveen Municipal Credit Income ,Financial Services,Mid-Cap,1024881,NYQ
+VERA,"Vera Therapeutics, Inc.",Healthcare,Mid-Cap,2055543,NGM
+TILE,"Interface, Inc.",Consumer Cyclical,Small-Cap,510384,NMS
+CTRI,"Centuri Holdings, Inc.",Utilities,Mid-Cap,1932043,NYQ
+HRMY,"Harmony Biosciences Holdings, I",Healthcare,Small-Cap,979281,NGM
+SMR,NuScale Power Corporation,Industrials,Mid-Cap,33799812,NYQ
+BCRX,"BioCryst Pharmaceuticals, Inc.",Healthcare,Small-Cap,4911266,NMS
+BKV,BKV Corporation,Energy,Small-Cap,1877403,NYQ
+LIND,Lindblad Expeditions Holdings I,Consumer Cyclical,Mid-Cap,881551,NCM
+ZYME,Zymeworks Inc.,Healthcare,Mid-Cap,1018570,NMS
+DXC,DXC Technology Company,Technology,Mid-Cap,3636660,NYQ
+PRGO,Perrigo Company plc,Healthcare,Mid-Cap,2607860,NYQ
+PAGS,PagSeguro Digital Ltd.,Technology,Mid-Cap,3924935,NYQ
+FLOC,Flowco Holdings Inc.,Energy,Small-Cap,595984,NYQ
+XHR,"Xenia Hotels & Resorts, Inc.",Real Estate,Mid-Cap,846862,NYQ
+DV,"DoubleVerify Holdings, Inc.",Communication Services,Mid-Cap,3515764,NYQ
+MAN,ManpowerGroup,Industrials,Mid-Cap,909569,NYQ
+PBI,Pitney Bowes Inc.,Industrials,Mid-Cap,1647630,NYQ
+LASR,"nLIGHT, Inc.",Technology,Mid-Cap,1188367,NMS
+SMA,"SmartStop Self Storage REIT, In",Real Estate,Mid-Cap,724509,NYQ
+VCEL,Vericel Corporation,Healthcare,Mid-Cap,592941,NGM
+NESR,National Energy Services Reunit,Energy,Mid-Cap,2542254,NCM
+RUN,Sunrun Inc.,Technology,Mid-Cap,8918093,NMS
+KRP,Kimbell Royalty Partners,Energy,Small-Cap,936979,NYQ
+AEHR,Aehr Test Systems,Technology,Small-Cap,2789644,NCM
+OUST,"Ouster, Inc.",Technology,Mid-Cap,2603807,NMS
+CPRI,Capri Holdings Limited,Consumer Cyclical,Mid-Cap,4543421,NYQ
+CALX,"Calix, Inc",Technology,Small-Cap,1003655,NYQ
+ALMR,"Alamar Biosciences, Inc.",Healthcare,Small-Cap,600051,NMS
+EXK,Endeavour Silver Corporation,Basic Materials,Mid-Cap,7644350,NYQ
+FCF,First,Financial Services,Mid-Cap,867370,NYQ
+UPST,"Upstart Holdings, Inc.",Financial Services,Mid-Cap,4424818,NMS
+HOS,"Hornbeck Offshore Services, Inc",Industrials,Small-Cap,2450300,NYQ
+UTZ,Utz Brands Inc,Consumer Defensive,Small-Cap,1908165,NYQ
+CLSK,"CleanSpark, Inc.",Financial Services,Small-Cap,18524990,NCM
+GOF,N/A,Financial Services,Mid-Cap,2717350,NYQ
+RUM,RUM Group Inc.,Communication Services,Small-Cap,4706684,NGM
+ADEA,Adeia Inc.,Technology,Small-Cap,1144460,NMS
+WGS,GeneDx Holdings Corp.,Healthcare,Small-Cap,720553,NMS
+RLX,RLX Technology Inc.,Consumer Defensive,Small-Cap,3136764,NYQ
+ALGT,Allegiant Travel Company,Industrials,Mid-Cap,520907,NMS
+SDGR,"Schrodinger, Inc.",Healthcare,Mid-Cap,2001559,NMS
+CC,Chemours Company (The),Basic Materials,Small-Cap,2194034,NYQ
+BLBD,Blue Bird Corporation,Industrials,Small-Cap,574678,NGM
+RDW,Redwire Corporation,Industrials,Small-Cap,13320309,NYQ
+OLN,Olin Corporation,Basic Materials,Small-Cap,3578100,NYQ
+DEI,"Douglas Emmett, Inc.",Real Estate,Mid-Cap,1933289,NYQ
+FTRE,Fortrea Holdings Inc.,Healthcare,Mid-Cap,1630701,NMS
+KMPR,Kemper Corporation,Financial Services,Small-Cap,890029,NYQ
+STDN,"Standard Nuclear, Inc.",Basic Materials,Small-Cap,584929,NYQ
+PPTA,Perpetua Resources Corp.,Basic Materials,Mid-Cap,1177584,NCM
+WHR,Whirlpool Corporation,Consumer Cyclical,Mid-Cap,3332132,NYQ
+PONY,Pony AI Inc.,Technology,Mid-Cap,3976457,NMS
+TRVI,"Trevi Therapeutics, Inc.",Healthcare,Mid-Cap,1927681,NGM
+GLOB,Globant S.A.,Technology,Mid-Cap,1235856,NYQ
+SRPT,"Sarepta Therapeutics, Inc.",Healthcare,Small-Cap,2754452,NMS
+PLUG,"Plug Power, Inc.",Industrials,Mid-Cap,55556475,NCM
+SEDG,"SolarEdge Technologies, Inc.",Technology,Small-Cap,3056992,NMS
+WKC,World Kinect Corporation,Energy,Small-Cap,1000466,NYQ
+AADX,"Applied Aerospace & Defense, In",Industrials,Small-Cap,2034884,NYQ
+LEU,Centrus Energy Corp.,Energy,Mid-Cap,770176,NYQ
+WU,Western Union Company (The),Financial Services,Mid-Cap,8512158,NYQ
+TRAX,"First Tracks Biotherapeutics, I",Healthcare,Mid-Cap,827398,NMS
+VSTS,Vestis Corporation,Industrials,Small-Cap,1449440,NYQ
+GCT,GigaCloud Technology Inc,Technology,Mid-Cap,633876,NGM
+XRAY,DENTSPLY SIRONA Inc.,Healthcare,Small-Cap,4680289,NMS
+BL,"BlackLine, Inc.",Technology,Small-Cap,988279,NMS
+MQ,"Marqeta, Inc.",Technology,Small-Cap,857903,NMS
+RLJ,RLJ Lodging Trust,Real Estate,Small-Cap,1880190,NYQ
+XERS,"Xeris Biopharma Holdings, Inc.",Healthcare,Mid-Cap,2535968,NMS
+UUUU,Energy Fuels Inc,Energy,Small-Cap,7960024,ASE
+MFP,"Midera Food Processing, Inc.",Industrials,Small-Cap,521140,NMS
+REPL,"Replimune Group, Inc.",Healthcare,Mid-Cap,2879193,NMS
+GTY,Getty Realty Corporation,Real Estate,Small-Cap,619560,NYQ
+TBBK,"The Bancorp, Inc.",Financial Services,Small-Cap,518441,NMS
+DNN,Denison Mines Corp,Energy,Small-Cap,26739607,ASE
+VIR,"Vir Biotechnology, Inc.",Healthcare,Mid-Cap,1949168,NMS
+VET,Vermilion Energy Inc.,Energy,Small-Cap,1463920,NYQ
+NMZ,Nuveen Municipal High Income Op,Financial Services,Small-Cap,1491253,NYQ
+MHD,N/A,Financial Services,Small-Cap,762478,NYQ
+AGIO,"Agios Pharmaceuticals, Inc.",Healthcare,Small-Cap,1111462,NMS
+SONO,"Sonos, Inc.",Technology,Small-Cap,1670184,NMS
+INFQ,"Infleqtion, Inc.",Technology,Mid-Cap,8106409,NYQ
+PRDO,Perdoceo Education Corporation,Consumer Defensive,Small-Cap,655893,NMS
+HIMX,"Himax Technologies, Inc.",Technology,Small-Cap,1159540,NMS
+CLM,Cornerstone Strategic Value Fd,Financial Services,Small-Cap,2527278,ASE
+BTDR,Bitdeer Technologies Group,Technology,Small-Cap,11814553,NCM
+SOUN,"SoundHound AI, Inc.",Technology,Small-Cap,20260190,NGM
+ZBIO,"Zenas BioPharma, Inc.",Healthcare,Small-Cap,659040,NMS
+AI,"C3.ai, Inc.",Technology,Small-Cap,4934725,NYQ
+VC,Visteon Corporation,Consumer Cyclical,Small-Cap,520392,NMS
+DRVN,Driven Brands Holdings Inc.,Consumer Cyclical,Small-Cap,1130309,NMS
+INVX,"Innovex International, Inc.",Energy,Small-Cap,784256,NYQ
+ZD,"Ziff Davis, Inc.",Communication Services,Small-Cap,587592,NMS
+PGEN,"Precigen, Inc.",Healthcare,Small-Cap,5732056,NMS
+BXMT,"Blackstone Mortgage Trust, Inc.",Real Estate,Small-Cap,2926241,NYQ
+GAB,N/A,Financial Services,Small-Cap,908129,NYQ
+ADRX,"ADARx Pharmaceuticals, Inc.",Healthcare,Small-Cap,673746,NMS
+NTST,NetSTREIT Corp.,Real Estate,Mid-Cap,1781276,NYQ
+NEXT,NextDecade Corporation,Energy,Small-Cap,2744023,NCM
+PRGS,Progress Software Corporation,Technology,Small-Cap,524210,NMS
+OCFC,OceanFirst Financial Corp.,Financial Services,Small-Cap,1126749,NMS
+GENI,Genius Sports Limited,Communication Services,Small-Cap,6636970,NYQ
+CNXC,Concentrix Corporation,Technology,Small-Cap,1491804,NMS
+DHC,Diversified Healthcare Trust,Real Estate,Small-Cap,1844220,NMS
+HAPN,"Happen, Inc.",Financial Services,Small-Cap,1809057,NMS
+BPRE,N/A,Financial Services,Small-Cap,868389,NYQ
+BRSL,Brightstar Lottery PLC Trading ,Consumer Cyclical,Small-Cap,2171438,NYQ
+MAZE,"Maze Therapeutics, Inc.",Healthcare,Small-Cap,675957,NGM
+PDFS,"PDF Solutions, Inc.",Technology,Small-Cap,634223,NMS
+ETOR,eToro Group Ltd.,Financial Services,Small-Cap,1222354,NMS
+SLS,"SELLAS Life Sciences Group, Inc",Healthcare,Small-Cap,6904784,NCM
+INSP,"Inspire Medical Systems, Inc.",Healthcare,Small-Cap,760542,NYQ
+GENB,"Generate Biomedicines, Inc.",Healthcare,Small-Cap,1204917,NMS
+AMN,AMN Healthcare Services Inc,Healthcare,Small-Cap,765743,NYQ
+EZPW,"EZCORP, Inc.",Financial Services,Small-Cap,870461,NMS
+ATEN,"A10 Networks, Inc.",Technology,Small-Cap,1145553,NYQ
+WWW,"Wolverine World Wide, Inc.",Consumer Cyclical,Small-Cap,847287,NYQ
+STOK,"Stoke Therapeutics, Inc.",Healthcare,Small-Cap,1042940,NMS
+SVM,Silvercorp Metals Inc.,Basic Materials,Small-Cap,2300329,ASE
+PDO,N/A,Financial Services,Small-Cap,1049023,NYQ
+HCSG,"Healthcare Services Group, Inc.",Healthcare,Small-Cap,729753,NMS
+INTR,Inter & Co. Inc.,Financial Services,Small-Cap,9040940,NMS
+MNR,Mach Natural Resources LP,Energy,Small-Cap,716198,NYQ
+NUV,"Nuveen Municipal Value Fund, In",Financial Services,Small-Cap,1084998,NYQ
+STNE,StoneCo Ltd.,Technology,Small-Cap,6718657,NMS
+ARR,"ARMOUR Residential REIT, Inc.",Real Estate,Small-Cap,4380863,NYQ
+SFL,SFL Corporation Ltd,Industrials,Small-Cap,1387952,NYQ
+ABSI,Absci Corporation,Healthcare,Small-Cap,3693367,NMS
+WERN,"Werner Enterprises, Inc.",Industrials,Small-Cap,915607,NMS
+NOMD,Nomad Foods Limited,Consumer Defensive,Small-Cap,1492892,NYQ
+SUPN,"Supernus Pharmaceuticals, Inc.",Healthcare,Small-Cap,782067,NGM
+OPEN,Opendoor Technologies Inc,Real Estate,Small-Cap,34941918,NMS
+ARHS,"Arhaus, Inc.",Consumer Cyclical,Mid-Cap,1567378,NMS
+HUN,Huntsman Corporation,Basic Materials,Small-Cap,2695024,NYQ
+NN,NextNav Inc.,Technology,Small-Cap,3089560,NCM
+LUNR,"Intuitive Machines, Inc.",Industrials,Small-Cap,8132306,NGM
+PSNL,"Personalis, Inc.",Healthcare,Small-Cap,2751760,NGM
+URGN,UroGen Pharma Ltd.,Healthcare,Small-Cap,998746,NGM
+SBH,"Sally Beauty Holdings, Inc. (Na",Consumer Cyclical,Small-Cap,1299866,NYQ
+HOPE,"Hope Bancorp, Inc.",Financial Services,Small-Cap,1007435,NMS
+BFLY,"Butterfly Network, Inc.",Healthcare,Small-Cap,5250920,NYQ
+CERT,"Certara, Inc.",Healthcare,Small-Cap,2568464,NMS
+THRM,Gentherm Inc,Consumer Cyclical,Small-Cap,1283032,NMS
+PLAB,"Photronics, Inc.",Technology,Small-Cap,1068600,NMS
+HUBG,"Hub Group, Inc.",Industrials,Small-Cap,1277466,NMS
+RARE,Ultragenyx Pharmaceutical Inc.,Healthcare,Small-Cap,4412454,NMS
+ENR,"Energizer Holdings, Inc.",Industrials,Small-Cap,955789,NYQ
+NTLA,"Intellia Therapeutics, Inc.",Healthcare,Small-Cap,4397432,NGM
+DJT,Trump Media & Technology Group ,Communication Services,Small-Cap,4518418,NGM
+RYZ,Ryerson Holding Corporation,Industrials,Small-Cap,507700,NYQ
+QURE,uniQure N.V.,Healthcare,Small-Cap,2178542,NMS
+NUVB,Nuvation Bio Inc.,Healthcare,Small-Cap,5376265,NYQ
+HLMN,Hillman Solutions Corp.,Industrials,Small-Cap,1731732,NGM
+WLTH,Wealthfront Corporation,Technology,Small-Cap,2473803,NMS
+BXDC,Blackstone Digital Infrastructu,Real Estate,Small-Cap,1963187,NYQ
+KLRA,"Kailera Therapeutics, Inc.",Healthcare,Small-Cap,1061403,NMS
+AZTA,"Azenta, Inc.",Healthcare,Small-Cap,960209,NMS
+REAL,"The RealReal, Inc.",Consumer Cyclical,Small-Cap,3417429,NMS
+ALVO,Alvotech,Healthcare,Small-Cap,1054931,NGM
+OMCL,"Omnicell, Inc.",Healthcare,Small-Cap,598055,NMS
+TDOC,"Teladoc Health, Inc.",Healthcare,Small-Cap,4180440,NYQ
+MLCO,Melco Resorts & Entertainment L,Consumer Cyclical,Small-Cap,1870270,NMS
+GNL,"Global Net Lease, Inc.",Real Estate,Small-Cap,2818440,NYQ
+NVAX,"Novavax, Inc.",Healthcare,Small-Cap,6441389,NMS
+MQY,Blackrock MuniYield Quality Fun,Financial Services,Small-Cap,979746,NYQ
+NAT,Nordic American Tankers Limited,Energy,Small-Cap,4537515,NYQ
+RVLV,"Revolve Group, Inc.",Consumer Cyclical,Small-Cap,831870,NYQ
+CXM,"Sprinklr, Inc.",Technology,Small-Cap,3070787,NYQ
+SSMR,Sunshine Silver Mining & Refini,Basic Materials,Small-Cap,562940,NYQ
+RQI,Cohen & Steers Quality Income R,Financial Services,Small-Cap,656221,NYQ
+NVCR,NovoCure Limited,Healthcare,Small-Cap,1461790,NMS
+ESRT,"Empire State Realty Trust, Inc.",Real Estate,Small-Cap,3976684,NYQ
+WB,Weibo Corporation,Communication Services,Small-Cap,1069225,NMS
+HYT,Blackrock Corporate High Yield ,Financial Services,Small-Cap,1010993,NYQ
+KOS,Kosmos Energy Ltd.,Energy,Small-Cap,13565195,NYQ
+NEXA,Nexa Resources S.A.,Basic Materials,Small-Cap,704864,NYQ
+TRIN,Trinity Capital Inc.,Financial Services,Small-Cap,928742,NYQ
+VOYG,"Voyager Technologies, Inc.",Industrials,Small-Cap,1842918,NYQ
+ALHC,"Alignment Healthcare, Inc.",Healthcare,Small-Cap,8207762,NMS
+CBRL,Cracker Barrel Old Country Stor,Consumer Cyclical,Small-Cap,923390,NMS
+PAX,Patria Investments Limited,Financial Services,Small-Cap,1287764,NMS
+INVA,"Innoviva, Inc.",Healthcare,Small-Cap,822141,NMS
+OCUL,"Ocular Therapeutix, Inc.",Healthcare,Small-Cap,3088404,NGM
+XPRO,Expro Ltd,Energy,Small-Cap,914706,NYQ
+ULCC,"Frontier Group Holdings, Inc.",Industrials,Small-Cap,2979910,NMS
+VISN,"Vistance Networks, Inc.",Technology,Small-Cap,7861710,NMS
+HLF,Herbalife Ltd.,Consumer Defensive,Small-Cap,1618312,NYQ
+EFC,Ellington Financial Inc.,Real Estate,Small-Cap,1540738,NYQ
+GFR,Greenfire Resources Ltd.,Energy,Small-Cap,1179646,NYQ
+BUUU,BUUU Group Limited,Industrials,Small-Cap,912112,NCM
+PGY,Pagaya Technologies Ltd.,Technology,Small-Cap,2234604,NCM
+CSWC,Capital Southwest Corporation,Financial Services,Small-Cap,558547,NMS
+MLKN,"MillerKnoll, Inc.",Consumer Cyclical,Small-Cap,566264,NMS
+ARLO,"Arlo Technologies, Inc.",Industrials,Small-Cap,1608075,NYQ
+HYMC,Hycroft Mining Holding Corporat,Basic Materials,Small-Cap,2046903,NCM
+TYRA,"Tyra Biosciences, Inc.",Healthcare,Small-Cap,835875,NMS
+HE,"Hawaiian Electric Industries, I",Utilities,Small-Cap,3046567,NYQ
+RAPP,"Rapport Therapeutics, Inc.",Healthcare,Small-Cap,735717,NGM
+PRKS,United Parks & Resorts Inc.,Consumer Cyclical,Small-Cap,675767,NYQ
+ETON,"Eton Pharmaceuticals, Inc.",Healthcare,Small-Cap,566675,NGM
+GPCR,Structure Therapeutics Inc.,Healthcare,Small-Cap,1111189,NGM
+PCRX,"Pacira BioSciences, Inc.",Healthcare,Small-Cap,1254973,NMS
+QUBT,Quantum Computing Inc.,Technology,Small-Cap,7182078,NCM
+ALKT,"Alkami Technology, Inc.",Technology,Small-Cap,1935079,NMS
+SVV,"Savers Value Village, Inc.",Consumer Cyclical,Small-Cap,1730920,NYQ
+EFOR,"Everforth, Inc.",Technology,Small-Cap,715663,NYQ
+SBET,"SharpLink, Inc.",Financial Services,Small-Cap,9001263,NCM
+INOD,Innodata Inc.,Technology,Small-Cap,1589032,NGM
+LYCA,"Lycia Therapeutics, Inc.",Healthcare,Small-Cap,544330,NMS
+PRG,"PROG Holdings, Inc.",Industrials,Small-Cap,666670,NYQ
+ARCO,Arcos Dorados Holdings Inc.,Consumer Cyclical,Small-Cap,1684475,NYQ
+LSPD,Lightspeed Commerce Inc. Subord,Technology,Small-Cap,740857,NYQ
+WRD,WERIDE INC.,Technology,Small-Cap,2759023,NGM
+BCAT,N/A,Financial Services,Small-Cap,860220,NYQ
+FLO,"Flowers Foods, Inc.",Consumer Defensive,Small-Cap,6899395,NYQ
+HAWK,"HawkEye 360, Inc.",Industrials,Small-Cap,1381090,NYQ
+MBC,"MasterBrand, Inc.",Consumer Cyclical,Small-Cap,2548764,NYQ
+PWP,Perella Weinberg Partners,Financial Services,Small-Cap,1775950,NMS
+MLYS,"Mineralys Therapeutics, Inc.",Healthcare,Small-Cap,1417142,NMS
+TH,Target Hospitality Corp.,Industrials,Small-Cap,2185962,NCM
+ADIG,ADI Global Distribution Inc.,Technology,Small-Cap,824331,NYQ
+AGRO,Adecoagro S.A.,Consumer Defensive,Small-Cap,740844,NYQ
+WEN,Wendy's Company (The),Consumer Cyclical,Small-Cap,7883178,NMS
+BAND,Bandwidth Inc.,Technology,Small-Cap,889735,NMS
+SHLS,"Shoals Technologies Group, Inc.",Technology,Small-Cap,5055714,NGM
+ECAT,N/A,Financial Services,Small-Cap,572546,NYQ
+DMRA,"Damora Therapeutics, Inc.",Healthcare,Small-Cap,532693,NCM
+SG,"Sweetgreen, Inc.",Consumer Cyclical,Small-Cap,5210565,NYQ
+ICHR,Ichor Holdings,Technology,Small-Cap,827959,NMS
+LYNX,Lyntris Inc.,Industrials,Small-Cap,749866,NYQ
+GIII,"G-III Apparel Group, LTD.",Consumer Cyclical,Small-Cap,630655,NMS
+ADNT,Adient plc,Consumer Cyclical,Small-Cap,1028628,NYQ
+EYE,"National Vision Holdings, Inc.",Consumer Cyclical,Small-Cap,2153004,NMS
+KEEL,Keel Infrastructure Corp.,Technology,Small-Cap,32988217,NGM
+AMSC,American Superconductor Corpora,Industrials,Small-Cap,738747,NMS
+KARD,"Kardigan, Inc.",Healthcare,Small-Cap,576531,NGM
+RES,"RPC, Inc.",Energy,Small-Cap,2113775,NYQ
+TSHA,"Taysha Gene Therapies, Inc.",Healthcare,Small-Cap,3611220,NMS
+CLVT,Clarivate Plc,Technology,Small-Cap,4159221,NYQ
+CRSR,"Corsair Gaming, Inc.",Technology,Small-Cap,1454832,NMS
+FRMI,Fermi Inc.,Real Estate,Small-Cap,20649956,NMS
+PD,"PagerDuty, Inc.",Technology,Small-Cap,1569146,NYQ
+OMER,Omeros Corporation,Healthcare,Small-Cap,1642996,NGM
+EPC,Edgewell Personal Care Company,Consumer Defensive,Small-Cap,530675,NYQ
+UPBD,"Upbound Group, Inc.",Technology,Small-Cap,1067766,NMS
+NKTR,Nektar Therapeutics,Healthcare,Small-Cap,1093709,NCM
+DXYZ,Destiny Tech100 Inc.,Financial Services,Small-Cap,997307,NYQ
+OPK,"Opko Health, Inc.",Healthcare,Small-Cap,3753896,NMS
+GT,The Goodyear Tire & Rubber Comp,Consumer Cyclical,Small-Cap,9141089,NMS
+SECZ,Securitize Corp.,Technology,Small-Cap,3337846,NYQ
+OSBC,"Old Second Bancorp, Inc.",Financial Services,Small-Cap,517967,NMS
+AMPX,"Amprius Technologies, Inc.",Industrials,Small-Cap,5273525,NYQ
+MUC,Blackrock MuniHoldings Californ,Financial Services,Small-Cap,631641,NYQ
+SNDX,"Syndax Pharmaceuticals, Inc.",Healthcare,Small-Cap,2277373,NMS
+CRCT,"Cricut, Inc.",Technology,Small-Cap,873629,NMS
+GO,Grocery Outlet Holding Corp.,Consumer Defensive,Small-Cap,2457120,NMS
+STAA,STAAR Surgical Company,Healthcare,Small-Cap,877256,NGM
+LZB,La-Z-Boy Incorporated,Consumer Cyclical,Small-Cap,709436,NYQ
+TK,Teekay Corporation Ltd.,Energy,Small-Cap,529378,NYQ
+DRTS,Alpha Tau Medical Ltd.,Healthcare,Small-Cap,542285,NCM
+UMH,"UMH Properties, Inc.",Real Estate,Small-Cap,686464,NYQ
+UPWK,Upwork Inc.,Communication Services,Small-Cap,3185134,NMS
+CRON,Cronos Group Inc. Common Share,Healthcare,Small-Cap,1109928,NGM
+MYI,Blackrock MuniYield Quality Fun,Financial Services,Small-Cap,740101,NYQ
+FRNM,"Freenome, Inc.",Healthcare,Small-Cap,838514,NCM
+TNDM,"Tandem Diabetes Care, Inc.",Healthcare,Small-Cap,2116306,NGM
+DOLE,Dole plc,Consumer Defensive,Small-Cap,1083785,NYQ
+SLN,Silence Therapeutics Plc - Amer,Healthcare,Small-Cap,2801459,NGM
+GTM,ZoomInfo Technologies Inc.,Technology,Small-Cap,5358982,NMS
+VOR,Vor Biopharma Inc.,Healthcare,Small-Cap,941493,NMS
+CMPS,COMPASS Pathways Plc - American,Healthcare,Small-Cap,2970721,NMS
+UROY,Uranium Royalty Corp.,Energy,Small-Cap,3161381,NCM
+INNV,InnovAge Holding Corp.,Healthcare,Small-Cap,552989,NMS
+UNIT,Uniti Group Inc.,Real Estate,Small-Cap,3004262,NMS
+MPT,"Medical Properties Trust, Inc.",Real Estate,Small-Cap,13706136,NYQ
+IE,Ivanhoe Electric Inc.,Basic Materials,Small-Cap,2292260,ASE
+VYX,NCR Voyix Corporation,Technology,Small-Cap,2927083,NYQ
+BBAI,"BigBear.ai, Inc.",Technology,Small-Cap,18025409,NYQ
+WD,"Walker & Dunlop, Inc",Financial Services,Small-Cap,527915,NYQ
+LCID,"Lucid Group, Inc.",Consumer Cyclical,Small-Cap,10934240,NMS
+ENOV,Enovis Corporation,Healthcare,Small-Cap,1677789,NYQ
+UTI,Universal Technical Institute I,Consumer Defensive,Small-Cap,1702936,NYQ
+GDRX,"GoodRx Holdings, Inc.",Healthcare,Small-Cap,1227139,NMS
+MNKD,MannKind Corporation,Healthcare,Small-Cap,4063104,NGM
+PDM,"Piedmont Realty Trust, Inc.",Real Estate,Small-Cap,1533890,NYQ
+JBLU,JetBlue Airways Corporation,Industrials,Small-Cap,24829541,NMS
+MSDL,N/A,Financial Services,Small-Cap,501682,NYQ
+WOLF,"Wolfspeed, Inc.",Technology,Small-Cap,3803998,NYQ
+VSTM,"Verastem, Inc.",Healthcare,Small-Cap,3353104,NCM
+AMRC,"Ameresco, Inc.",Industrials,Small-Cap,633450,NYQ
+HZO,"MarineMax, Inc.  (FL)",Consumer Cyclical,Small-Cap,881832,NYQ
+AORT,"Artivion, Inc.",Healthcare,Small-Cap,664950,NYQ
+LZ,"LegalZoom.com, Inc.",Industrials,Small-Cap,2778087,NMS
+LADR,Ladder Capital Corp,Real Estate,Small-Cap,1555232,NYQ
+PRCT,PROCEPT BioRobotics Corporation,Healthcare,Small-Cap,1255035,NGM
+ATEC,"Alphatec Holdings, Inc.",Healthcare,Small-Cap,3024440,NMS
+GOLD,"Gold.com, Inc.",Financial Services,Small-Cap,580959,NYQ
+RSKD,Riskified Ltd.,Technology,Small-Cap,2168567,NYQ
+HLIT,Harmonic Inc.,Technology,Small-Cap,1623878,NMS
+IAUX,i-80 Gold Corp.,Basic Materials,Small-Cap,9026568,ASE
+DSL,DoubleLine Income Solutions Fun,Financial Services,Small-Cap,732417,NYQ
+CRI,"Carter's, Inc.",Consumer Cyclical,Small-Cap,1346801,NYQ
+PSQL,Pasqal Holding SA,Technology,Small-Cap,783646,NGM
+OMDA,"Omada Health, Inc.",Healthcare,Small-Cap,1298157,NMS
+APPS,"Digital Turbine, Inc.",Technology,Small-Cap,2830787,NCM
+NHP,"National Healthcare Properties,",Real Estate,Small-Cap,917515,NGM
+ECVT,Ecovyst Inc.,Basic Materials,Small-Cap,1327981,NYQ
+HPK,"HighPeak Energy, Inc.",Energy,Small-Cap,574860,NGM
+GPRK,Geopark Ltd,Energy,Small-Cap,847789,NYQ
+BRBR,"BellRing Brands, Inc.",Consumer Defensive,Small-Cap,3557828,NYQ
+BV,"BrightView Holdings, Inc.",Industrials,Small-Cap,943375,NYQ
+SMPL,The Simply Good Foods Company,Consumer Defensive,Small-Cap,2209917,NCM
+DCH,Dauch Corporation,Consumer Cyclical,Small-Cap,3941409,NYQ
+TRIP,"TripAdvisor, Inc.",Consumer Cyclical,Small-Cap,4125096,NMS
+GNK,Genco Shipping & Trading Limite,Industrials,Small-Cap,599640,NYQ
+HBNC,"Horizon Bancorp, Inc.",Financial Services,Small-Cap,567036,NMS
+JANX,"Janux Therapeutics, Inc.",Healthcare,Small-Cap,840145,NGM
+GDYN,"Grid Dynamics Holdings, Inc.",Technology,Small-Cap,1296900,NCM
+IMTX,Immatics N.V.,Healthcare,Small-Cap,850648,NCM
+VZLA,Vizsla Silver Corp.,Basic Materials,Small-Cap,4691340,ASE
+YELP,Yelp Inc.,Communication Services,Small-Cap,1304285,NYQ
+BORR,Borr Drilling Limited,Energy,Small-Cap,7792746,NYQ
+FLNC,"Fluence Energy, Inc.",Industrials,Small-Cap,7053335,NMS
+COUR,"Coursera, Inc.",Consumer Defensive,Small-Cap,6516856,NYQ
+CFFN,"Capitol Federal Financial, Inc.",Financial Services,Small-Cap,978861,NMS
+HROW,"Harrow, Inc.",Healthcare,Small-Cap,595600,NGM
+IART,Integra LifeSciences Holdings C,Healthcare,Small-Cap,982695,NMS
+SIBN,"SI-BONE, Inc.",Healthcare,Small-Cap,652371,NGM
+NMAX,"Newsmax, Inc.",Communication Services,Small-Cap,1054637,NYQ
+RPC,"Ridgepost Capital, Inc.",Financial Services,Small-Cap,555620,NYQ
+EMAT,Evolution Metals & Technologies,Basic Materials,Small-Cap,1287979,NGM
+QNST,"QuinStreet, Inc.",Communication Services,Small-Cap,1050635,NMS
+FSCO,N/A,Financial Services,Small-Cap,960940,NYQ
+ORIC,"Oric Pharmaceuticals, Inc.",Healthcare,Small-Cap,1578437,NMS
+TMC,TMC the metals company Inc.,Basic Materials,Small-Cap,5709009,NMS
+EVER,"EverQuote, Inc.",Communication Services,Small-Cap,727529,NGM
+AESI,Atlas Energy Solutions Inc.,Energy,Small-Cap,3717257,NYQ
+GPRE,"Green Plains, Inc.",Basic Materials,Small-Cap,1461746,NMS
+CRF,N/A,Financial Services,Small-Cap,1658132,ASE
+GSBD,"Goldman Sachs BDC, Inc.",Financial Services,Small-Cap,860273,NYQ
+MLTX,MoonLake Immunotherapeutics,Healthcare,Small-Cap,1708587,NCM
+RPD,"Rapid7, Inc.",Technology,Small-Cap,2026417,NGM
+MRTN,"Marten Transport, Ltd.",Industrials,Small-Cap,709689,NMS
+AVO,"Mission Produce, Inc.",Consumer Defensive,Small-Cap,788553,NMS
+SBGI,"Sinclair, Inc.",Communication Services,Small-Cap,535820,NMS
+TUYA,Tuya Inc.,Technology,Small-Cap,557312,NYQ
+CGEM,"Cullinan Therapeutics, Inc.",Healthcare,Small-Cap,951389,NMS
+SVRA,"Savara, Inc.",Healthcare,Small-Cap,2063740,NMS
+FMC,FMC Corporation,Basic Materials,Small-Cap,5507963,NYQ
+SID,Companhia Siderurgica Nacional ,Basic Materials,Small-Cap,8305056,NYQ
+IVA,Inventiva S.A. - American Depos,Healthcare,Small-Cap,2049895,NGM
+DEC,Diversified Energy Company,Energy,Small-Cap,794079,NYQ
+NABL,"N-able, Inc.",Technology,Small-Cap,2422737,NYQ
+DAKT,"Daktronics, Inc.",Technology,Small-Cap,565332,NMS
+JBIO,"Jade Biosciences, Inc.",Healthcare,Small-Cap,896870,NCM
+ORC,"Orchid Island Capital, Inc.",Real Estate,Small-Cap,5775767,NYQ
+CRML,Critical Metals Corp.,Basic Materials,Small-Cap,7956084,NGM
+QDEL,QuidelOrtho Corporation,Healthcare,Small-Cap,1918667,NMS
+SXC,"SunCoke Energy, Inc.",Basic Materials,Small-Cap,1090315,NYQ
+DFH,"Dream Finders Homes, Inc.",Consumer Cyclical,Small-Cap,1184451,NYQ
+JBGS,JBG SMITH Properties,Real Estate,Small-Cap,946860,NYQ
+AIP,"Arteris, Inc.",Technology,Small-Cap,669735,NGM
+USAS,Americas Gold and Silver Corpor,Basic Materials,Small-Cap,4161383,ASE
+BMBL,Bumble Inc.,Communication Services,Small-Cap,5877339,NMS
+BBDC,"Barings BDC, Inc.",Financial Services,Small-Cap,644135,NYQ
+TBLA,Taboola.com Ltd.,Communication Services,Small-Cap,2118754,NMS
+ODD,ODDITY Tech Ltd.,Consumer Defensive,Small-Cap,1108350,NGM
+RERE,ATRenew Inc.,Consumer Cyclical,Small-Cap,738540,NYQ
+OSPN,OneSpan Inc.,Technology,Small-Cap,621843,NCM
+MGTX,MeiraGTx Holdings plc,Healthcare,Small-Cap,812090,NMS
+WGO,"Winnebago Industries, Inc.",Consumer Cyclical,Small-Cap,686458,NYQ
+ANRO,"Alto Neuroscience, Inc.",Healthcare,Small-Cap,566720,NYQ
+GLUE,"Monte Rosa Therapeutics, Inc.",Healthcare,Small-Cap,1288493,NMS
+NEWP,New Pacific Metals Corp.,Basic Materials,Small-Cap,729870,ASE
+NXDR,"Nextdoor Holdings, Inc.",Communication Services,Small-Cap,1856593,NCM
+CODI,D/B/A Compass Diversified Holdi,Industrials,Small-Cap,664880,NYQ
+TTI,"Tetra Technologies, Inc.",Energy,Small-Cap,2219300,NYQ
+MAX,"MediaAlpha, Inc.",Communication Services,Small-Cap,897693,NYQ
+FCEL,"FuelCell Energy, Inc.",Industrials,Small-Cap,7129140,NGM
+POET,POET Technologies Inc.,Technology,Small-Cap,8862990,NCM
+PUMP,ProPetro Holding Corp.,Energy,Small-Cap,4167923,NYQ
+FTK,"Flotek Industries, Inc.",Energy,Small-Cap,509283,NYQ
+KURA,"Kura Oncology, Inc.",Healthcare,Small-Cap,2054617,NMS
+BLMN,"Bloomin' Brands, Inc.",Consumer Cyclical,Small-Cap,2339673,NMS
+SHAZ,"SharonAI Holdings, Inc.",Technology,Small-Cap,1796218,NCM
+PICS,PicS N.V.,Technology,Small-Cap,713098,NMS
+PML,Pimco Municipal Income Fund II ,Financial Services,Small-Cap,711230,NYQ
+VNET,"VNET Group, Inc.",Technology,Small-Cap,5415163,NMS
+TE,T1 Energy Inc.,Industrials,Small-Cap,21078006,NYQ
+PAYS,"Paysign, Inc.",Technology,Small-Cap,814556,NCM
+KODK,Eastman Kodak Company,Industrials,Small-Cap,864087,NYQ
+SWIM,"Latham Group, Inc.",Industrials,Small-Cap,919556,NMS
+SB,"Safe Bulkers, Inc",Industrials,Small-Cap,1169615,NYQ
+ABX,"Abacus Global Management, Inc.",Financial Services,Small-Cap,598695,NYQ
+FWRG,"First Watch Restaurant Group, I",Consumer Cyclical,Small-Cap,1475920,NMS
+NXRT,"NexPoint Residential Trust, Inc",Real Estate,Small-Cap,600456,NYQ
+TDAY,"USA TODAY Co., Inc.",Communication Services,Small-Cap,2684539,NYQ
+IQ,"iQIYI, Inc.",Communication Services,Small-Cap,7627232,NMS
+MFIC,MidCap Financial Investment Cor,Financial Services,Small-Cap,848095,NMS
+CYRX,"CryoPort, Inc.",Industrials,Small-Cap,779693,NCM
+YSS,York Space Systems Inc.,Industrials,Small-Cap,2960614,NYQ
+PSEC,Prospect Capital Corporation,Financial Services,Small-Cap,5535224,NMS
+ALMS,Alumis Inc.,Healthcare,Small-Cap,2725071,NMS
+EVLV,"Evolv Technologies Holdings, In",Industrials,Small-Cap,2122060,NCM
+CRVS,"Corvus Pharmaceuticals, Inc.",Healthcare,Small-Cap,1030509,NGM
+BUR,Burford Capital Limited,Financial Services,Small-Cap,2114490,NYQ
+AVEX,AEVEX Corp.,Industrials,Small-Cap,1823539,NYQ
+MITK,"Mitek Systems, Inc.",Technology,Small-Cap,650756,NCM
+BBNX,"Beta Bionics, Inc.",Healthcare,Small-Cap,1237651,NGM
+RMIX,"Suncrete, Inc.",Basic Materials,Small-Cap,504809,NGM
+CEVA,"CEVA, Inc.",Technology,Small-Cap,682818,NMS
+BBTX,"Bambusa Therapeutics, Inc.",Healthcare,Small-Cap,716320,NMS
+HTLD,"Heartland Express, Inc.",Industrials,Small-Cap,714838,NMS
+PRME,"Prime Medicine, Inc.",Healthcare,Small-Cap,4118635,NGM
+MUX,McEwen Inc.,Basic Materials,Small-Cap,1126235,NYQ
+HSLV,Highlander Silver Corp.,Basic Materials,Small-Cap,639876,ASE
+AHCO,AdaptHealth Corp.,Healthcare,Small-Cap,2845784,NCM
+GOOS,Canada Goose Holdings Inc. Subo,Consumer Cyclical,Small-Cap,853934,NYQ
+XNDU,Xanadu Quantum Technologies Lim,Technology,Small-Cap,4825720,NGM
+NAVI,"Navient Holdings, Inc.",Financial Services,Small-Cap,1417434,NMS
+LXU,"LSB Industries, Inc.",Basic Materials,Small-Cap,829044,NYQ
+SAFE,Safehold Inc. New,Real Estate,Small-Cap,574256,NYQ
+VCX,N/A,Financial Services,Small-Cap,592068,NYQ
+SVC,Service Properties Trust,Real Estate,Small-Cap,1841286,NMS
+VLRS,Controladora Vuela Compania de ,Industrials,Small-Cap,574148,NYQ
+VREX,Varex Imaging Corporation,Healthcare,Small-Cap,918945,NMS
+ANNX,"Annexon, Inc.",Healthcare,Small-Cap,3218787,NMS
+ARDX,"Ardelyx, Inc.",Healthcare,Small-Cap,4788028,NGM
+NPKI,NPK International Inc.,Industrials,Small-Cap,878098,NYQ
+OI,"O-I Glass, Inc.",Consumer Cyclical,Small-Cap,3619903,NYQ
+XRPN,Evernorth Holdings Inc.,Financial Services,Small-Cap,826467,NGM
+CTKB,"Cytek Biosciences, Inc.",Healthcare,Small-Cap,1231989,NMS
+PHK,N/A,Financial Services,Small-Cap,1159052,NYQ
+ASC,Ardmore Shipping Corporation,Industrials,Small-Cap,675201,NYQ
+COLL,"Collegium Pharmaceutical, Inc.",Healthcare,Small-Cap,822767,NMS
+PLTK,Playtika Holding Corp.,Communication Services,Small-Cap,1420276,NMS
+WOOF,Petco Health and Wellness Compa,Consumer Cyclical,Small-Cap,2797182,NMS
+SMWB,Similarweb Ltd.,Technology,Small-Cap,679262,NYQ
+PHR,"Phreesia, Inc.",Healthcare,Small-Cap,720914,NYQ
+PACB,Pacific Biosciences of Californ,Healthcare,Small-Cap,12300635,NMS
+XIFR,"XPLR Infrastructure, LP",Utilities,Small-Cap,1160568,NYQ
+FUN,Six Flags Entertainment Corpora,Consumer Cyclical,Small-Cap,3884230,NYQ
+ACDC,ProFrac Holding Corp.,Energy,Small-Cap,1465490,NMS
+INN,"Summit Hotel Properties, Inc.",Real Estate,Small-Cap,1125933,NYQ
+YEXT,"Yext, Inc.",Technology,Small-Cap,917484,NYQ
+PAR,PAR Technology Corporation,Technology,Small-Cap,941169,NYQ
+BVS,Bioventus Inc.,Healthcare,Small-Cap,547859,NMS
+OABI,"OmniAb, Inc.",Healthcare,Small-Cap,1775296,NGM
+DQ,DAQO New Energy Corp.,Technology,Small-Cap,759436,NYQ
+PUBM,"PubMatic, Inc.",Technology,Small-Cap,703023,NGM
+MNTN,"MNTN, Inc.",Technology,Small-Cap,987728,NYQ
+HTZ,"Hertz Global Holdings, Inc",Industrials,Small-Cap,27146606,NMS
+LWLG,"Lightwave Logic, Inc.",Basic Materials,Small-Cap,3107146,NCM
+SPT,"Sprout Social, Inc",Technology,Small-Cap,1126731,NCM
+SANA,"Sana Biotechnology, Inc.",Healthcare,Small-Cap,3215414,NMS
+UMAC,"Unusual Machines, Inc.",Technology,Small-Cap,3416395,ASE
+ASM,Avino Silver & Gold Mines Ltd.,Basic Materials,Small-Cap,3677272,ASE
+BCSF,"Bain Capital Specialty Finance,",Financial Services,Small-Cap,513764,NYQ
+WVE,"Wave Life Sciences, Inc.",Healthcare,Small-Cap,3380054,NGM
+ARRY,"Array Technologies, Inc.",Technology,Small-Cap,7846623,NGM
+SWRD,STEWARDS INC,Financial Services,Small-Cap,1019243,NCM
+BKSY,BlackSky Technology Inc.,Industrials,Small-Cap,957203,NYQ
+SGMT,Sagimet Biosciences Inc. - Seri,Healthcare,Small-Cap,1277779,NGM
+ITG,"ITG, Inc.",Industrials,Small-Cap,507389,NMS
+OGG,Osisko Gold Group Inc.,Basic Materials,Small-Cap,1823248,NYQ
+OBE,Obsidian Energy Ltd.,Energy,Small-Cap,749353,ASE
+QMCO,Quantum Corporation,Technology,Small-Cap,1928960,NGM
+TIGR,UP Fintech Holding Limited,Financial Services,Small-Cap,2162673,NMS
+DNA,"Ginkgo Bioworks Holdings, Inc.",Healthcare,Small-Cap,2319012,NYQ
+ACHV,"Achieve Life Sciences, Inc.",Healthcare,Small-Cap,1477736,NCM
+CIM,Chimera Investment Corporation,Real Estate,Small-Cap,1315867,NYQ
+NRDS,"NerdWallet, Inc.",Communication Services,Small-Cap,768634,NGM
+DC,Dakota Gold Corp.,Basic Materials,Small-Cap,1314217,ASE
+JMIA,Jumia Technologies AG,Consumer Cyclical,Small-Cap,1661570,NYQ
+RCAT,"Red Cat Holdings, Inc.",Industrials,Small-Cap,7849900,NCM
+FINV,FinVolution Group,Financial Services,Small-Cap,1002231,NYQ
+LAC,Lithium Americas Corp.,Basic Materials,Small-Cap,9049742,NYQ
+SABR,Sabre Corporation,Technology,Small-Cap,6092556,NMS
+FOXF,Fox Factory Holding Corp.,Consumer Cyclical,Small-Cap,789990,NMS
+GRNT,"Granite Ridge Resources, Inc.",Energy,Small-Cap,1346760,NYQ
+CGNT,Cognyte Software Ltd.,Technology,Small-Cap,579795,NMS
+PFLT,PennantPark Floating Rate Capit,Financial Services,Small-Cap,836012,NYQ
+CADL,"Candel Therapeutics, Inc.",Healthcare,Small-Cap,1173010,NGM
+HELP,Helus Pharma Inc.,Healthcare,Small-Cap,1651029,NGM
+EOSE,"Eos Energy Enterprises, Inc.",Industrials,Small-Cap,26716042,NCM
+MFA,"MFA Financial, Inc.",Real Estate,Small-Cap,2103046,NYQ
+ELMT,The Elmet Group Co.,Industrials,Small-Cap,727962,NCM
+CSIQ,Canadian Solar Inc.,Technology,Small-Cap,1899787,NMS
+AOSL,Alpha and Omega Semiconductor L,Technology,Small-Cap,580192,NMS
+SLDB,Solid Biosciences Inc.,Healthcare,Small-Cap,1192610,NMS
+NMFC,New Mountain Finance Corporatio,Financial Services,Small-Cap,567887,NMS
+VTEX,VTEX,Technology,Small-Cap,793793,NYQ
+AVBP,"ArriVent BioPharma, Inc.",Healthcare,Small-Cap,1256212,NGM
+LXRX,"Lexicon Pharmaceuticals, Inc.",Healthcare,Small-Cap,2631646,NCM
+LAR,Lithium Argentina AG,Basic Materials,Small-Cap,1776413,NYQ
+RXT,"Rackspace Technology, Inc.",Technology,Small-Cap,6234956,NMS
+FDMT,"4D Molecular Therapeutics, Inc.",Healthcare,Small-Cap,1037795,NMS
+AGNT,"AGNT, Inc.",Real Estate,Small-Cap,1546079,NGM
+PRTH,"Priority Technology Holdings, I",Technology,Small-Cap,1061084,NCM
+LINC,Lincoln Educational Services Co,Consumer Defensive,Small-Cap,910327,NMS
+BRAI,Braiin Limited,Technology,Small-Cap,2139428,NGM
+KOPN,Kopin Corporation,Industrials,Small-Cap,3711161,NCM
+DSGN,"Design Therapeutics, Inc.",Healthcare,Small-Cap,585223,NMS
+ANGX,"Angel Studios, Inc.",Communication Services,Small-Cap,1693439,NYQ
+AURA,"Aura Biosciences, Inc.",Healthcare,Small-Cap,893559,NGM
+OLMA,"Olema Pharmaceuticals, Inc.",Healthcare,Small-Cap,1214248,NMS
+STLN,"Starling Oncology, Inc.",Healthcare,Small-Cap,1383439,NCM
+JBI,"Janus International Group, Inc.",Industrials,Small-Cap,2044256,NYQ
+MOMO,Hello Group Inc.,Communication Services,Small-Cap,768164,NMS
+ENVX,Enovix Corporation,Industrials,Small-Cap,8736310,NMS
+TRON,Tron Inc.,Consumer Cyclical,Small-Cap,1056457,NCM
+EVC,Entravision Communications Corp,Communication Services,Small-Cap,1464733,NYQ
+QFIN,"Qfin Holdings, Inc.",Financial Services,Small-Cap,2328356,NMS
+BW,"Babcock & Wilcox Enterprises, I",Industrials,Small-Cap,5142990,NYQ
+IAM,"Iambic Therapeutics, Inc.",Healthcare,Small-Cap,865656,NMS
+IIIV,"i3 Verticals, Inc.",Technology,Small-Cap,501550,NMS
+OXLC,Oxford Lane Capital Corp.,Financial Services,Small-Cap,1353403,NGM
+PCT,"PureCycle Technologies, Inc.",Industrials,Small-Cap,5783278,NCM
+IMMX,"Immix Biopharma, Inc.",Healthcare,Small-Cap,1518993,NCM
+PFN,PIMCO Income Strategy Fund II,Financial Services,Small-Cap,530706,NYQ
+BTGO,"BitGo Holdings, Inc.",Financial Services,Small-Cap,1622498,NYQ
+SSYS,"Stratasys, Ltd.",Technology,Small-Cap,762850,NMS
+GRPN,"Groupon, Inc.",Communication Services,Small-Cap,1093938,NMS
+MATV,"Mativ Holdings, Inc.",Basic Materials,Small-Cap,526815,NYQ
+SGML,Sigma Lithium Corporation,Basic Materials,Small-Cap,2384478,NCM
+AHRT,"AH Realty Trust, Inc.",Real Estate,Small-Cap,899465,NYQ
+CARS,Cars.com Inc.,Communication Services,Small-Cap,704710,NYQ
+AEVA,"Aeva Technologies, Inc.",Technology,Small-Cap,1628962,NMS
+MATW,Matthews International Corporat,Industrials,Small-Cap,876120,NMS
+ZVRA,"Zevra Therapeutics, Inc.",Healthcare,Small-Cap,883112,NMS
+GROY,Gold Royalty Corp.,Basic Materials,Small-Cap,1790629,ASE
+PZZA,"Papa John's International, Inc.",Consumer Cyclical,Small-Cap,1481827,NMS
+GMRS,GMR Solutions Inc.,Healthcare,Small-Cap,926023,NYQ
+BCAX,Bicara Therapeutics Inc.,Healthcare,Small-Cap,1094343,NGM
+MAMA,"Mama's Creations, Inc.",Consumer Defensive,Small-Cap,682085,NCM
+NNE,Nano Nuclear Energy Inc.,Industrials,Small-Cap,1926934,NCM
+ABUS,Arbutus Biopharma Corporation,Healthcare,Small-Cap,4988943,NMS
+GERN,Geron Corporation,Healthcare,Small-Cap,12112955,NMS
+EGY,"VAALCO Energy, Inc.",Energy,Small-Cap,1346470,NYQ
+BRUN,Boost Run Inc.,Technology,Small-Cap,2954435,NGM
+SWBI,"Smith & Wesson Brands, Inc.",Industrials,Small-Cap,572009,NMS
+RZLV,Rezolve AI PLC,Technology,Small-Cap,13293546,NGM
+KRNY,Kearny Financial,Financial Services,Small-Cap,557350,NMS
+SOPH,SOPHiA GENETICS SA,Healthcare,Small-Cap,632198,NMS
+EVGO,EVgo Inc.,Consumer Cyclical,Small-Cap,4922846,NMS
+CCXI,Churchill Capital Corp XI,Financial Services,Small-Cap,2940517,NGM
+IRWD,"Ironwood Pharmaceuticals, Inc.",Healthcare,Small-Cap,1927716,NMS
+NRGV,"Energy Vault Holdings, Inc.",Industrials,Small-Cap,4428473,NYQ
+NFGC,New Found Gold Corp,Basic Materials,Small-Cap,1222462,ASE
+IVR,INVESCO MORTGAGE CAPITAL INC,Real Estate,Small-Cap,3397753,NYQ
+ACRS,"Aclaris Therapeutics, Inc.",Healthcare,Small-Cap,2830789,NMS
+DNUT,"Krispy Kreme, Inc.",Consumer Defensive,Small-Cap,3063679,NMS
+GILT,Gilat Satellite Networks Ltd.,Technology,Small-Cap,728755,NMS
+SUPV,Grupo Supervielle S.A.,Financial Services,Small-Cap,608450,NYQ
+MYGN,"Myriad Genetics, Inc.",Healthcare,Small-Cap,2295701,NMS
+ASTL,Algoma Steel Group Inc.,Basic Materials,Small-Cap,1113390,NGM
+ONT,"Onterris, Inc.",Industrials,Small-Cap,715050,NYQ
+WTI,"W&T Offshore, Inc.",Energy,Small-Cap,3823983,NYQ
+CLYM,"Climb Bio, Inc.",Healthcare,Small-Cap,1411364,NGM
+SHEN,Shenandoah Telecommunications C,Communication Services,Small-Cap,775006,NMS
+AVR,Anteris Technologies Global Cor,Healthcare,Small-Cap,1116987,NGM
+REAX,Real REMAX Group Inc.,Real Estate,Small-Cap,808487,NCM
+TROX,Tronox Holdings plc,Basic Materials,Small-Cap,2479223,NYQ
+STTK,"Shattuck Labs, Inc.",Healthcare,Small-Cap,1138898,NMS
+LPTH,"LightPath Technologies, Inc.",Technology,Small-Cap,3115310,NCM
+BLDP,"Ballard Power Systems, Inc.",Industrials,Small-Cap,2754750,NGM
+HYLN,Hyliion Holdings Corp.,Industrials,Small-Cap,2160046,ASE
+OIS,"Oil States International, Inc.",Energy,Small-Cap,769315,NYQ
+ACP,Aberdeen Income Credit Strategi,Financial Services,Small-Cap,882132,NYQ
+MEI,"Methode Electronics, Inc.",Technology,Small-Cap,702981,NYQ
+NMCO,N/A,Financial Services,Small-Cap,594789,NYQ
+HPP,"Hudson Pacific Properties, Inc.",Real Estate,Small-Cap,740663,NYQ
+EVEX,"Eve Holding, Inc.",Industrials,Small-Cap,1035232,NYQ
+BDN,Brandywine Realty Trust,Real Estate,Small-Cap,2014204,NYQ
+JKS,Jinko Holdings Limited,Technology,Small-Cap,780260,NYQ
+ADAM,"Adamas Trust, Inc.",Real Estate,Small-Cap,1174190,NMS
+TRTX,"TPG RE Finance Trust, Inc.",Real Estate,Small-Cap,1273787,NYQ
+SRZN,"Surrozen, Inc.",Healthcare,Small-Cap,543109,NCM
+ETD,Ethan Allen Interiors Inc.,Consumer Cyclical,Small-Cap,534276,NYQ
+ANGO,"AngioDynamics, Inc.",Healthcare,Small-Cap,650252,NMS
+SATL,Satellogic Inc.,Industrials,Small-Cap,4888532,NCM
+HNRG,Hallador Energy Company,Utilities,Small-Cap,904783,NCM
+RGNX,REGENXBIO Inc.,Healthcare,Small-Cap,1354645,NMS
+GAU,Galiano Gold Inc.,Basic Materials,Small-Cap,2695930,ASE
+HIVE,HIVE Digital Technologies Ltd,Financial Services,Small-Cap,15519753,NCM
+ETRA,"Electra Therapeutics, Inc.",Healthcare,Small-Cap,614720,NMS
+OPFI,OppFi Inc.,Financial Services,Small-Cap,999923,NYQ
+GTN,"Gray Media, Inc.",Communication Services,Small-Cap,1034606,NYQ
+EVH,"Evolent Health, Inc",Healthcare,Small-Cap,2366471,NYQ
+BLZE,"Backblaze, Inc.",Technology,Small-Cap,2469245,NGM
+AQST,"Aquestive Therapeutics, Inc.",Healthcare,Small-Cap,2786878,NGM
+SOC,Sable Offshore Corp.,Energy,Small-Cap,8463271,NYQ
+ALIT,"Alight, Inc.",Technology,Small-Cap,551873,NYQ
+ACCO,Acco Brands Corporation,Industrials,Small-Cap,851236,NYQ
+EOLS,"Evolus, Inc. Common Stock",Healthcare,Small-Cap,878521,NGM
+RCEL,"Avita Medical, Inc.",Healthcare,Small-Cap,513009,NCM
+CTMX,"CytomX Therapeutics, Inc.",Healthcare,Small-Cap,3709445,NMS
+ABTC,American Bitcoin Corp.,Financial Services,Small-Cap,1421281,NCM
+CERS,Cerus Corporation,Healthcare,Small-Cap,1952938,NGM
+OVID,Ovid Therapeutics Inc.,Healthcare,Small-Cap,1735660,NCM
+GORO,Goldgroup Mining Inc.,Basic Materials,Small-Cap,1489993,ASE
+SENS,"Senseonics Holdings, Inc.",Healthcare,Small-Cap,728070,NMS
+FBRT,"Franklin BSP Realty Trust, Inc.",Real Estate,Small-Cap,1785632,NYQ
+WNC,Wabash National Corporation,Industrials,Small-Cap,828906,NYQ
+FWDI,"Forward Industries, Inc.",Financial Services,Small-Cap,1920733,NCM
+HNST,"The Honest Company, Inc.",Consumer Defensive,Small-Cap,2178271,NMS
+OPRT,Oportun Financial Corporation,Financial Services,Small-Cap,626937,NMS
+MDXG,"MiMedx Group, Inc",Healthcare,Small-Cap,1322133,NCM
+RYAM,Rayonier Advanced Materials Inc,Basic Materials,Small-Cap,972642,NYQ
+SLDP,"Solid Power, Inc.",Consumer Cyclical,Small-Cap,2931228,NMS
+HUYA,HUYA Inc.,Communication Services,Small-Cap,1039414,NYQ
+DDD,3D Systems Corporation,Technology,Small-Cap,2564753,NYQ
+PHAT,"Phathom Pharmaceuticals, Inc.",Healthcare,Small-Cap,1453635,NMS
+RLMD,"Relmada Therapeutics, Inc.",Healthcare,Small-Cap,1400598,NCM
+EPRX,Eupraxia Pharmaceuticals Inc.,Healthcare,Small-Cap,661785,NMS
+BAK,Braskem SA,Basic Materials,Micro-Cap,2604428,NYQ
+CLB,Core Laboratories Inc.,Energy,Small-Cap,602873,NYQ
+SPPP,"""Sprott Physical Platinum and P",N/A,Small-Cap,538389,ASE
+ARVN,"Arvinas, Inc.",Healthcare,Small-Cap,789150,NMS
+DIN,"Dine Brands Global, Inc. Common",Consumer Cyclical,Small-Cap,508826,NYQ
+CAPR,"Capricor Therapeutics, Inc.",Healthcare,Small-Cap,5971364,NMS
+INDP,"Indaptus Therapeutics, Inc.",Healthcare,Small-Cap,910392,NCM
+BRSP,"BrightSpire Capital, Inc.",Real Estate,Small-Cap,1684767,NYQ
+VITL,"Vital Farms, Inc.",Consumer Defensive,Small-Cap,1704954,NGM
+ARKO,ARKO Corp.,Consumer Cyclical,Small-Cap,921207,NCM
+NB,NioCorp Developments Ltd.,Basic Materials,Small-Cap,2855756,NGM
+ADTN,"ADTRAN Holdings, Inc.",Technology,Small-Cap,1795193,NMS
+VVR,Invesco Senior Income Trust  (D,Financial Services,Small-Cap,802578,NYQ
+CRMD,CorMedix Inc.,Healthcare,Small-Cap,1336341,NGM
+UAMY,United States Antimony Corporat,Basic Materials,Small-Cap,6315978,NYQ
+PROK,ProKidney Corp.,Healthcare,Small-Cap,1468337,NCM
+EROC,"ERock, Inc.",Industrials,Small-Cap,3038829,NYQ
+ASPN,"Aspen Aerogels, Inc.",Basic Materials,Small-Cap,953142,NYQ
+ALOY,REalloys Inc.,Basic Materials,Small-Cap,2175018,NCM
+METC,"Ramaco Resources, Inc.",Basic Materials,Small-Cap,2199356,NMS
+OXM,"Oxford Industries, Inc.",Consumer Cyclical,Small-Cap,509532,NYQ
+MEC,"Mayville Engineering Company, I",Industrials,Small-Cap,543515,NYQ
+ITRG,Integra Resources Corp.,Basic Materials,Small-Cap,2011165,ASE
+VRRM,Verra Mobility Corporation,Technology,Small-Cap,5337603,NCM
+WYFI,"WhiteFiber, Inc.",Technology,Small-Cap,2103512,NCM
+OFRM,"Once Upon a Farm, PBC",Consumer Defensive,Small-Cap,563139,NYQ
+ALT,"Altimmune, Inc.",Healthcare,Small-Cap,3929671,NGM
+FOSL,"Fossil Group, Inc.",Consumer Cyclical,Small-Cap,821620,NMS
+SRTA,"Strata Critical Medical, Inc.",Healthcare,Small-Cap,938289,NCM
+TMQ,Trilogy Metals Inc.,Basic Materials,Small-Cap,1272218,ASE
+EDIT,"Editas Medicine, Inc.",Healthcare,Small-Cap,2683296,NMS
+CCCC,"C4 Therapeutics, Inc.",Healthcare,Small-Cap,2443803,NMS
+SHOE,"Shoe Station Group, Inc.",Consumer Cyclical,Small-Cap,984589,NMS
+RZLT,"Rezolute, Inc.",Healthcare,Small-Cap,1479554,NCM
+RWT,"Redwood Trust, Inc.",Real Estate,Small-Cap,4371600,NYQ
+TLRY,"Tilray Brands, Inc.",Healthcare,Small-Cap,4154956,NMS
+FPI,Farmland Partners Inc.,Real Estate,Small-Cap,728195,NYQ
+AVTX,"Avalo Therapeutics, Inc.",Healthcare,Small-Cap,1577935,NCM
+ALLO,"Allogene Therapeutics, Inc.",Healthcare,Small-Cap,6558009,NMS
+ZURA,Zura Bio Limited,Healthcare,Small-Cap,2819926,NCM
+NAK,"Northern Dynasty Minerals, Ltd.",Basic Materials,Small-Cap,4172363,ASE
+TLS,Telos Corporation,Technology,Small-Cap,702078,NGM
+SPCE,"Virgin Galactic Holdings, Inc.",Industrials,Small-Cap,6203951,NYQ
+PTLO,Portillo's Inc.,Consumer Cyclical,Small-Cap,1786825,NMS
+SFIX,"Stitch Fix, Inc.",Consumer Cyclical,Small-Cap,2496682,NMS
+CRNC,Cerence Inc.,Technology,Small-Cap,688779,NMS
+AUTL,Autolus Therapeutics plc,Healthcare,Small-Cap,2130665,NMS
+PERI,Perion Network Ltd,Communication Services,Small-Cap,581878,NMS
+AIOT,"PowerFleet, Inc.",Technology,Small-Cap,1899343,NGM
+MNRO,"Monro, Inc.",Consumer Cyclical,Small-Cap,1003798,NMS
+GTE,Gran Tierra Energy Inc.,Energy,Small-Cap,616404,ASE
+ERII,"Energy Recovery, Inc.",Industrials,Small-Cap,949812,NMS
+CTNM,"Contineum Therapeutics, Inc.",Healthcare,Small-Cap,850960,NMS
+ASPE,"Aspen Neuroscience, Inc.",Healthcare,Small-Cap,611320,NMS
+BBW,"Build-A-Bear Workshop, Inc.",Consumer Cyclical,Small-Cap,596927,NYQ
+BRBS,"Blue Ridge Bankshares, Inc.",Financial Services,Small-Cap,1131517,ASE
+ECX,ECARX Holdings Inc.,Consumer Cyclical,Small-Cap,959793,NGM
+ABR,Arbor Realty Trust,Real Estate,Small-Cap,6814475,NYQ
+ORN,"Orion Group Holdings, Inc.",Industrials,Small-Cap,516726,NYQ
+FNKO,"Funko, Inc.",Consumer Cyclical,Small-Cap,1124945,NMS
+TCPC,BlackRock TCP Capital Corp.,Financial Services,Small-Cap,749610,NMS
+WRN,Western Copper and Gold Corpora,Basic Materials,Small-Cap,1081730,ASE
+VFF,"Village Farms International, In",Consumer Defensive,Small-Cap,891000,NCM
+GEMI,"Gemini Space Station, Inc.",Financial Services,Small-Cap,2516787,NMS
+ECC,Eagle Point Credit Company Inc.,Financial Services,Small-Cap,1171450,NYQ
+BETR,Better Home & Finance Holding C,Financial Services,Small-Cap,842607,NGM
+NNBR,"NN, Inc.",Industrials,Small-Cap,2559973,NMS
+EMBC,Embecta Corp.,Healthcare,Small-Cap,1258910,NMS
+SPIR,"Spire Global, Inc.",Industrials,Small-Cap,582743,NYQ
+CDNL,Cardinal Infrastructure Group I,Industrials,Small-Cap,926895,NMS
+MNTK,"Montauk Renewables, Inc.",Basic Materials,Small-Cap,529040,NCM
+INDI,"indie Semiconductor, Inc.",Technology,Small-Cap,6173564,NCM
+CLNE,Clean Energy Fuels Corp.,Energy,Small-Cap,1927023,NMS
+XTND,"Xtend AI Robotics, Inc.",Technology,Micro-Cap,2762686,NYQ
+REI,"Ring Energy, Inc.",Energy,Small-Cap,3432578,ASE
+SLI,Standard Lithium Ltd.,Basic Materials,Small-Cap,1831489,ASE
+ZIP,"ZipRecruiter, Inc.",Communication Services,Small-Cap,820389,NYQ
+HLLY,Holley Inc.,Consumer Cyclical,Small-Cap,1152653,NYQ
+IRD,"Opus Genetics, Inc.",Healthcare,Small-Cap,2493172,NCM
+AMCX,AMC Global Media Inc.,Communication Services,Small-Cap,621989,NMS
+SNDL,SNDL Inc.,Consumer Defensive,Small-Cap,1400050,NCM
+DBI,Designer Brands Inc.,Consumer Cyclical,Small-Cap,602578,NYQ
+ACB,Aurora Cannabis Inc.,Healthcare,Small-Cap,1460301,NCM
+MRAM,"Everspin Technologies, Inc.",Technology,Small-Cap,913656,NGM
+TWI,"Titan International, Inc. (DE)",Industrials,Small-Cap,679410,NYQ
+TJGC,TJGC Group Limited,Communication Services,Small-Cap,915896,NCM
+IHRT,"iHeartMedia, Inc.",Communication Services,Small-Cap,719120,NMS
+KYTX,"Kyverna Therapeutics, Inc.",Healthcare,Small-Cap,852978,NMS
+GOGO,Gogo Inc.,Communication Services,Small-Cap,1779425,NMS
+LAND,Gladstone Land Corporation,Real Estate,Small-Cap,754756,NGM
+XFOR,"X4 Pharmaceuticals, Inc.",Healthcare,Small-Cap,866631,NCM
+ORBS,Eightco Holdings Inc.,Consumer Cyclical,Small-Cap,15401939,NCM
+FIP,FTAI Infrastructure Inc.,Industrials,Small-Cap,1340615,NMS
+CGC,Canopy Growth Corporation,Healthcare,Small-Cap,2909906,NMS
+CLPT,ClearPoint Neuro Inc.,Healthcare,Small-Cap,660846,NCM
+EBS,Emergent BioSolutions Inc.,Healthcare,Small-Cap,1260432,NYQ
+LAES,SEALSQ Corp,Technology,Small-Cap,5692732,NMS
+EAF,GrafTech International Ltd.,Industrials,Small-Cap,547460,NYQ
+CCOI,"Cogent Communications Holdings,",Communication Services,Micro-Cap,2100935,NMS
+IMSR,Terrestrial Energy Inc.,Utilities,Small-Cap,1491368,NMS
+CWH,"Camping World Holdings, Inc.",Consumer Cyclical,Small-Cap,2095993,NYQ
+NUAI,"New Era Energy & Digital, Inc.",Technology,Micro-Cap,8668151,NGM
+BTBT,"Bit Digital, Inc.",Financial Services,Small-Cap,27644606,NCM
+AGEN,Agenus Inc.,Healthcare,Small-Cap,1013423,NCM
+NAUT,"Nautilus Biotechnology, Inc.",Healthcare,Small-Cap,5683012,NCM
+EIKN,"Eikon Therapeutics, Inc.",Healthcare,Small-Cap,579137,NMS
+EGHT,8x8 Inc,Technology,Small-Cap,1430076,NMS
+DSX,Diana Shipping inc.,Industrials,Small-Cap,1041287,NYQ
+TRX,TRX Gold Corporation,Basic Materials,Small-Cap,2932746,ASE
+FVRR,Fiverr International Ltd.,Communication Services,Small-Cap,741681,NYQ
+CYH,"Community Health Systems, Inc.",Healthcare,Small-Cap,1403018,NYQ
+SPRY,"ARS Pharmaceuticals, Inc.",Healthcare,Small-Cap,1681093,NGM
+KREF,KKR Real Estate Finance Trust I,Real Estate,Small-Cap,886487,NYQ
+GEVO,"Gevo, Inc.",Basic Materials,Small-Cap,2796213,NCM
+CHPT,"ChargePoint Holdings, Inc.",Consumer Cyclical,Small-Cap,1889076,NYQ
+NNDM,Nano Dimension Ltd.,Technology,Small-Cap,1580662,NCM
+URG,Ur Energy Inc,Energy,Small-Cap,8432540,ASE
+RBBN,Ribbon Communications Inc.,Technology,Micro-Cap,1115589,NMS
+EH,EHang Holdings Limited,Industrials,Small-Cap,704192,NGM
+BTQ,BTQ Technologies Corp.,Technology,Small-Cap,2028914,NGM
+FULC,"Fulcrum Therapeutics, Inc.",Healthcare,Small-Cap,1502934,NGM
+PLAY,"Dave & Buster's Entertainment, ",Communication Services,Small-Cap,2207910,NMS
+SABS,"SAB Biotherapeutics, Inc.",Healthcare,Small-Cap,538593,NCM
+PUSA,Powerus Corporation,Industrials,Small-Cap,834040,NCM
+QSI,Quantum-Si Incorporated,Healthcare,Small-Cap,6377362,NGM
+ASPI,ASP Isotopes Inc.,Basic Materials,Small-Cap,4103425,NCM
+BLND,"Blend Labs, Inc.",Technology,Micro-Cap,1996621,NYQ
+IPSC,"Century Therapeutics, Inc.",Healthcare,Small-Cap,681300,NCM
+ALTO,"Alto Ingredients, Inc.",Basic Materials,Small-Cap,1297730,NCM
+AZ,A2Z Cust2Mate Solutions Corp.,Technology,Small-Cap,505860,NCM
+CYPH,Cypherpunk Technologies Inc.,Financial Services,Small-Cap,13724620,NCM
+RCKT,"Rocket Pharmaceuticals, Inc.",Healthcare,Small-Cap,1807134,NGM
+CMRC,"Commerce.com, Inc. - Series 1",Technology,Small-Cap,951509,NGM
+LTRX,"Lantronix, Inc.",Technology,Micro-Cap,939666,NCM
+POWW,Outdoor Holding Company,Industrials,Small-Cap,583764,NCM
+BIOA,"BioAge Labs, Inc.",Healthcare,Micro-Cap,742237,NMS
+LRMR,"Larimar Therapeutics, Inc.",Healthcare,Micro-Cap,1329103,NGM
+XMAX,"XMAX, Inc.",Consumer Cyclical,Small-Cap,783749,NCM
+ARCT,Arcturus Therapeutics Holdings ,Healthcare,Small-Cap,1009017,NGM
+SES,SES AI Corporation,Consumer Cyclical,Small-Cap,21014192,NYQ
+SMRT,"SmartRent, Inc.",Technology,Small-Cap,857431,NYQ
+PACK,Ranpak Holdings Corp,Consumer Cyclical,Small-Cap,579668,NYQ
+TDUP,ThredUp Inc.,Consumer Cyclical,Micro-Cap,2201040,NMS
+HRZN,Horizon Technology Finance Corp,Financial Services,Small-Cap,580232,NMS
+QTTB,Q32 Bio Inc.,Healthcare,Small-Cap,694892,NCM
+GLOO,"Gloo Holdings, Inc.",Technology,Small-Cap,643885,NMS
+JACK,Jack In The Box Inc.,Consumer Cyclical,Small-Cap,602186,NMS
+IMXI,"International Money Express, In",Technology,Micro-Cap,678776,NCM
+OPTU,"Optimum Communications, Inc.",Communication Services,Small-Cap,2620585,NYQ
+LCTX,"Lineage Cell Therapeutics, Inc.",Healthcare,Small-Cap,1291973,ASE
+LXEO,"Lexeo Therapeutics, Inc.",Healthcare,Micro-Cap,1325848,NGM
+LDI,"loanDepot, Inc.",Financial Services,Small-Cap,4371542,NYQ
+SSP,E.W. Scripps Company (The),Communication Services,Small-Cap,708147,NMS
+OCGN,"Ocugen, Inc.",Healthcare,Small-Cap,6576975,NCM
+AIV,Apartment Investment and Manage,Real Estate,Micro-Cap,1912280,NYQ
+OSUR,"OraSure Technologies, Inc.",Healthcare,Micro-Cap,558584,NMS
+IFRX,InflaRx N.V.,Healthcare,Micro-Cap,866726,NMS
+ABEO,Abeona Therapeutics Inc.,Healthcare,Micro-Cap,1360055,NCM
+FATE,"Fate Therapeutics, Inc.",Healthcare,Micro-Cap,1458334,NGM
+IMRX,Immuneering Corporation,Healthcare,Micro-Cap,723975,NGM
+LAB,Standard BioTools Inc.,Healthcare,Small-Cap,1200953,NMS
+CABA,"Cabaletta Bio, Inc.",Healthcare,Micro-Cap,5233553,NMS
+BNC,BNB Standard Corporation,Industrials,Micro-Cap,2212893,NCM
+HITI,High Tide Inc.,Healthcare,Micro-Cap,614542,NCM
+SVIA,"Silvia, Inc.",Financial Services,Micro-Cap,1587989,NGM
+CNDT,Conduent Incorporated,Technology,Micro-Cap,1126389,NMS
+KLC,"KinderCare Learning Companies, ",Consumer Defensive,Micro-Cap,862490,NYQ
+NUS,"Nu Skin Enterprises, Inc.",Consumer Defensive,Micro-Cap,536244,NYQ
+KDK,"Kodiak AI, Inc.",Technology,Small-Cap,4535501,NGM
+ANGI,Angi Inc.,Communication Services,Small-Cap,863552,NMS
+ALEC,"Alector, Inc.",Healthcare,Small-Cap,3303954,NMS
+MVST,"Microvast Holdings, Inc.",Consumer Cyclical,Micro-Cap,5370539,NCM
+FUBO,fuboTV Inc.,Communication Services,Micro-Cap,1241096,NYQ
+DGXX,Digi Power X Inc.,Utilities,Micro-Cap,2647167,NCM
+GLAS,Glass House Brands Inc. Subordi,Healthcare,Micro-Cap,1455301,NYQ
+XPOF,"Xponential Fitness, Inc.",Consumer Cyclical,Micro-Cap,917371,NYQ
+VNDA,Vanda Pharmaceuticals Inc.,Healthcare,Micro-Cap,1060233,NGM
+SERV,Serve Robotics Inc.,Industrials,Small-Cap,3643481,NCM
+GRRR,Gorilla Technology Group Inc.,Technology,Micro-Cap,1008510,NCM
+SIGA,SIGA Technologies Inc.,Healthcare,Micro-Cap,624338,NGM
+EVMN,"Evommune, Inc.",Healthcare,Micro-Cap,776331,NYQ
+SUPX,SuperX AI Technology Limited,Technology,Micro-Cap,527292,NCM
+PALI,"Palisade Bio, Inc.",Healthcare,Micro-Cap,3062036,NCM
+GPRO,"GoPro, Inc.",Technology,Micro-Cap,34661362,NMS
+ATER,"Aterian, Inc.",Consumer Cyclical,Micro-Cap,1790665,NCM
+QNC,Quantum eMotion Corp.,Technology,Micro-Cap,868017,ASE
+TOYO,"TOYO Co., Ltd",Technology,Micro-Cap,631293,NCM
+RR,Richtech Robotics Inc.,Industrials,Micro-Cap,5372332,NCM
+ELDN,"Eledon Pharmaceuticals, Inc.",Healthcare,Micro-Cap,910995,NCM
+EXFY,"Expensify, Inc.",Technology,Micro-Cap,707215,NMS
+BKKT,"Bakkt, Inc.",Technology,Micro-Cap,1364134,NYQ
+IKT,"Inhibikase Therapeutics, Inc.",Healthcare,Micro-Cap,562607,NCM
+PLX,"Protalix BioTherapeutics, Inc. ",Healthcare,Micro-Cap,778743,ASE
+ARTV,"Artiva Biotherapeutics, Inc.",Healthcare,Micro-Cap,651389,NGM
+ENGS,Energys Group Limited,Industrials,Micro-Cap,2924800,NCM
+VRA,"Vera Bradley, Inc.",Consumer Cyclical,Micro-Cap,538736,NMS
+PNNT,PennantPark Investment Corporat,Financial Services,Micro-Cap,602430,NYQ
+SY,So-Young International Inc. - A,Healthcare,Micro-Cap,514873,NCM
+TSSI,"TSS, Inc.",Technology,Micro-Cap,942969,NCM
+AKBA,"Akebia Therapeutics, Inc.",Healthcare,Micro-Cap,8037931,NCM
+ADCT,ADC Therapeutics SA,Healthcare,Micro-Cap,1622781,NYQ
+NVA,Nova Minerals Corp,Basic Materials,Micro-Cap,551668,ASE
+ZJYL,JIN MEDICAL INTERNATIONAL LTD.,Healthcare,Small-Cap,549220,NCM
+PYXS,"Pyxis Oncology, Inc.",Healthcare,Micro-Cap,1212446,NMS
+DUOT,"Duos Technologies Group, Inc.",Technology,Micro-Cap,986889,NCM
+VELO,"Velo3D, Inc.",Technology,Micro-Cap,1409770,NCM
+RXST,"RxSight, Inc.",Healthcare,Micro-Cap,816371,NGM
+PRQR,ProQR Therapeutics N.V.,Healthcare,Micro-Cap,835529,NCM
+BGS,"B&G Foods, Inc.",Consumer Defensive,Micro-Cap,2174820,NYQ
+LTBR,Lightbridge Corporation,Industrials,Micro-Cap,752055,NCM
+MX,Magnachip Semiconductor Corpora,Technology,Micro-Cap,972229,NYQ
+USDE,StablecoinX Inc.,Financial Services,Micro-Cap,4954371,NCM
+ACRE,Ares Commercial Real Estate Cor,Real Estate,Micro-Cap,512828,NYQ
+BBOT,BridgeBio Oncology Therapeutics,Healthcare,Micro-Cap,559554,NGM
+UPB,"Upstream Bio, Inc.",Healthcare,Micro-Cap,868075,NMS
+NAGE,"Niagen Bioscience, Inc.",Consumer Defensive,Micro-Cap,508624,NCM
+NXH,"Neighborhood Intelligence, Inc.",Consumer Cyclical,Micro-Cap,3684375,NMS
+AIRJ,AirJoule Technologies Corporati,Industrials,Micro-Cap,1072293,NCM
+RC,Ready Capital Corporation,Real Estate,Micro-Cap,1489848,NYQ
+SHMD,SCHMID Group N.V.,Industrials,Micro-Cap,1027173,NGM
+HDSN,"Hudson Technologies, Inc.",Basic Materials,Micro-Cap,571596,NCM
+ALXO,ALX Oncology Holdings Inc.,Healthcare,Micro-Cap,1295570,NMS
+ABAT,American Battery Technology Com,Industrials,Micro-Cap,3249203,NCM
+UIS,Unisys Corporation New,Technology,Micro-Cap,764544,NYQ
+INO,"Inovio Pharmaceuticals, Inc.",Healthcare,Micro-Cap,10211124,NCM
+AIBZ,Bitzero Holdings Inc.,Technology,Micro-Cap,577470,NCM
+ZNTL,"Zentalis Pharmaceuticals, Inc.",Healthcare,Micro-Cap,1247523,NGM
+STIM,"Neuronetics, Inc.",Healthcare,Micro-Cap,1685856,NGM
+FUFU,BitFuFu Inc.,Financial Services,Micro-Cap,1009257,NCM
+PEPG,PepGen Inc.,Healthcare,Micro-Cap,921421,NMS
+IVVD,"Invivyd, Inc.",Healthcare,Micro-Cap,5231767,NGM
+XRX,Xerox Holdings Corporation,Industrials,Micro-Cap,4063060,NMS
+SION,"Sionna Therapeutics, Inc.",Healthcare,Micro-Cap,2300335,NGM
+VLN,Valens Semiconductor Ltd.,Technology,Micro-Cap,656529,NYQ
+XHG,XChange TEC.INC,Financial Services,Micro-Cap,2522807,NCM
+CMTG,"Claros Mortgage Trust, Inc.",Real Estate,Micro-Cap,1154387,NYQ
+PDYN,Palladyne AI Corp.,Technology,Micro-Cap,864328,NGM
+VUZI,Vuzix Corporation,Technology,Micro-Cap,982486,NCM
+AMPY,Amplify Energy Corp.,Energy,Micro-Cap,672632,NYQ
+PLBY,"Playboy, Inc.",Consumer Cyclical,Micro-Cap,683465,NGM
+CNTN,"Canton Strategic Holdings, Inc.",Healthcare,Micro-Cap,732789,NCM
+GLDG,GoldMining Inc.,Basic Materials,Micro-Cap,640496,ASE
+PDSB,PDS Biotechnology Corporation,Healthcare,Micro-Cap,25826150,NCM
+AMRO,Amaero Inc.,Basic Materials,Micro-Cap,515281,NCM
+SSTK,"Shutterstock, Inc.",Communication Services,Micro-Cap,850326,NYQ
+CURI,CuriosityStream Inc.,Communication Services,Micro-Cap,1120673,NCM
+SKYA,"SkyAI, Inc.",Technology,Micro-Cap,1434067,NCM
+MGNX,"MacroGenics, Inc.",Healthcare,Micro-Cap,696292,NMS
+MXCT,"MaxCyte, Inc.",Healthcare,Micro-Cap,926050,NMS
+TARA,"Protara Therapeutics, Inc.",Healthcare,Micro-Cap,983057,NGM
+ZENA,"ZenaTech, Inc.",Technology,Micro-Cap,3586207,NCM
+CAN,Canaan Inc.,Technology,Micro-Cap,13982535,NCM
+NCMI,"National CineMedia, Inc.",Communication Services,Micro-Cap,1203490,NMS
+ALMU,"Aeluma, Inc.",Technology,Micro-Cap,619431,NCM
+DOUG,Douglas Elliman Inc.,Real Estate,Micro-Cap,530178,NYQ
+HUCK,"Huckleberry.ai, Inc.",Technology,Micro-Cap,1009809,NGM
+XLAB,Exascale Labs Holdings Inc.,Technology,Micro-Cap,5713503,NGM
+QTRX,Quanterix Corporation,Healthcare,Micro-Cap,751170,NGM
+NGEN,NervGen Pharma Corp.,Healthcare,Micro-Cap,508607,NCM
+DEFT,"Defi Technologies, Inc.",Financial Services,Micro-Cap,2357242,NCM
+SLNH,"Soluna Holdings, Inc.",Financial Services,Micro-Cap,9559230,NCM
+CMPX,"Compass Therapeutics, Inc.",Healthcare,Micro-Cap,4130551,NCM
+SWMR,"Swarmer, Inc",Technology,Micro-Cap,689578,NCM
+EU,enCore Energy Corp.,Energy,Micro-Cap,4868823,NCM
+TLYS,"Tilly's, Inc.",Consumer Cyclical,Micro-Cap,561646,NYQ
+DPRO,Draganfly Inc.,Industrials,Micro-Cap,1235928,NCM
+OGI,Organigram Global Inc.,Healthcare,Micro-Cap,935960,NMS
+AEHL,Antelope Enterprise Holdings Li,Industrials,Micro-Cap,2295939,NCM
+CRDL,Cardiol Therapeutics Inc.,Healthcare,Micro-Cap,1359829,NCM
+RILY,"BRC Group Holdings, Inc.",Financial Services,Micro-Cap,708989,NGM
+DH,Definitive Healthcare Corp.,Healthcare,Micro-Cap,650435,NMS
+GOW,GOWell Energy Technology,Energy,Micro-Cap,755064,NGM
+FHTX,Foghorn Therapeutics Inc.,Healthcare,Micro-Cap,761248,NGM
+PLG,Platinum Group Metals Ltd.,Basic Materials,Micro-Cap,1179523,ASE
+AIRS,"AirSculpt Technologies, Inc.",Healthcare,Nano-Cap,960760,NGM
+CHRS,"Coherus Oncology, Inc.",Healthcare,Micro-Cap,1458456,NGM
+BYND,"Beyond Meat, Inc.",Consumer Defensive,Micro-Cap,1414893,NMS
+OSS,"One Stop Systems, Inc.",Technology,Micro-Cap,1002934,NCM
+GLND,Greenland Energy Company,Energy,Micro-Cap,15555193,NGM
+HUMA,"Humacyte, Inc.",Healthcare,Micro-Cap,6643910,NMS
+ATOM,Atomera Incorporated,Technology,Micro-Cap,555615,NCM
+NEOV,NeoVolta Inc.,Industrials,Micro-Cap,1515100,NCM
+SKYX,SKYX Platforms Corp.,Industrials,Micro-Cap,936976,NCM
+CDXS,"Codexis, Inc.",Healthcare,Micro-Cap,924252,NMS
+LUNG,Pulmonx Corporation,Healthcare,Micro-Cap,618654,NMS
+AREC,American Resources Corporation,Industrials,Micro-Cap,2064217,NCM
+GCL,GCL Global Holdings Ltd,Communication Services,Micro-Cap,510940,NCM
+OXSQ,Oxford Square Capital Corp.,Financial Services,Micro-Cap,1662976,NMS
+AVXL,Anavex Life Sciences Corp.,Healthcare,Micro-Cap,1023456,NMS
+OTLK,"Outlook Therapeutics, Inc.",Healthcare,Micro-Cap,9914093,NCM
+KLXE,"KLX Energy Services Holdings, I",Energy,Micro-Cap,688865,NMS
+VYGR,"Voyager Therapeutics, Inc.",Healthcare,Micro-Cap,696257,NMS
+FEAM,"5E Advanced Materials, Inc.",Basic Materials,Micro-Cap,935898,NMS
+WYHG,Wing Yip Food Holdings Group Li,Consumer Defensive,Micro-Cap,937904,NCM
+LENZ,"LENZ Therapeutics, Inc.",Healthcare,Micro-Cap,880754,NMS
+BHR,Braemar Hotels & Resorts Inc.,Real Estate,Micro-Cap,552756,NYQ
+EQ,"Equillium, Inc.",Healthcare,Micro-Cap,562989,NCM
+NKTX,"Nkarta, Inc.",Healthcare,Micro-Cap,775251,NMS
+HCAT,"Health Catalyst, Inc",Healthcare,Micro-Cap,543575,NMS
+LX,LexinFintech Holdings Ltd.,Financial Services,Micro-Cap,2797282,NMS
+NMRA,"Neumora Therapeutics, Inc.",Healthcare,Micro-Cap,1654429,NMS
+CATX,"Perspective Therapeutics, Inc.",Healthcare,Micro-Cap,2302132,ASE
+ORGO,Organogenesis Holdings Inc.,Healthcare,Micro-Cap,878415,NCM
+LFMD,"LifeMD, Inc.",Healthcare,Micro-Cap,751406,NGM
+DFDV,DeFi Development Corp.,Financial Services,Micro-Cap,1912559,NCM
+SIDU,"Sidus Space, Inc.",Industrials,Micro-Cap,4022532,NCM
+JELD,"JELD-WEN Holding, Inc.",Industrials,Micro-Cap,1576228,NYQ
+PMVP,"PMV Pharmaceuticals, Inc.",Healthcare,Micro-Cap,672903,NMS
+LODE,Comstock Inc.,Basic Materials,Micro-Cap,1423460,ASE
+BDTX,"Black Diamond Therapeutics, Inc",Healthcare,Micro-Cap,676439,NMS
+ENGN,enGene Therapeutics Inc.,Healthcare,Micro-Cap,788643,NCM
+GCTS,"GCT Semiconductor Holding, Inc.",Technology,Micro-Cap,1875412,NYQ
+KXIN,Kaixin Holdings,Consumer Cyclical,Micro-Cap,2097139,NCM
+NRXP,"NRX Pharmaceuticals, Inc.",Healthcare,Micro-Cap,1143779,NCM
+SRFM,Surf Air Mobility Inc.,Industrials,Micro-Cap,4453309,NYQ
+UNCY,"Unicycive Therapeutics, Inc.",Healthcare,Micro-Cap,940970,NCM
+MRLN,"Merlin, Inc.",Industrials,Micro-Cap,2501754,NGM
+AIAI,AIAI Holdings Corporation,Industrials,Micro-Cap,633365,NGM
+MIST,Milestone Pharmaceuticals Inc.,Healthcare,Micro-Cap,1343904,NMS
+CBAT,CBAK Energy Technology Limited,Industrials,Micro-Cap,503861,NCM
+VIOT,"Viomi Technology Co., Ltd",Consumer Cyclical,Micro-Cap,1388431,NMS
+TNXP,Tonix Pharmaceuticals Holding C,Healthcare,Micro-Cap,679121,NMS
+TLSA,Tiziana Life Sciences Ltd,Healthcare,Micro-Cap,756685,NCM
+STEX,Streamex Corp.,Financial Services,Micro-Cap,1032960,NCM
+TNYA,"Tenaya Therapeutics, Inc.",Healthcare,Micro-Cap,2828960,NCM
+SUIG,Sui Group Holdings Limited,Financial Services,Micro-Cap,747996,NCM
+PAL,"Proficient Auto Logistics, Inc.",Industrials,Micro-Cap,810231,NMS
+STXS,"Stereotaxis, Inc.",Healthcare,Micro-Cap,612266,ASE
+AMTX,"Aemetis, Inc",Basic Materials,Micro-Cap,1029848,NGM
+STFS,Star Fashion Culture Holdings L,Communication Services,Micro-Cap,564859,NCM
+HOVR,New Horizon Aircraft Ltd.,Industrials,Micro-Cap,596232,NCM
+SAIQ,WISeSat.Space Holdings Corp.,Industrials,Micro-Cap,3393135,NCM
+PSIG,PS International Group Ltd.,Industrials,Micro-Cap,1172843,NCM
+RANI,"Rani Therapeutics Holdings, Inc",Healthcare,Micro-Cap,577150,NGM
+BSIN,Big Sky Industrial Inc.,Energy,Micro-Cap,697349,NCM
+AMPG,"Amplitech Group, Inc.",Technology,Micro-Cap,1293785,NCM
+KULR,"KULR Technology Group, Inc.",Technology,Micro-Cap,794548,ASE
+LUCD,Lucid Diagnostics Inc.,Healthcare,Micro-Cap,4945159,NCM
+RENT,"Rent the Runway, Inc.",Consumer Cyclical,Micro-Cap,718893,NGM
+QTEX,QTREX Quantum Ltd.,Technology,Micro-Cap,9381648,NCM
+NPWR,NET Power Inc.,Industrials,Micro-Cap,719995,NYQ
+CRBP,Corbus Pharmaceuticals Holdings,Healthcare,Micro-Cap,1050059,NCM
+SLQT,"SelectQuote, Inc.",Financial Services,Micro-Cap,1335814,NYQ
+SPWR,SunPower Inc.,Technology,Micro-Cap,8244253,NGM
+CHGG,"Chegg, Inc.",Consumer Defensive,Micro-Cap,946571,NYQ
+WRAP,"Wrap Technologies, Inc.",Technology,Micro-Cap,638709,NCM
+DGNX,Diginex Limited,Technology,Micro-Cap,556939,NCM
+HOST,Host Digital Inc.,Technology,Micro-Cap,582536,ASE
+HYPR,"Hyperfine, Inc.",Healthcare,Micro-Cap,751176,NGM
+DVLT,Datavault AI Inc.,Technology,Micro-Cap,54045989,NCM
+BMGL,Basel Medical Group Ltd,Healthcare,Micro-Cap,942457,NCM
+MBOT,Microbot Medical Inc.,Healthcare,Micro-Cap,758435,NCM
+AISP,"Airship AI Holdings, Inc",Technology,Micro-Cap,1140578,NGM
+SWVL,Swvl Holdings Corp,Industrials,Micro-Cap,1470048,NCM
+SDEV,Stablecoin Development Corporat,Financial Services,Micro-Cap,16567430,ASE
+TYGO,"Tigo Energy, Inc.",Technology,Micro-Cap,778243,NCM
+TENX,"Tenax Therapeutics, Inc.",Healthcare,Micro-Cap,5583630,NCM
+INVZ,Innoviz Technologies Ltd.,Consumer Cyclical,Micro-Cap,2976114,NCM
+MB,MasterBeef Group,Consumer Cyclical,Micro-Cap,542709,NCM
+PCLA,PicoCELA Inc.,Communication Services,Micro-Cap,881995,NCM
+SAFX,"XCF Global, Inc.",Utilities,Nano-Cap,9783765,NCM
+CRDF,"Cardiff Oncology, Inc.",Healthcare,Micro-Cap,636392,NCM
+CGTX,"Cognition Therapeutics, Inc.",Healthcare,Micro-Cap,503046,NCM
+BBCI,Bradbury Capital Inc.,Technology,Micro-Cap,1054800,NGM
+UPXI,"Upexi, Inc.",Communication Services,Micro-Cap,3172968,NCM
+EVTL,Vertical Aerospace Ltd.,Industrials,Micro-Cap,6841095,NYQ
+QUCY,Quantum Cyber N.V.,Healthcare,Micro-Cap,611681,NCM
+CAST,"FreeCast, Inc.",Communication Services,Micro-Cap,4115315,NGM
+ZYBT,Zhengye Biotechnology Holding L,Healthcare,Micro-Cap,827348,NCM
+SPRO,"Spero Therapeutics, Inc.",Healthcare,Micro-Cap,567445,NMS
+BLNK,Blink Charging Co.,Industrials,Micro-Cap,1413553,NCM
+AMOD,"Alpha Modus Holdings, Inc.",Technology,Micro-Cap,6445445,NCM
+RNXT,"RenovoRx, Inc.",Healthcare,Micro-Cap,797929,NCM
+YDDL,One and One Green Technologies.,Industrials,Micro-Cap,604223,NCM
+GRML,Greenland Mines Ltd,Basic Materials,Micro-Cap,8883746,NCM
+VERI,"Veritone, Inc.",Technology,Nano-Cap,4759467,NGM
+JZXN,"Jiuzi Holdings, Inc.",Consumer Cyclical,Micro-Cap,977471,NCM
+THRY,"Thryv Holdings, Inc.",Technology,Micro-Cap,671339,NCM
+AZI,Autozi Internet Technology (Glo,Consumer Cyclical,Nano-Cap,1277959,NCM
+LFS,"LEIFRAS Co., Ltd.",Communication Services,Nano-Cap,609885,NCM
+ARBE,Arbe Robotics Ltd.,Technology,Micro-Cap,2843332,NCM
+OSTX,OS Therapies Incorporated,Healthcare,Nano-Cap,655414,ASE
+HRTX,"Heron Therapeutics, Inc.",Healthcare,Micro-Cap,2437390,NCM
+FBDT,First Breach Inc.,Industrials,Nano-Cap,2249278,NCM
+IBIO,"iBio, Inc.",Healthcare,Nano-Cap,700769,NCM
+VIVO,VivoPower PLC,Technology,Micro-Cap,637504,NCM
+BTCS,BTCS Inc.,Financial Services,Nano-Cap,1731616,NCM
+WWR,"Westwater Resources, Inc.",Basic Materials,Micro-Cap,3384223,ASE
+WNW,Meiwu Technology Company Limite,Consumer Cyclical,Micro-Cap,561262,NCM
+HOWL,"Werewolf Therapeutics, Inc.",Healthcare,Nano-Cap,6684398,NCM
+ONCY,Oncolytics Biotech Inc.,Healthcare,Micro-Cap,1070870,NCM
+GANX,"Gain Therapeutics, Inc.",Healthcare,Nano-Cap,506945,NGM
+CIGL,Concorde International Group Lt,Industrials,Nano-Cap,2125932,NCM
+CNTB,Connect Biopharma Holdings Limi,Healthcare,Nano-Cap,3986278,NGM
+GENK,"GEN Restaurant Group, Inc.",Consumer Cyclical,Nano-Cap,1140009,NGM
+ANVS,"Annovis Bio, Inc.",Healthcare,Nano-Cap,1423354,NYQ
+BMEA,"Biomea Fusion, Inc.",Healthcare,Nano-Cap,2153718,NMS
+CRBU,"Caribou Biosciences, Inc.",Healthcare,Nano-Cap,2635221,NMS
+BATL,Battalion Oil Corporation,Energy,Nano-Cap,4162475,ASE
+CANG,Cango Inc.,Financial Services,Nano-Cap,1234325,NYQ
+CTM,"Castellum, Inc.",Technology,Nano-Cap,624846,ASE
+MREO,Mereo BioPharma Group plc,Healthcare,Nano-Cap,3941639,NCM
+FJET,"Starfighters Space, Inc.",Industrials,Nano-Cap,1242904,ASE
+LIDR,"AEye, Inc.",Technology,Nano-Cap,2772248,NCM
+REKR,"Rekor Systems, Inc.",Technology,Nano-Cap,2017320,NCM
+PROP,Prairie Operating Co.,Energy,Nano-Cap,1618543,NCM
+MVIS,"Microvision, Inc.",Technology,Nano-Cap,1646530,NCM
+FSP,Franklin Street Properties Corp,Real Estate,Nano-Cap,828966,ASE
+AIOK,AI OKTO CORP.,Energy,Nano-Cap,6424710,NCM
+PAAI,"Paradium.AI, Inc.",Communication Services,Nano-Cap,2173040,ASE
+SMJF,SMJ International Holdings Inc.,Consumer Cyclical,Nano-Cap,1099501,ASE
+PFAI,Pinnacle Food Group Limited,Consumer Defensive,Nano-Cap,1137185,NCM
+SLND,"Southland Holdings, Inc.",Industrials,Nano-Cap,4311593,ASE
+NAMM,Namib Minerals,Basic Materials,Nano-Cap,1073137,NGM
+MNTS,Momentus Inc.,Industrials,Nano-Cap,767939,NCM
+XTNT,"Xtant Medical Holdings, Inc.",Healthcare,Nano-Cap,1678769,ASE
+XOS,"Xos, Inc.",Industrials,Nano-Cap,2799956,NCM
+XTIA,"XTI Aerospace, Inc.",Industrials,Nano-Cap,974534,NCM
+RDAC,Rising Dragon Acquisition Corp.,Financial Services,Nano-Cap,846506,NCM
+DAVI,DAVION HEALTHCARE PLC,Healthcare,Nano-Cap,2071518,NGM
+LGO,Largo Inc.,Basic Materials,Nano-Cap,831775,NMS
+LASE,Laser Photonics Corporation,Industrials,Nano-Cap,2605921,NCM
+ALDX,"Aldeyra Therapeutics, Inc.",Healthcare,Nano-Cap,1160773,NCM
+CVRX,"CVRx, Inc.",Healthcare,Nano-Cap,967676,NMS
+AIFC,AI Financial Corporation,Technology,Nano-Cap,819256,NCM
+AVAT,Avalanche Treasury Corporation,Financial Services,Nano-Cap,1143829,NCM
+EYPT,"EyePoint, Inc.",Healthcare,Nano-Cap,9114949,NGM
+MI,NFT Limited,Consumer Cyclical,Nano-Cap,4601895,ASE
+COSM,Cosmos Health Inc.,Healthcare,Nano-Cap,3012501,NCM
+STAK,STAK Inc.,Energy,Micro-Cap,3363392,NCM
+BZAI,"Blaize Holdings, Inc.",Technology,Nano-Cap,4360996,NGM
+FTFT,Future FinTech Group Inc.,Technology,Nano-Cap,5424708,NCM
+CIRC,"Circle8 Group, Inc.",Industrials,Nano-Cap,1292635,NGM
+GPUS,"Hyperscale Data, Inc.",Industrials,Nano-Cap,35105711,ASE
+FLNA,"Filana Therapeutics, Inc.",Healthcare,Nano-Cap,2016415,NCM
+VAI,Valor Energy Incorporated,Industrials,Nano-Cap,654771,NCM
+CABO,"Cable One, Inc.",Communication Services,Nano-Cap,547643,NYQ
+AARD,"Aardvark Therapeutics, Inc.",Healthcare,Nano-Cap,603032,NMS
+CELU,Celularity Inc.,Healthcare,Nano-Cap,3926528,NCM
+BYSI,"BeyondSpring, Inc.",Healthcare,Nano-Cap,890442,NCM
+CPHI,"China Pharma Holdings, Inc.",Healthcare,Nano-Cap,1810575,ASE
+FFR,FF EAI Robotics Ecosystem Inc.,Technology,Nano-Cap,2284276,NCM
+UAVS,"AgEagle Aerial Systems, Inc.",Technology,Nano-Cap,1525229,ASE
+DCGO,DocGo Inc.,Healthcare,Nano-Cap,796110,NCM
+TEAD,Teads Holding Co.,Communication Services,Nano-Cap,891712,NMS
+BRLS,Borealis Foods Inc.,Consumer Defensive,Nano-Cap,801532,NCM
+DUO,Fangdd Network Group Ltd.,Real Estate,Nano-Cap,1135843,NCM
+NNOX,NANO-X IMAGING LTD,Healthcare,Nano-Cap,1133203,NGM
+ONEG,OneConstruction Group Limited,Industrials,Nano-Cap,1914085,NCM
+TGE,The Generation Essentials Group,Financial Services,Nano-Cap,3363607,NYQ
+AAME,Atlantic American Corporation,Financial Services,Nano-Cap,859952,NGM
+TC,Token Cat Limited,Communication Services,Nano-Cap,826314,NCM
+FTCI,"FTC Solar, Inc.",Technology,Nano-Cap,1872970,NCM
+HUIZ,Huize Holding Limited,Financial Services,Nano-Cap,2026229,NGM
+JBDI,JBDI Holdings Limited,Consumer Cyclical,Nano-Cap,1854559,NCM
+INV,"Innventure, Inc.",Financial Services,Nano-Cap,7032084,NGM
+ZEO,Zeo Energy Corporation,Technology,Nano-Cap,11199092,NCM
+NCT,Intercont (Cayman) Limited,Industrials,Nano-Cap,581718,NCM
+MIRA,"MIRA Pharmaceuticals, Inc.",Healthcare,Nano-Cap,602092,NCM
+GNS,Genius Group Limited,Consumer Defensive,Nano-Cap,7764667,ASE
+ATCH,"AtlasClear Holdings, Inc.",Financial Services,Nano-Cap,4253157,ASE
+SDA,SunCar Technology Group Inc.,Consumer Cyclical,Nano-Cap,809809,NCM
+ACH,"Accendra Health, Inc.",Healthcare,Nano-Cap,2481996,NYQ
+IGC,"IGC Pharma, Inc.",Healthcare,Nano-Cap,761209,ASE
+EXYN,"Exyn Technologies, Inc.",Technology,Nano-Cap,883246,NCM
+QNRX,"Quoin Pharmaceuticals, Ltd.",Healthcare,Nano-Cap,544396,NCM
+SKYQ,Sky Quarry Inc.,Energy,Nano-Cap,1914723,NCM
+BAER,Bridger Aerospace Group Holding,Industrials,Nano-Cap,1029298,NGM
+SRXH,SRX Global Inc.,Consumer Defensive,Nano-Cap,701782,ASE
+PMI,"Picard Medical, Inc.",Healthcare,Nano-Cap,1624628,ASE
+BIRD,"Smartbird, Inc.",Technology,Nano-Cap,509760,NMS
+CNTX,Context Therapeutics Inc.,Healthcare,Nano-Cap,1554995,NCM
+RCON,"Recon Technology, Ltd.",Energy,Nano-Cap,664236,NCM
+AHT,Ashford Hospitality Trust Inc,Real Estate,Nano-Cap,627106,NYQ
+MRNO,Murano Global Investments PLC,Real Estate,Nano-Cap,7952643,NCM
+BEEM,Beam Global,Technology,Nano-Cap,1447990,NCM
+ARAY,Accuray Incorporated,Healthcare,Nano-Cap,7305961,NCM
+SAGT,SAGTEC GLOBAL LIMITED,Technology,Nano-Cap,964396,NCM
+ABOS,"Acumen Pharmaceuticals, Inc.",Healthcare,Nano-Cap,2419360,NMS
+BNGO,"Bionano Genomics, Inc.",Healthcare,Nano-Cap,947301,NCM
+KTTA,Pasithea Therapeutics Corp.,Healthcare,Nano-Cap,608696,NCM
+AIFF,"Firefly Neuroscience, Inc.",Technology,Nano-Cap,2621955,NCM
+ESLA,"Estrella Immunopharma, Inc.",Healthcare,Nano-Cap,1800809,NCM
+LHAI,Linkhome Holdings Inc.,Real Estate,Nano-Cap,1796300,NCM
+MDXH,MDxHealth SA,Healthcare,Nano-Cap,6226579,NCM
+PRZO,ParaZero Technologies Ltd.,Industrials,Nano-Cap,1811792,NCM
+AKAN,Akanda Corp.,Healthcare,Nano-Cap,1362100,NCM
+MYND,"Mynd.ai, Inc.",Consumer Defensive,Nano-Cap,1396179,ASE
+MERC,Mercer International Inc.,Basic Materials,Nano-Cap,14072169,NMS
+SST,"System1, Inc.",Industrials,Nano-Cap,550264,NYQ
+EONR,EON Resources Inc.,Energy,Nano-Cap,714090,ASE
+LGPS,LogProstyle Inc.,Industrials,Nano-Cap,1419754,ASE
+ARTW,"Art's-Way Manufacturing Co., In",Industrials,Nano-Cap,527129,NCM
+QNME,"Quanome Technologies, Inc.",Industrials,Nano-Cap,12537631,NCM
+SLE,"Super League Enterprise, Inc.",Communication Services,Nano-Cap,1331325,NCM
+BIVI,BioVie Inc.,Healthcare,Nano-Cap,4677400,NCM
+FGI,FGI Industries Ltd.,Consumer Cyclical,Nano-Cap,1710087,NCM
+COOT,Australian Oilseeds Holdings Li,Consumer Defensive,Nano-Cap,1746809,NCM
+SUNE,"SUNation Energy, Inc.",Technology,Nano-Cap,2508867,NCM
+AZIO,"Azio AI Holdings, Inc.",Technology,Nano-Cap,516001,NCM
+CHOW,ChowChow Cloud International Ho,Technology,Nano-Cap,10060239,ASE
+ZTG,Zenta Group Company Limited,Industrials,Nano-Cap,7193048,NCM
+JYD,Jayud Global Logistics Limited,Industrials,Nano-Cap,752389,NCM
+FFTT,Masonglory Limited,Industrials,Nano-Cap,2488487,NCM
+AEON,"AEON Biopharma, Inc.",Healthcare,Nano-Cap,7688550,ASE
+LOOP,"Loop Industries, Inc.",Basic Materials,Nano-Cap,1601617,NGM
+HAIN,"The Hain Celestial Group, Inc.",Consumer Defensive,Nano-Cap,1975480,NCM
+MOBX,"Mobix Labs, Inc.",Technology,Nano-Cap,5987812,NCM
+LHSW,Lianhe Sowell International Gro,Technology,Nano-Cap,1172279,NCM
+GTEC,Greenland Technologies Holding ,Consumer Cyclical,Nano-Cap,539012,NCM
+VEEA,Veea Inc.,Technology,Small-Cap,8271133,NCM
+CLRO,"ClearOne, Inc.",Technology,Nano-Cap,3683213,NCM
+TCRX,"TScan Therapeutics, Inc.",Healthcare,Nano-Cap,745790,NGM
+SLGB,Smart Logistics Global Limited,Industrials,Nano-Cap,9817778,NCM
+SOAR,"SOAR AI, Inc.",Technology,Nano-Cap,51733623,ASE
+REFR,Research Frontiers Incorporated,Technology,Nano-Cap,1645772,NCM
+DARE,"Dare Bioscience, Inc.",Healthcare,Nano-Cap,510565,NCM
+LPCN,Lipocine Inc.,Healthcare,Nano-Cap,1812204,NCM
+FUSE,Fusemachines Inc.,Technology,Nano-Cap,997420,NGM
+NCPL,Netcapital Inc.,Financial Services,Nano-Cap,25482375,NCM
+REED,"Reed's, Inc.",Consumer Defensive,Nano-Cap,1149352,ASE
+MEGL,Magic Empire Global Limited,Financial Services,Nano-Cap,825595,NCM
+MMA,MIXED MARTIAL ARTS GROUP LIMITE,Consumer Cyclical,Nano-Cap,6792425,ASE
+FEMY,Femasys Inc.,Healthcare,Nano-Cap,741045,NCM
+DFNS,T3 Defense Inc.,Industrials,Nano-Cap,812112,NGM
+HUHU,HUHUTECH International Group In,Industrials,Nano-Cap,630964,NCM
+KSCP,"Knightscope, Inc.",Industrials,Nano-Cap,817231,NCM
+TURB,"Turbo Energy, S.A.",Technology,Nano-Cap,1729867,NCM
+BENF,Beneficient,Financial Services,Nano-Cap,9764846,NCM
+DOGZ,Dogness (International) Corpora,Consumer Cyclical,Nano-Cap,655000,NCM
+DTSS,Datasea Intelligent Technology ,Technology,Nano-Cap,3181928,NCM
+CNSY,"Cerenome, Inc.",Healthcare,Nano-Cap,611443,NCM
+CRMT,"America's Car-Mart, Inc.",Consumer Cyclical,Nano-Cap,512560,NMS
+ELOG,Eastern International Ltd.,Industrials,Nano-Cap,557012,NCM
+SDOT,Sadot Group Inc.,Consumer Defensive,Nano-Cap,936931,NCM
+CLWT,Euro Tech Holdings Company Limi,Industrials,Nano-Cap,1142778,NCM
+CMCT,Creative Media,Real Estate,Nano-Cap,560981,NCM
+GIXI,Gix Internet Ltd.,Technology,Nano-Cap,1106186,NCM
+FLUX,"Flux Power Holdings, Inc.",Industrials,Nano-Cap,3200229,NCM
+PBK,PowerBank Corporation,Industrials,Nano-Cap,1246503,NCM
+BFRG,"Bullfrog AI Holdings, Inc.",Healthcare,Nano-Cap,5367568,NCM
+TPST,"Tempest Therapeutics, Inc.",Healthcare,Nano-Cap,2586350,NCM
+XHLD,"TEN Holdings, Inc.",Communication Services,Nano-Cap,7831406,NCM
+TPET,Trio Petroleum Corp.,Energy,Nano-Cap,638128,ASE
+HPAI,Helport AI Limited,Technology,Nano-Cap,3503037,NCM
+AEMD,"Aethlon Medical, Inc.",Healthcare,Nano-Cap,2524270,NCM
+SEGG,Sports Entertainment Gaming Glo,Consumer Cyclical,Nano-Cap,706042,NGM
+MEDS,"DataMeds AI, Inc.",Healthcare,Nano-Cap,6525865,NCM
+FNGR,"FingerMotion, Inc.",Communication Services,Nano-Cap,41596114,NCM
+BIYA,Baiya International Group Inc.,Technology,Nano-Cap,2415642,NCM
+BTCT,BTC Digital Ltd.,Technology,Nano-Cap,10544734,NCM
+TOVX,"Theriva Biologics, Inc.",Healthcare,Nano-Cap,1973464,ASE
+NIVF,NewGenIvf Group Limited,Healthcare,Nano-Cap,1364142,NCM
+UCL,uCloudlink Group Inc.,Communication Services,Nano-Cap,1953100,NGM
+SURG,"SurgePays, Inc.",Communication Services,Nano-Cap,16251043,NCM
+CYCU,"Cycurion, Inc.",Technology,Nano-Cap,1318587,NGM
+RMCF,Rocky Mountain Chocolate Factor,Consumer Defensive,Nano-Cap,3317547,NCM
+NUR,Nuran Wireless Inc.,Technology,Nano-Cap,1535857,NCM
+YMT,Yimutian Inc.,Technology,Nano-Cap,1359697,NCM
+HUDI,"Huadi International Group Co., ",Basic Materials,Nano-Cap,1188053,NCM
+VTGN,"VistaGen Therapeutics, Inc.",Healthcare,Nano-Cap,10375234,NCM
+FRTT,Fort Technology Inc.,Consumer Defensive,Nano-Cap,5064234,NCM
+DDC,DDC Enterprise Limited,Consumer Defensive,Nano-Cap,5150568,ASE
+LUCY,"Innovative Eyewear, Inc.",Healthcare,Nano-Cap,3507404,NCM
+CHSN,Chanson International Holding,Consumer Cyclical,Nano-Cap,3603935,NCM
+IMRN,Immuron Limited,Healthcare,Nano-Cap,2063000,NCM
+RBNE,Robin Energy Ltd.,Energy,Nano-Cap,15984295,NCM
+ENSC,"Ensysce Biosciences, Inc.",Healthcare,Nano-Cap,1339282,NCM
+NAMI,Jinxin Technology Holding Compa,Communication Services,Nano-Cap,2301440,NCM
+ARAI,Arrive AI Inc.,Technology,Nano-Cap,4786440,NCM
+NIXX,"Nixxy, Inc.",Communication Services,Nano-Cap,554507,NCM
+SNTI,"Senti Biosciences Holdings, Inc",Healthcare,Nano-Cap,3552171,NCM
+WXM,WF International Limited,Industrials,Nano-Cap,738109,NCM
+SNES,"SenesTech, Inc.",Basic Materials,Nano-Cap,1055235,NCM
+TDIC,Dreamland Limited,Communication Services,Nano-Cap,1517201,NCM
+EVGN,Evogene Ltd.,Healthcare,Nano-Cap,1502210,NCM
+AIM,AIM ImmunoTech Inc.,Healthcare,Nano-Cap,4413786,ASE
+AXNX,Axonex AI Group Limited,Industrials,Nano-Cap,2007615,NCM
+WAFU,Wah Fu Education & Technology G,Consumer Defensive,Nano-Cap,1515467,NCM
+RAIN,Rain Enhancement Technologies H,Industrials,Nano-Cap,1253917,NCM
+OMH,Ohmyhome Limited,Real Estate,Nano-Cap,2085567,NCM
+LOBO,LOBO TECHNOLOGIES LTD.,Consumer Cyclical,Nano-Cap,3013807,NCM
+FTHM,Fathom Holdings Inc.,Real Estate,Nano-Cap,1249564,NCM
+YJ,Yunji Inc. - American Depositor,Consumer Cyclical,Nano-Cap,3694445,NCM
+PRSO,Peraso Inc.,Technology,Nano-Cap,4264360,NCM
+WKSP,"Worksport, Ltd.",Consumer Cyclical,Nano-Cap,3455014,NCM
+TCRT,"Alaunos Therapeutics, Inc.",Healthcare,Nano-Cap,7430126,NCM
+NCI,Neo-Concept International Group,Consumer Cyclical,Nano-Cap,1112445,NCM
+PLCE,"Children's Place, Inc. (The)",Consumer Cyclical,Nano-Cap,3263743,NMS
+MKDW,MKDWELL Tech Inc.,Consumer Cyclical,Nano-Cap,885293,NCM
+VNRX,VolitionRX Limited,Healthcare,Nano-Cap,8575092,ASE
+BGL,Blue Gold Limited,Basic Materials,Nano-Cap,872645,NGM
+BAOS,Baosheng Media Group Holdings L,Communication Services,Nano-Cap,5675473,NCM
+GYGY,"Game Your Game, Inc.",Technology,Nano-Cap,4696212,NCM
+YMAT,"J-Star Holding Co., Ltd.",Basic Materials,Nano-Cap,5424175,NCM
+GELS,Gelteq Limited,Healthcare,Nano-Cap,2850992,NCM
+AZTR,Azitra Inc,Healthcare,Nano-Cap,2650026,ASE
+TNON,"Tenon Medical, Inc.",Healthcare,Nano-Cap,6441942,NCM
+CRE,Cre8 Enterprise Limited,Industrials,Nano-Cap,1169237,NCM
+SPHL,SPRINGVIEW HOLDINGS LTD,Consumer Cyclical,Nano-Cap,1044989,NCM
+PLAG,Planet Green Holdings Corp.,Industrials,Nano-Cap,6409895,ASE
+DLXY,Delixy Holdings Limited,Energy,Nano-Cap,1239910,NCM
+VEEE,Twin Vee PowerCats Co.,Consumer Cyclical,Nano-Cap,542059,NCM
+CELZ,Creative Medical Technology Hol,Healthcare,Nano-Cap,1806610,NCM
+GDC,GD Culture Group Limited,Communication Services,Nano-Cap,1143564,NCM
+CENN,Cenntro Inc.,Consumer Cyclical,Nano-Cap,2078631,NCM
+CHAI,"Core AI Holdings, Inc.",Communication Services,Nano-Cap,5468057,NCM
+GXAI,Gaxos.ai Inc.,Communication Services,Nano-Cap,2285748,NCM
+AUUD,Auddia Inc.,Technology,Nano-Cap,3250440,NCM
+TRAW,"Traws Pharma, Inc.",Healthcare,Nano-Cap,584782,NCM
+BTTC,Black Titan Corp,N/A,Nano-Cap,11921507,NCM
+BKYI,"BIO-key International, Inc.",Industrials,Nano-Cap,5363203,NCM
+MGRX,"Mangoceuticals, Inc.",Healthcare,Nano-Cap,1474837,NCM
+JWEL,Jowell Global Ltd.,Consumer Cyclical,Nano-Cap,1393487,NCM
+CRIS,"Curis, Inc.",Healthcare,Nano-Cap,3889515,NCM
+CWD,CaliberCos Inc.,Financial Services,Nano-Cap,1886134,NCM
+ZCMD,Zhongchao Inc.,Healthcare,Nano-Cap,695218,NCM
+AUID,authID Inc.,Technology,Nano-Cap,1060837,NCM
+APUS,"Apimeds Pharmaceuticals US, Inc",Healthcare,Nano-Cap,3757251,ASE
+DRMA,"Dermata Therapeutics, Inc.",Healthcare,Nano-Cap,3438189,NCM
+CCTG,CCSC Technology International H,Industrials,Nano-Cap,1254690,NCM
+KNRX,KNOREX LTD.,Technology,Nano-Cap,7495509,ASE
+POM,POMDOCTOR LIMITED,Healthcare,Nano-Cap,2008887,NGM
+OLB,"The OLB Group, Inc.",Technology,Nano-Cap,30179607,NCM
+SOS,SOS Limited,Financial Services,Nano-Cap,1220084,NYQ
+OPTT,"Ocean Power Technologies, Inc.",Industrials,Nano-Cap,548479,ASE
+BIAF,"bioAffinity Technologies, Inc.",Healthcare,Nano-Cap,3725022,NCM
+VVOS,"Vivos Therapeutics, Inc.",Healthcare,Nano-Cap,14371451,NCM
+FAMI,"Farmmi, Inc. Ordinary Shares",Consumer Defensive,Nano-Cap,25878473,NCM
+RDHL,Redhill Biopharma Ltd.,Healthcare,Nano-Cap,2076398,NCM
+XPON,"Expion Energy, Inc.",Industrials,Nano-Cap,2493148,NCM
+YYAI,AiRWA Inc.,Technology,Nano-Cap,1234671,NCM
+BQ,Boqii Holding Limited,Consumer Cyclical,Nano-Cap,1980500,ASE
+HODO,House of Doge Inc.,Technology,Nano-Cap,15311131,NCM
+NCRA,"Nocera, Inc.",Consumer Defensive,Nano-Cap,1340320,NCM
+MTEK,Maris-Tech Ltd.,Technology,Nano-Cap,903993,NCM
+KALA,"KALA BIO, Inc.",Healthcare,Nano-Cap,1518606,NCM
+QCLS,"Q/C Technologies, Inc.",Technology,Nano-Cap,4970596,NCM
+WCT,Wellchange Holdings Company Lim,Technology,Nano-Cap,695889,NCM
+SHFS,"SHF Holdings, Inc.",Financial Services,Nano-Cap,48566218,NCM
+MTEN,Mingteng International Corporat,Industrials,Nano-Cap,2650671,NCM
+WFF,WF Holding Limited,Industrials,Nano-Cap,1838219,NCM
+RCT,RedCloud Holdings plc,Technology,Nano-Cap,20661240,NCM
+AMIX,"Autonomix Medical, Inc.",Healthcare,Nano-Cap,875498,NCM
+JUNS,"Jupiter Neurosciences, Inc.",Healthcare,Nano-Cap,896621,NCM
+BDMD,Baird Medical Investment Holdin,Healthcare,Nano-Cap,9317612,NCM
+HLSQ,Tessera Defense and Homeland Se,Technology,Nano-Cap,942311,ASE
+CDTG,CDT Environmental Technology In,Industrials,Nano-Cap,4284357,NCM
+CYAB,"Cyabra, Inc.",Technology,Nano-Cap,7511221,NGM
+RMSG,Real Messenger Corporation,Technology,Nano-Cap,1084176,NCM
+WBUY,WEBUY GLOBAL LTD.,Consumer Cyclical,Nano-Cap,2992685,NCM
+TOPP,Toppoint Holdings Inc.,Industrials,Nano-Cap,10826903,ASE
+RDGT,"Ridgetech, Inc.",Healthcare,Nano-Cap,1346252,NCM
+TNMG,TNL Mediagene,Communication Services,Nano-Cap,2293920,NCM
+DAIC,"CID HoldCo, Inc.",Technology,Nano-Cap,8309379,NGM
+IVDA,"Iveda Solutions, Inc.",Industrials,Nano-Cap,4739981,NCM
+FLYE,"Fly-E Group, Inc.",Consumer Cyclical,Nano-Cap,4622440,NCM
+EHGO,Eshallgo Inc.,Industrials,Nano-Cap,664676,NCM
+SGLY,Singularity Future Technology L,Industrials,Nano-Cap,2087229,NCM
+VCIG,VCI Global Limited,Industrials,Nano-Cap,4377561,NCM
+FCDH,Forcendra Holding Limited,Communication Services,Nano-Cap,708228,NCM
+CTNT,Cheetah Net Supply Chain Servic,Industrials,Nano-Cap,581760,NCM
+SGRX,SANGRIX INC.,Technology,Nano-Cap,6053534,NCM
+DFSC,DEFSEC Technologies Inc.,Industrials,Nano-Cap,2532840,NCM
+XELB,"Xcel Brands, Inc",Consumer Cyclical,Nano-Cap,705526,NCM
+TGL,Treasure Global Inc.,Technology,Nano-Cap,7511951,NCM
+POLA,"Polar Power, Inc.",Industrials,Nano-Cap,569740,NCM
+ZNB,Zeta Network Group,Communication Services,Nano-Cap,2867547,NCM
+DXST,Decent Holding Inc.,Industrials,Nano-Cap,971787,NCM
+ELPW,Elong Power Holding Limited,Industrials,Nano-Cap,2021276,NCM
+DCOY,Decoy Therapeutics Inc.,Healthcare,Nano-Cap,2161956,NCM
+JZ,Jianzhi Education Technology Gr,Technology,Nano-Cap,7195226,NCM
+SCKT,"Socket Mobile, Inc.",Technology,Nano-Cap,9428841,NCM
+HXHX,Haoxin Holdings Limited,Industrials,Nano-Cap,2965925,NCM
+PMAX,Powell Max Limited,Financial Services,Nano-Cap,1927671,NCM
+ADGM,"Adagio Medical Holdings, Inc",Healthcare,Nano-Cap,1979493,NCM
+FFAI,Faraday Future Intelligent Elec,Consumer Cyclical,Nano-Cap,3149081,NCM
+ZBAO,Zhibao Technology Inc.,Financial Services,Nano-Cap,841733,NCM
+VIVS,"VivoSim Labs, Inc.",Healthcare,Nano-Cap,2606076,NCM
+CJMB,Callan JMB Inc.,Industrials,Nano-Cap,3794634,NCM
+SLXN,Silexion Therapeutics Corp,Healthcare,Nano-Cap,10258057,NCM
+BURU,"Nuburu, Inc.",Industrials,Nano-Cap,24914771,ASE
+NUWE,"Nuwellis, Inc.",Healthcare,Nano-Cap,833907,NCM
+IVF,"INVO Fertility, Inc.",Healthcare,Nano-Cap,542287,NCM
+ISPC,iSpecimen Inc.,Healthcare,Nano-Cap,727384,NCM
+KPTI,Karyopharm Therapeutics Inc.,Healthcare,Nano-Cap,4318123,NMS
+CETX,Cemtrex Inc.,Technology,Nano-Cap,681628,NCM
+EDVA,"Endovia Health Sciences, Inc.",Healthcare,Nano-Cap,3380978,ASE
+AGMH,AGM Group Holdings Inc.,Technology,Nano-Cap,2037682,NCM
+WORX,SCWorx Corp.,Healthcare,Nano-Cap,3823320,NCM
+BOXL,Boxlight Corporation,Technology,Nano-Cap,1269871,NCM
+JDZG,JIADE LIMITED,Consumer Defensive,Nano-Cap,2463089,NCM
+RIME,"Algorhythm Holdings, Inc.",Technology,Nano-Cap,4042567,NCM
+PPBT,Purple Biotech Ltd.,Healthcare,Nano-Cap,1276073,NCM
+IPST,"IP Strategy Holdings, Inc.",Financial Services,Nano-Cap,2752534,NCM
+XRTX,XORTX Therapeutics Inc.,Healthcare,Nano-Cap,723240,NCM
+PARA,"Parabolic Technologies, Inc.",Technology,Nano-Cap,3001255,NCM
+GSUN,Golden Sun Technology Group Lim,Consumer Defensive,Nano-Cap,4190534,NCM
+FRGT,"Freight Technologies, Inc.",Technology,Nano-Cap,1656486,NCM
+LGCL,Lucas GC Limited,Technology,Nano-Cap,1030316,NCM
+AIXI,XIAO-I Corporation,Technology,Nano-Cap,5870509,NGM
+CISS,C3is Inc.,Industrials,Nano-Cap,1054503,NCM
+GOVX,"GeoVax Labs, Inc.",Healthcare,Nano-Cap,810012,NCM
+OFAL,OFA Group,Industrials,Nano-Cap,12120884,NCM
+NXL,"Nexalin Technology, Inc.",Healthcare,Nano-Cap,1033799,NCM
+SSM,Sono Group N.V.,Consumer Cyclical,Nano-Cap,2811903,NCM
+BDRX,Biodexa Pharmaceuticals plc,Healthcare,Nano-Cap,619576,NCM
+VRAX,Virax Biolabs Group Limited,Healthcare,Nano-Cap,608798,NCM
+EDBL,Edible Garden AG Incorporated,Consumer Defensive,Nano-Cap,537582,NCM
+JAGX,"Jaguar Health, Inc.",Healthcare,Nano-Cap,2285106,NCM
+MNDR,Mobile-health Network Solutions,Healthcare,Nano-Cap,3536528,NCM
+OLOX,Olenox Industries Inc.,Industrials,Nano-Cap,6265295,NCM
+NXAT,Nexus Advanced Technologies Inc,Industrials,Nano-Cap,571696,NCM
+SCNI,Scinai Immunotherapeutics Ltd.,Healthcare,Nano-Cap,2150533,NCM
+IMCC,IM Cannabis Corp.,Healthcare,Nano-Cap,2727121,NCM
+VJET,"Flyte Aviation, Inc.",Industrials,Nano-Cap,622706,ASE
+FCHL,Fitness Champs Holdings Limited,Consumer Defensive,Nano-Cap,1088023,NCM
+VBIO,"Valion Bio, Inc.",Healthcare,Nano-Cap,1983688,NCM
+ONFO,Onfolio Holdings Inc.,Communication Services,Nano-Cap,1871973,NCM
+LBGJ,Li Bang International Corporati,Industrials,Nano-Cap,512057,NCM
+CHGA,Change Agents Corporation,Real Estate,Nano-Cap,686221,NCM
+YFOR,YYForce Inc.,Industrials,Nano-Cap,5309542,NCM
+MYSZ,"My Size, Inc.",Consumer Cyclical,Nano-Cap,763474,NCM
+IPDN,"Professional Diversity Network,",Industrials,Nano-Cap,11040865,NCM
+TRUG,"TruGolf Holdings, Inc.",Communication Services,Nano-Cap,2008257,NCM
+RETO,"ReTo Eco-Solutions, Inc.",Basic Materials,Nano-Cap,2013825,NCM
+GIPR,Generation Income Properties In,Real Estate,Nano-Cap,19791779,NCM
+LNKS,Linkers Industries Limited,Industrials,Nano-Cap,2699715,NCM
+WETO,Wetour Robotics Limited,Technology,Nano-Cap,8142159,NCM
+BRNX,BrenX Ltd.,Utilities,Nano-Cap,962585,NCM
+MSS,Maison Solutions Inc.,Consumer Defensive,Nano-Cap,3372226,NCM
+NTCL,NETCLASS TECHNOLOGY INC,Technology,Nano-Cap,2769990,NCM
+DXF,Dunxin Financial Holdings Limit,Financial Services,Nano-Cap,1222169,ASE
+DBGI,"Digital Brands Group, Inc.",Consumer Cyclical,Nano-Cap,804001,NCM
+WHLR,Wheeler Real Estate Investment ,Real Estate,Nano-Cap,857693,NCM
+STKH,Steakholder Foods Ltd.,Consumer Defensive,Nano-Cap,2627323,NCM
+VIVK,"Vivakor, Inc.",Energy,Nano-Cap,1195780,NCM
+GMEX,GMEX ROBOTICS CORPORATION,Technology,Nano-Cap,601514,NCM
+LABT,Lakewood-Amedex Biotherapeutics,Healthcare,Nano-Cap,14189243,NCM
+SUGP,SU Group Holdings Limited,Industrials,Nano-Cap,992413,NCM
+PFSA,"Profusa, Inc.",Healthcare,Nano-Cap,3524963,NCM
+RKDA,"Arcadia Biosciences, Inc.",Consumer Defensive,Nano-Cap,1977173,NCM
+SPRC,SciSparc Ltd.,Healthcare,Nano-Cap,1355226,NCM
+GCDT,Green Circle Decarbonize Techno,Industrials,Nano-Cap,5383937,ASE
+INLF,INLIF LIMITED,Industrials,Nano-Cap,15411232,NCM
+SMTK,"SmartKem, Inc.",Technology,Nano-Cap,609083,NCM
+SRTM,Stratum Holdings Corp.,Real Estate,Nano-Cap,2444536,NCM
+HUBC,Hub Cyber Security Ltd.,Technology,Nano-Cap,11194622,NCM
+LGHL,Lion Group Holding Ltd.,Financial Services,Nano-Cap,597981,NCM
+DKI,DarkIris Inc.,Communication Services,Nano-Cap,1216658,NCM
+MSBT,Common,N/A,Nano-Cap,668564,PCX
+SLV,iShares Silver Trust,N/A,Nano-Cap,17148338,PCX
+ETHB,iShares Staked Ethereum Trust E,N/A,Nano-Cap,503862,NGM
+IAU,iShares Gold Trust Shares,N/A,Nano-Cap,4962553,PCX
+EVV,316100,Financial Services,Small-Cap,690516,ASE
+SPY,State Street SPDR S&P 500 ETF T,N/A,Nano-Cap,42646873,PCX
+AIB,AIB Data Centers Inc.,Technology,Micro-Cap,1769179,ASE
+DSS,"DSS, Inc.",Consumer Cyclical,Nano-Cap,1900672,ASE
+XRPZ,Franklin XRP ETF,N/A,Nano-Cap,645887,PCX
+ETHA,iShares Ethereum Trust ETF,N/A,Nano-Cap,12394215,NGM
+IAUM,iShares Gold Trust Micro Shares,N/A,Nano-Cap,3038312,PCX
+XRP,Bitwise XRP ETF,N/A,Nano-Cap,1616535,PCX
+VGZ,Vista Gold Corp,Basic Materials,Nano-Cap,2004864,ASE
+JQC,N/A,Financial Services,Nano-Cap,685275,NYQ
+JFR,N/A,Financial Services,Nano-Cap,782892,NYQ
+GBTC,Grayscale Bitcoin Trust (BTC),N/A,Nano-Cap,1861326,PCX
+BTC,Grayscale Bitcoin Mini Trust (B,N/A,Nano-Cap,1785306,PCX
+SKHY,SK hynix Inc.,Technology,Mega-Cap,21012143,NMS
+ITT,ITT Inc.,Industrials,Large-Cap,793413,NYQ
+ETHE,Grayscale Ethereum Staking ETF ,N/A,Nano-Cap,2557537,PCX
+UUP,Invesco DB USD Index Bullish Fu,N/A,Nano-Cap,1579696,PCX
+ICL,ICL Group Ltd.,Basic Materials,Nano-Cap,1457854,NYQ
+USA,N/A,Financial Services,Nano-Cap,1177704,NYQ
+NAC,N/A,Financial Services,Nano-Cap,1134787,NYQ
+MSM,"MSC Industrial Direct Company, ",Industrials,Mid-Cap,808504,NYQ
+HIO,Western Asset High Income Oppor,Financial Services,Small-Cap,556260,NYQ
+THM,"International Tower Hill Mines,",Basic Materials,Nano-Cap,1084881,ASE
+GLD,SPDR Gold Shares,N/A,Nano-Cap,9767432,PCX
+BITB,Bitwise Bitcoin ETF,N/A,Nano-Cap,1124715,PCX
+SGOL,abrdn Physical Gold Shares ETF,N/A,Nano-Cap,2551980,PCX
+BNO,"United States Brent Oil Fund, L",N/A,Nano-Cap,1858160,PCX
+GSG,iShares GSCI Commodity-Indexed ,N/A,Nano-Cap,1507318,PCX
+PMT,PennyMac Mortgage Investment Tr,Real Estate,Nano-Cap,2148132,NYQ
+TSM,Taiwan Semiconductor Manufactur,Technology,Mega-Cap,11207387,NYQ
+UNG,United States Natural Gas Fund ,N/A,Nano-Cap,21434206,PCX
+BSOL,Bitwise Solana Staking ETF,N/A,Nano-Cap,3620737,PCX
+WDS,Woodside Energy Group Limited,Energy,Nano-Cap,569540,NYQ
+GSM,Ferroglobe PLC,Basic Materials,Nano-Cap,1367829,NCM
+GLDM,SPDR Gold MiniShares Trust,N/A,Nano-Cap,4740406,PCX
+USO,United States Oil Fund,N/A,Nano-Cap,5351750,PCX
+IBIT,iShares Bitcoin Trust ETF,N/A,Nano-Cap,47921859,NGM
+ADBT,"Advasa Holdings, Inc.",Technology,Nano-Cap,28642846,NGM
+DBC,Invesco DB Commodity Index Trac,N/A,Nano-Cap,822295,PCX
+PPLT,abrdn Physical Platinum Shares ,N/A,Nano-Cap,2306660,PCX
+LTM,LATAM Airlines Group S.A.,Industrials,Large-Cap,849310,NYQ
+PALL,abrdn Physical Palladium Shares,N/A,Nano-Cap,952330,PCX
+ETHW,Bitwise Ethereum ETF,N/A,Nano-Cap,677078,PCX
+SIVR,abrdn Physical Silver Shares ET,N/A,Nano-Cap,1795850,PCX
+MDY,State Street SPDR S&P MIDCAP 40,N/A,Nano-Cap,651900,PCX
+YRD,Yiren Digital Ltd.,Financial Services,Nano-Cap,2260985,NYQ
+SPCX,Space Exploration Technologies ,Industrials,Mega-Cap,99969914,NMS
+GSOL,Grayscale Solana Staking ETF,N/A,Nano-Cap,2488520,PCX
+GLNK,Grayscale Chainlink Trust ETF,N/A,Nano-Cap,504270,PCX
+DBA,Invesco DB Agriculture Fund,N/A,Nano-Cap,1207320,PCX
+DBO,Invesco DB Oil Fund,N/A,Nano-Cap,524741,PCX
+DIA,State Street SPDR Dow Jones Ind,N/A,Nano-Cap,3419046,PCX
+OUNZ,VanEck Merk Gold ETF,N/A,Nano-Cap,610862,PCX
+TX,Ternium S.A. Ternium S.A.,Basic Materials,Nano-Cap,525344,NYQ
+ETH,Grayscale Ethereum Staking Mini,N/A,Nano-Cap,2983365,PCX
+MRX,Marex Group Limited,Financial Services,Nano-Cap,740473,NMS
+GOOG,Alphabet Inc.,Communication Services,Mega-Cap,19041815,NMS
+PBR-A,Petroleo Brasileiro S.A. Petrob,Energy,Large-Cap,9730086,NYQ
+TRP,TC Energy Corporation,Energy,Large-Cap,2600121,NYQ
+KVUE,Kenvue Inc.,Consumer Defensive,Large-Cap,22271216,NYQ
+BIP,Brookfield Infrastructure Partn,Utilities,Large-Cap,822307,NYQ
+FOX,Fox Corporation,Communication Services,Large-Cap,1019070,NMS
+FWONK,Liberty Media Corporation - Ser,Communication Services,Large-Cap,2343879,NMS
+Z,"Zillow Group, Inc.",Communication Services,Mid-Cap,4202032,NMS
+NWS,News Corporation,Communication Services,Large-Cap,1099153,NMS
+ACA,"Arcosa, Inc.",Industrials,Mid-Cap,634055,NYQ
+INDV,"Indivior Pharmaceuticals, Inc.",Healthcare,Mid-Cap,2291434,NMS
+LXP,LXP Industrial Trust,Real Estate,Mid-Cap,940046,NYQ
+BATRK,"Atlanta Braves Holdings, Inc. -",Communication Services,Mid-Cap,519918,NMS
+CBZ,"CBIZ, Inc.",Industrials,Mid-Cap,1273916,NYQ
+LBTYK,Liberty Global Ltd.,Communication Services,Mid-Cap,1899843,NMS
+SIX,N/A,N/A,Nano-Cap,1929800,ASE
+RAMP,"LiveRamp Holdings, Inc.",Technology,Mid-Cap,1357905,NYQ
+UA,"Under Armour, Inc.",Consumer Cyclical,Mid-Cap,2569505,NYQ
+LILAK,Liberty Latin America Ltd.,Communication Services,Small-Cap,1492873,NMS
+WEAV,"Weave Communications, Inc.",Healthcare,Small-Cap,3122161,NYQ
+CDZI,"Cadiz, Inc.",Industrials,Small-Cap,1160558,NGM
+ARI,Apollo Commercial Real Estate F,Real Estate,Small-Cap,4008603,NYQ
+SITC,SITE Centers Corp.,Real Estate,Nano-Cap,1904091,NYQ
+STRC,Strategy Inc - Variable Rate Se,Technology,Nano-Cap,1587623,NMS
+BEAT,"Heartbeam, Inc.",Healthcare,Nano-Cap,7487760,NCM
+MSGY,Masonglory Limited,Industrials,Nano-Cap,2486752,NCM
+VSME,VS Media Holdings Limited,Communication Services,Nano-Cap,709008,NCM
+ELME,Elme Communities,Real Estate,Nano-Cap,1563123,NYQ
+ORCL-PD,Oracle Corporation Depositary S,Technology,Nano-Cap,698237,NYQ
+BA-PA,Boeing Company (The) Depositary,N/A,Nano-Cap,773462,NYQ
+SCQCU,SPACCircle Acquisition Corp.,Financial Services,Nano-Cap,662675,NGM
+METAM,"Meta Platforms, Inc. - Deposita",N/A,Nano-Cap,19861262,NMS
+OPENL,N/A,,Nano-Cap,912182,NMS
+OPENZ,N/A,,Nano-Cap,1174121,NMS
+OPENW,N/A,,Nano-Cap,1309345,NMS
+FNGU,MicroSectors FANG+ 3X Leveraged,N/A,Nano-Cap,3032437,PCX
+BULZ,MicroSectors FANG & Innovation ,N/A,Nano-Cap,563801,PCX
+SPYU,MAX S&P 500 4X Leveraged ETNs d,N/A,Nano-Cap,729525,PCX
+SHNY,MicroSectors Gold 3X Leveraged ,N/A,Nano-Cap,1268665,PCX
+GDXD,MicroSectors Gold Miners -3X In,N/A,Nano-Cap,2536265,PCX
+GDXU,MicroSectors Gold Miners 3X Lev,N/A,Nano-Cap,1823275,PCX
+BHAIU,BHAV Acquisition Corp II Unit,Financial Services,Nano-Cap,987650,NGM
+DUKU,Duke Energy Corporation Corpora,Utilities,Nano-Cap,790691,NYQ
+GOOGN,Alphabet Inc. - Depositary Shar,N/A,Nano-Cap,1506721,NMS
+GOOGM,Alphabet Inc. - Depositary Shar,N/A,Nano-Cap,1567039,NMS
+AGQ,ProShares Ultra Silver,N/A,Nano-Cap,2905064,PCX
+BOIL,ProShares Ultra Bloomberg Natur,N/A,Nano-Cap,6023389,PCX
+GLL,ProShares UltraShort Gold,N/A,Nano-Cap,3056264,PCX
+ZSL,ProShares UltraShort Silver,N/A,Nano-Cap,3535369,PCX
+UGL,ProShares Ultra Gold,N/A,Nano-Cap,2985258,PCX
+SCO,ProShares UltraShort Bloomberg ,N/A,Nano-Cap,5972006,PCX
+UCO,ProShares Ultra Bloomberg Crude,N/A,Nano-Cap,2435603,PCX
+KOLD,ProShares UltraShort Bloomberg ,N/A,Nano-Cap,2960870,PCX
+SMCIP,"Super Micro Computer, Inc. - De",Technology,Nano-Cap,682893,NMS
+WEAT,Teucrium Wheat Fund ETV,N/A,Nano-Cap,542738,PCX
+CPER,United States Copper Index Fund,N/A,Nano-Cap,503120,PCX
+ZCSH,The Zcash ETF Shares,N/A,Nano-Cap,1409509,PCX
